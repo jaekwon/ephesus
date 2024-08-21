@@ -398,7 +398,7 @@ witnesses, so that the population reduction agenda of the elites can play out
 as they wish. This is the most straightforward interpretation of what is
 presented, albiet in the disguised language of biblical stenography.
 
-# The Two Witnesses
+## The Two Witnesses
 
 Who are the two witnesses? Most people interpret the two witnesses to be two
 men. But it's not that; it is a puzzle to be solved.
@@ -428,7 +428,7 @@ the description of these beasts, that they will altogether exercise their
 authority to persecute religious testimony and activities by the two churches
 led by the two spirits.
 
-### The Harlot of Babylon
+## The Harlot of Babylon
 
 > So he carried me away in the spirit into the wilderness: and **I saw a woman
 > sit upon a scarlet coloured beast (the First Beast), full of names of
