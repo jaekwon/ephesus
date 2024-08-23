@@ -877,13 +877,31 @@ leaked emails on WikiLeaks)
 
 Babylon overflows in Washington D.C.
 
-# Kalergi Plan
+# Present Day
+
+The _Kalergi Plan_ is supposedly a "hoax" comparable to the "forged" _The
+Protocols of the Elders of Zion_. 
+
+Yet present day politics and geopolitics in western countries makes the
+"Kalergi Plan Hypothesis" appear remarkably true. Furthermore, even "forged"
+fictions can have sociological ramifications.
+
+## Kalergi Plan
 
 <img src="./images/kalergi_plan.png" />
 
 <img src="./images/kalergi_plan2.png" />
 
 # A Blackmail Network
+
+> "CIA and Mossad and pedo elite are running some kind of sex trafficking
+> entrapment blackmail ring out of Puerto Rico and caribbean islands. They are
+> going to frame me with a laptop planted by my ex gf who was a spy. They will
+> torture me to death."
+> - Nikolai Mushegian, October 28, 2022, co-founder of Ethereum's MakerDAO
+>   stablecoin project
+
+--
 
 <img src="./images/ian_trans1.jpg" />
 
