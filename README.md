@@ -877,22 +877,63 @@ leaked emails on WikiLeaks)
 
 Babylon overflows in Washington D.C.
 
-# Present Day
+### Babylon Worldwide
 
-The _Kalergi Plan_ is supposedly a "hoax" comparable to the "forged" _The
-Protocols of the Elders of Zion_. 
+#### Abramović
 
-Yet present day politics and geopolitics in western countries makes the
-"Kalergi Plan Hypothesis" appear remarkably true. Furthermore, even "forged"
-fictions can have sociological ramifications.
+> **Volodymyr Zelensky has asked Marina Abramović, the performance artist, to
+> be an ambassador for Ukraine**.
+> 
+> Ms Abramović, a fierce critic of Vladimir Putin’s illegal invasion, said
+> **the Ukrainian president had asked for her help in rebuilding schools**.
+> The 76-year-old Serbian is holding her first solo exhibition in the UK and is
+> the first female artist to have a major show in the Main Galleries of the
+> Royal Academy of Arts in London.
+> - The Telegraph, James Crisp 2023
 
-## Kalergi Plan
+<img src="./images/abramovic1.jpg" />
 
-<img src="./images/kalergi_plan.png" />
+<img src="./images/abramovic2.png" />
 
-<img src="./images/kalergi_plan2.png" />
 
-# A Blackmail Network
+## Free Speech vs Assisting Harm
+
+<img src="./images/telegram_arrest.jpg" />
+
+"Telegram founder Pavel Durov is set to appear before a judge on Saturday
+evening, facing multiple charges, including terrorism, drug trafficking, fraud,
+money laundering, and child abuse content.  ... lack of content moderation and
+his failure to cooperate with French law enforcement." -- August 24th, 2024
+
+Allegations aside, this shows the difficulty of balancing the needs of freedom
+of speech enabling communications medium, with the needs for moderation.
+
+In Telegram it is trivial to make groups that aren't properly moderated. And
+the fact that the servers and client used to connect those engaged in illegal
+activity were all controlled by Telegram the company, makes Pavel Durov
+responsible for them.
+
+(The lack of moderation leading to "terrorism, drug trafficking, fraud, money
+laundering, and child abuse content" was known by the public to some degree;
+but to what degree the lack of modeation was intentional or recklessness or a
+difficulty of managing such a project, is not yet determined.)
+
+On the other hand, this also constitutes an attack on freedom of speech,
+because unfortunately Telegram is one of the few places where such
+conversations can still happen today. We clearly need better alternatives that
+handle the moderation and accountability problem differently.
+
+On the heels of the arrest of the Telegram founder is this from Chris
+Pavlovski, founder and CEO of Rumble. 
+
+<img src="rumble_threatened.jpg" />
+
+While it's curious that Telegram was founded by a WEF fellow, and Rumble was
+invested in by Peter Thiel; the timing of these events is ominous; almost
+exactly seven years after the revelation 12 encoded timestamp. We should expect
+the erosion of our speech tools to accelerate.
+
+## A Blackmail Network
 
 > "CIA and Mossad and pedo elite are running some kind of sex trafficking
 > entrapment blackmail ring out of Puerto Rico and caribbean islands. They are
@@ -901,16 +942,53 @@ fictions can have sociological ramifications.
 > - Nikolai Mushegian, October 28, 2022, co-founder of Ethereum's MakerDAO
 >   stablecoin project
 
---
+(is this for real or a joke?)
 
 <img src="./images/ian_trans1.jpg" />
-
 <img src="./images/ian_trans2.jpg" />
+
+## Kalergi Plan
+
+The _Kalergi Plan_ is supposedly a "hoax" comparable to the "forged" _The
+Protocols of the Elders of Zion_. 
+
+Yet present day politics and geopolitics in western countries makes the
+"Kalergi Plan Hypothesis" appear remarkably true, especially under the general
+attack on western Christianity. 
+
+Even "forged" fictions can have sociological ramifications.
+
+<img src="./images/kalergi_plan.png" />
+<img src="./images/kalergi_plan2.png" />
+
+--
 
 # What Must We Do?
 
 We need human resistance/liberation software.
-We need 100% open source and simple software.
-We need AI & subversion resistance.
+We need anti-fragility against attacks on freedom of speech.
+We also need moderation against AI, subversion, and terrorism.
 
-XXX
+Everything 100% unapologetically Open Source and Simple.
+
+## Alt to Reddit and Twitter
+
+ - On Chain, in GNO, improvement upon /r/boards
+ - Post can be markdown that can be rendered as a blog post.
+ - Comments on Posts
+ - News view for top posts within a 'board' (like a subreddit).
+   * requires some default efficient news scoring algorithm
+   * alternative sorting possible by external realms.
+ - Feed view 
+   * offline only; see feed of everyone followed.
+   * follow list could be on-chain or off-chain.
+   * feed server could optionally sign feed for accountability (e.g. w/ sort algorithm used).
+ - User view
+   * See the latest from a user.
+
+## Alt to Telegram, Group Conversations
+
+ - Completely Open Source.
+ - Servers run by registered administrators.
+ - Administrators need to keep records and abide by local laws.
+ - Global minimal level moderation; such as, no porn.
