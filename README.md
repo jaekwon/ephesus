@@ -879,6 +879,33 @@ Babylon overflows in Washington D.C.
 
 ### Babylon Worldwide
 
+#### UK & British Monarchy
+
+The British Monarchy, like the Vatican, plays an overt role in Babylonian
+symbolism. Here are some images from the 2022 Birmingham Commonwealth Games
+opening ceremony, where you can clearly see the tower of babel and as the
+commenter mentions, repeated mentions of the number 72; which is the number of
+languages that split the original builders of the ancient tower of Babel,
+according to mythology.
+
+<img src="./images/babylon_ceremony.png" />
+<img src="./images/babylon_ceremony2.png" />
+
+While the theme may be interpreted to refer to simply global empire, which the
+British empire already was, from 1583 AD to 1997 AD the largest empire to span
+the earth, the connotations with the darker side of Babylonian culture given
+that the monarchy seems to be ensnared with something.
+
+<img src="./images/british.jpg" />
+<img src="./images/british2.jpg" />
+<img src="./images/british3.jpg" />
+<img src="./images/british4.jpg" />
+<img src="./images/british5.jpg" />
+
+Also related is that the City of London has the highest contentration of
+Freemason lodges in the world, and the British monarchy is part of the
+Freemason secret society. 
+
 #### Abramović
 
 > **Volodymyr Zelensky has asked Marina Abramović, the performance artist, to
@@ -926,12 +953,27 @@ handle the moderation and accountability problem differently.
 On the heels of the arrest of the Telegram founder is this from Chris
 Pavlovski, founder and CEO of Rumble. 
 
-<img src="rumble_threatened.jpg" />
+<img src="./images/rumble_threatened.jpg" />
 
 While it's curious that Telegram was founded by a WEF fellow, and Rumble was
 invested in by Peter Thiel; the timing of these events is ominous; almost
 exactly seven years after the revelation 12 encoded timestamp. We should expect
 the erosion of our speech tools to accelerate.
+
+## Satanism in Media
+
+Mariah Carey's mother and sister tragically died late August of 2024. 
+
+<img src="./images/carey2.png" />
+
+This comes after her sister sued her mother for childhood abuse, where she also
+testified to children and sometimes babies being killed in a satanic ritual.
+
+<img src="./images/carey.png" />
+
+Ye, formerly known as Kanye, had made similar remarks about satanism and
+sacrifices in Hollywood. Human sacrifice rituals would obviously make the
+participants in the ritual blackmailable as willing participants of a ritual.
 
 ## A Blackmail Network
 
