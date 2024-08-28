@@ -666,6 +666,18 @@ Could even the beast be forgiven?
 
 ### Babylon in the Talmud
 
+_Note that the references to various topics as discussed in the Talmud are
+somewhat simplistic and out of context. These cryptic statements were the
+subject of extensive debate by the Talmudic scholars 2000 years ago and should
+not be interpreted casually without considering the additional interpretation
+and analysis. Volumes upon volumes have been written on these topics._
+
+_Arguably what's needed is a continuation with further modern commentary that
+would be more aligned with christian interpretations of the OT. The "New
+Jerusalem Edition"._
+
+_(please make an issue or pull request to fix issues.)_
+
 #### Murder
 
 Under Talmudic law, only Jews even unto murder are exempt from capital
