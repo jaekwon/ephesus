@@ -889,6 +889,42 @@ leaked emails on WikiLeaks)
 
 Babylon overflows in Washington D.C.
 
+### Babylon in Banking
+
+It is said that "money is the root of all evil", and it appears that there is
+the uttermost depth of meaning in its truth.
+
+<img src="./images/ronald_bernard.png" />
+
+From "Confessions of Illuminati Ronald Bernard":
+
+> **Bernard**: I was no longer capable of functioning optimally. My performance
+> started to shake and I had refused tasks. I had not participated. **The purpose
+> of the whole thing, eventually, in that world, is that they have everybody in
+> their pocket. You need to be susceptible to blackmail**. And blackmailing me
+> proved to be very hard if I look back on it. **They wanted to do that through
+> those children. And that broke me**.
+> 
+> **Interviewer**: Is that – you are not telling me something new – what they
+> also do in politics?
+> 
+> **Bernard**: If you google this, you’ll find enough worldwide witness
+> accounts to
+> know this isn’t a Walt Disney fairy tale. Unfortunately **the truth is that
+> worldwide they have been doing this for thousands of years**. I once studied
+> theology and even in the Bible you find references to these practices with
+> Israelites. **The reason the first 10 tribes were banished to Babylonia was
+> because of these rituals with children. Including the sacrificing of children.
+> So this is pertinent, all this made me believe, because I realized there was
+> more to life than meets the eye**. There is a whole invisible world. It is
+> real.  You really do talk about a dark force and a manifestation of light. So I
+> resorted to studying theology to make sense of it all.
+
+(see more [here](./RONALD_BERNARD.md) and
+[here](https://scientificprogress.substack.com/p/confessions-of-illuminati-ronald)
+and
+[here](https://odysee.com/@QuantumRhino:9/Revelations-by-an-Insider--The-Ronald-Bernard-Interviews--Part-1-5:5)).
+
 ### Babylon Worldwide
 
 #### UK & British Monarchy
@@ -1014,6 +1050,10 @@ Even "forged" fictions can have sociological ramifications.
 
 <img src="./images/kalergi_plan.png" />
 <img src="./images/kalergi_plan2.png" />
+
+### The Jubilee
+
+XXX include relevance of the overdue jubilee.
 
 --
 
