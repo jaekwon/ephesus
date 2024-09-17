@@ -973,6 +973,8 @@ Freemason secret society.
 
 ## Free Speech vs Assisting Harm
 
+### On Telegram
+
 <img src="./images/telegram_arrest.jpg" />
 
 "Telegram founder Pavel Durov is set to appear before a judge on Saturday
@@ -1007,6 +1009,51 @@ While it's curious that Telegram was founded by a WEF fellow, and Rumble was
 invested in by Peter Thiel; the timing of these events is ominous; almost
 exactly seven years after the revelation 12 encoded timestamp. We should expect
 the erosion of our speech tools to accelerate.
+
+### On Political Censorship
+
+As the previous interpretation of Revelation 12 and 13 predicts, calls for
+outright censorship of information is rapidly accelerating. This is inevitable
+in a society where the truth is coming out; and this is the nature of
+unstoppable light; and the NT states that everything that is hidden will be
+revealed.
+
+> For there is nothing covered, that shall not be revealed; neither hid,
+> that shall not be known. Therefore whatsoever ye have spoken in darkness
+> shall be heard in the light; and that which ye have spoken in the ear in
+> closets shall be proclaimed upon the housetops.
+> - Luke 12:2-3
+
+<img src="./images/hillary_censorship.png" />
+
+Define "engaged in", or "propaganda". As we saw with the way the establishment
+actors such as the WHO and CDC and NIH changed the definition of "vaccine" and
+more recently even "gain of function" in response to public criticism, these
+terms are also subject to redefintion, and will be used against free thinkers.
+
+Instead, the US can invest in ways to get its own interpretation of things out,
+using a platform that can prove its position on controversial or false
+information and allows for both citizens and agencies to contribute to, sort of
+like how Twitter now shows more context on Tweets when it deems necessary, but
+more nuanced to show several perspectives in parallel; in particular showing
+citizen vote top ranked perspectives as equal to those of any government
+agency. (TODO add/move to "What Must We Do")
+
+Anything less will result in a system of censorship such as the system we have
+today, where communications is taken over by the system of capitalism, and only
+those who are already exceptionally wealthy control and manipulate public
+discourse, even accounting for controlled opposition media, and becomes
+detached from reality and the optionion of the people.
+
+For those who want more conflict for their agenda, consider the changing nature
+of our reality (as per Luke 12:2-3) in the information age, and what awaits
+those who kill or jail others in order to maintain their control over public
+discourse and thinking.
+
+> He that leadeth into captivity shall go into captivity: he that killeth with
+> the sword must be killed with the sword. Here is the patience and the faith
+> of the saints.
+> - Revelation 13:10
 
 ## Satanism in Media
 
@@ -1065,7 +1112,7 @@ We also need moderation against AI, subversion, and terrorism.
 
 Everything 100% unapologetically Open Source and Simple.
 
-## Alt to Reddit and Twitter
+## Alt. to Reddit and Twitter
 
  - On Chain, in GNO, improvement upon /r/boards
  - Post can be markdown that can be rendered as a blog post.
@@ -1080,7 +1127,7 @@ Everything 100% unapologetically Open Source and Simple.
  - User view
    * See the latest from a user.
 
-## Alt to Telegram, Group Conversations
+## Alt. to Telegram, Group Conversations
 
  - Completely Open Source.
  - Servers run by registered administrators.
