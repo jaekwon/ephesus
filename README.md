@@ -1104,6 +1104,40 @@ XXX include relevance of the overdue jubilee.
 
 --
 
+Just a reminder that the same photographer who photographed Bush during 9/11, while the kids were chanting "PLANE MUST HIT STEEL" also photographed Trump, while he said "IF YOU REALLY WANT TO TALK ABOUT SOMETHING... TAKE A LOOK AT THIS" as he dodged but his ear got "hit"...
+
+> It wasn't a mortal head wound
+
+It was for Hitler.
+
+> It wasn't a sword
+
+The right ear is the one nicked by a sword during knighting.
+
+> Someone died
+
+9/11 was an inside job too, to get us into the middle east. Remember also the lies about WMDs.
+
+> It was God
+
+Again 9/11 was an inside job. And "Crooks" and "Cheatle"?! Audio forensics showed that there were 2 shooters; enough to stage a live magic show; and MAGA literally means magic. Black MAGA is obviously black magic.
+
+Bush was Skull&Bones, Trump is Scottish Rite. 9/11 was already in media, such as the Simpsons, and Back to the Future had Biff w/ a time-machine, and had to go 88 MPH (88=HH=Hitler).
+
+My point is this. Whoever is running this show, wants the prophecies to be fulfilled. It's a double-edged sword though; in the end, things turn out OK, but not for the most people. Read and understand what comes next.
+
+Also, there's no guarantee that the man behind the curtain wants ALL the prophecies to be fulfilled. So, prepare for the worst.
+
+As for blackmail, it loses its power when the right side has copies too.
+
+As for the conflict in the middle east... I want peace, but the prophecies seem to say something different.
+
+If you want to survive what is coming, be patient, don't fight in war, flee to the mountains if the abomination of desolation is in the holy place, and don't go here nor there when there are rumors of his coming. Especially UFOs :P. 
+
+Find Jesus in you, and learn how to pray; times are about to get difficult.
+
+--
+
 # What Must We Do?
 
 We need human resistance/liberation software.
