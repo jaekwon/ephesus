@@ -428,6 +428,28 @@ the description of these beasts, that they will altogether exercise their
 authority to persecute religious testimony and activities by the two churches
 led by the two spirits.
 
+Which two churches? Of the seven letters, only two are told to prepare for
+death, not by retribution from God, but by something unnamed. They are Smyrna
+and Sardis.
+
+```
+3:1: And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead.
+3:2: Be watchful, and strengthen the things which remain, **that are ready to die**: for I have not found thy works perfect before God.
+3:3: Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee.
+3:4: Thou hast a few names even in Sardis which have not defiled their garments; and they shall walk with me in white: for they are worthy.
+3:5: He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels.
+3:6: He that hath an ear, let him hear what the Spirit saith unto the churches.
+```
+
+```
+2:8: And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;
+2:9: I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.
+2:10: **Fear none of those things which thou shalt suffer**: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: **be thou faithful unto death**, and I will give thee a crown of life.
+2:11: He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death.
+```
+
+Notice also that both Palestine and Syria were originally Christian nations.
+
 ## The Harlot of Babylon
 
 > So he carried me away in the spirit into the wilderness: and **I saw a woman
