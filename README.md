@@ -947,9 +947,87 @@ From "Confessions of Illuminati Ronald Bernard":
 and
 [here](https://odysee.com/@QuantumRhino:9/Revelations-by-an-Insider--The-Ronald-Bernard-Interviews--Part-1-5:5)).
 
+It is said that Ronald Bernard was found dead in Florida on August 24, 2017,
+but this has not been confirmed.
+
 ### Babylon Worldwide
 
+#### The Rothschild Dynasty
+
+The Rothschild family was chosen to be the guardians of the Vatican's treasures
+according to the Jewish Encyclopedia. They were chosen some time in the early
+19th century. 
+
+<img src="./images/rothschildcoa.png" />
+
+There are three heads. The first head has what appears to be two horns,
+interestingly in tiled coloring (related to Freemasons?), and a six pointed
+star between the horns. This is similar to the six pointed star in the flag of
+the State of Israel which is called the "Star of David", except that there is
+no such biblical thing as the "Star of David". It simply doesn't exist. What
+the Old Testament does mention is the Star of Remphan and there is also
+something called the Seal of Solomon. 
+
+> [The Star of David's] association as a distinctive symbol for the Jewish
+> people and their religion dates to 17th-century Prague. In the 19th century,
+> the symbol began to be widely used by the Jewish communities of Eastern
+> Europe, ultimately coming to represent Jewish identity or religious
+> beliefs. It became representative of Zionism after it was chosen as the
+> central symbol for a Jewish national flag at the First Zionist Congress in
+> 1897. - Wikipedia
+
+As Jacob Rothschild is credited as a founder of Israel, it is clear that it
+comes partly if not chiefly from the Rothschild's family crest.
+
+The middle head has the Germanic eagle. The Rothschilds were originally from
+Frankfurt, Germany.
+
+The third head has three feathers in the colors of the biblical Hebrew
+Israelites, but the three feathers are curled on top in the form of the Hebrew
+letter Vav (ו), the sixth letter of the Hebrew alphabet. The three feathers
+therefore spell Vav Vav Vav, or 666. 
+
+> And he causeth all, both small and great, rich and poor, free and bond, to
+> receive a mark in their right hand, or in their foreheads: And that no man
+> might buy or sell, save he that had the mark, or the name of the beast, or
+> the number of his name. Here is wisdom. Let him that hath understanding count
+> **the number of the beast: for it is the number of a man; and his number is
+> Six hundred threescore and six**. - Revelation 13:16-18 on the Mark of the
+> Beast.
+
+In the middle of the shield is a smaller shield with the "juddenhut", a hat
+worn by Jews during the middle ages. This embedding of shields is called an
+"escutcheon of pretense" in heraldry and is used to display the arms of the
+bearer's wife; usually not done unless she is an heiress.
+
+<img src="./images/haldemann.png" />
+
+Related is the coat of arms of the Haldemann. Notice the similarity between it
+and the first head of the Rothschild coat of arms. Elon Musk's mother is a
+Haldemann. It should not be surprising that the Rothschilds choose someone
+related to them not to represent them, but to present to the general public as
+a kind of prophet, namely a false one.
+
 #### UK & British Monarchy
+
+<img src="./images/wales_feathers.png" />
+
+You see also the three feathers in the British Monarchy. These three feathers
+are called the Prince of Wale's feathers.
+
+> The Prince of Wales's feathers are the heraldic badge of the Prince of Wales,
+> the heir to the British throne. The badge consists of three white ostrich
+> feathers encircled by a gold coronet. A ribbon below the coronet bears the
+> German motto Ich dien (German: [ɪç ˈdiːn], modern German "ich diene", "I
+> serve"). As well as being used in royal heraldry, the feathers are sometimes
+> used to symbolise Wales itself, particularly in Welsh rugby union and Welsh
+> regiments of the British Army.
+
+<img src="./images/charles666.jpg" />
+
+If it isn't clear that the feathers when in triplets represent the number 666,
+here is Charles in the WEF in front of the Prince of Wale's feathers, each
+feather represented by 6 lines.
 
 The British Monarchy, like the Vatican, plays an overt role in Babylonian
 symbolism. Here are some images from the 2022 Birmingham Commonwealth Games
@@ -970,11 +1048,32 @@ that the monarchy seems to be ensnared with something.
 <img src="./images/british2.jpg" />
 <img src="./images/british3.jpg" />
 <img src="./images/british4.jpg" />
-<img src="./images/british5.jpg" />
+<img src="./images/british5.png" />
 
 Also related is that the City of London has the highest contentration of
 Freemason lodges in the world, and the British monarchy is part of the
 Freemason secret society. 
+
+<img src="./images/royalty_vs_bankster.jpg" />
+
+Who is higher in the heirarchy, the British monarchy, or the Rothschilds?
+Clearly it is the Rothschilds. Not surprising, because the unicorn on 
+the British coat of arms is chained, while the unicorn on the Rothschilds'
+coat of arms is unchained.
+
+<img src="./images/britishcoa.png" />
+
+Who holds the keys? The Vatican does of course. There are only two square flags
+for all of the nations, and they are for the Vatican and for the Swiss. The
+Vatican flag has two keys; one presumably which keeps the British unicorn in
+chains, and another perhaps for the Rothschilds to keep the Vatican's assets in
+the vaults of the Swiss mountains. 
+
+After all, it was Hitler's WW2 that confiscated all that gold in the Swiss bank
+vaults, never to be reclaimed by their owners who died in the wars and
+holocaust; and Hitler was the bastard grandson of a Rothschild. The same who
+worked with the Zionists to establish the State of Israel, which separately
+credits Jacob Rothschild for its founding.
 
 #### Abramović
 
@@ -990,7 +1089,7 @@ Freemason secret society.
 
 <img src="./images/abramovic1.jpg" />
 
-<img src="./images/abramovic2.png" />
+<img src="./images/abramovic2.png" alt="Abramovic and Jacob Rothschild posing in front of Satan summoning his Legions"/>
 
 
 ## Free Speech vs Assisting Harm
@@ -1079,12 +1178,36 @@ discourse and thinking.
 
 ## Satanism in Media
 
+Stanley Kubrick directed the movie "Eyes Wide Shut" about a secretive group of
+elites with strange rituals and even ritual murder.
+
+<img src="./images/eyeswideshut.png" />
+
+But Stanley was murdered 4 months before the movie premiered, and the ending of
+the movie was changed. In the original movie Tom Cruise and Nicole Kidman play
+the role of two parents that decide to sacrifice their own daughter to the
+system. In the modified ending it is not clear; though it is clear that their
+daughter might have been lost during a long conversation between the two in a
+busy mall.
+
+The movie is inspired by actual parties hosted by the Rothschilds.
+
+<img src="./images/rothschildparty1.jpg" />
+<img src="./images/rothschildparty2.jpg" />
+
+Another film from Stanley Kubrick "The Shining" includes the colors and symbols
+of Freemasonry degrees from 1 to 33. TODO include source in a separate file.
+
+----
+
 Mariah Carey's mother and sister tragically died late August of 2024. 
 
 <img src="./images/carey2.png" />
 
 This comes after her sister sued her mother for childhood abuse, where she also
 testified to children and sometimes babies being killed in a satanic ritual.
+
+----
 
 <img src="./images/carey.png" />
 
