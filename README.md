@@ -1091,6 +1091,80 @@ credits Jacob Rothschild for its founding.
 
 <img src="./images/abramovic2.png" alt="Abramovic and Jacob Rothschild posing in front of Satan summoning his Legions"/>
 
+## US Federal Reserve
+
+Continuing on with the Rothschild related history, there's much to be said
+about the US Federal Reserve, or FED for short.
+
+There is already much written about the Federal Reserve Act, and Jekyll Island
+such as in the books "The Creature of Jekyll Island" by George Edward Griffin
+and "Secrets of the Federal Reserve" by Eustace Mullins, but what's not as well
+known is what preceded the passing of the Federal Reserve act as it relates 
+to the Titanic.
+
+<img src="./images/titanic3.jpg" />
+
+The above meme is maybe as far as one might find, that three key figures
+against the Federal Reserve were murdered by the intentional sinking of the
+Titanic, and that JP Morgan who owns the ship and threw the party dipped out 
+at the last minute. Here are more details.
+
+<img src="./images/titanicburn.jpg" />
+
+The Titanic was known to have a fire in the engine room even during boarding by
+the passangers.
+
+<img src="./images/titanichull.png" />
+
+Recently in 2022 a scan of the Titanic was carried out by Magellan Ltd, and the
+scan results were published on BBC. You can see the hull blown out in a way
+that would be consistent with an explosion in the engine room.
+
+<img src="./images/titanicotherside.jpg" />
+
+The other side does not have such a deformation.
+
+<img src="./images/isadorstraus.jpg" />
+
+In the ship was Isador Straus who was elected treasurer of the National
+Citizen's League for the Promotion of a Sound Banking System. While Straus was
+in favor of banking reform, he would have opposed the federal reserve which is
+controlled by both political and financial special interests. He vowed to alert
+the public to any banking reform laws and appeared a few times in the NYTimes,
+even corresponding with the editor of the NYTimes.
+
+One year after the Titanic sank the Federal Reserve Act was passed (albiet
+unconstitutionally), and then another year after that was WW1. The timing is
+not mere coincidence.
+
+The other conspiracies concerning insurance fraud regarding a potential
+swapping of the Titanic and Olympic; the Hollywood romance movie "The Titanic",
+and even the book about the sinking of the Titanic which was published prior to
+the sinking of the Titanic, are all misdirection distractions in comparison to
+what was accomplished in the end -- the passing of the Federal Reserve Act and
+the beginning of the greatest swindle in US history, if not the world.
+
+The Rothschild dynasty was represented by at least Paul Warburg:
+
+> Paul Warburg was probably the most important person at the 1913 Federal
+> Reserve establishment meeting on Jekyll Island because of his knowledge of
+> banking as it was practiced in Europe. He was a partner in Kuhn, Loeb &
+> Company and was a representative of the Rothschild banking dynasty in England
+> and France where he maintained a very close working relationships throughout
+> his entire career with his brother, Max Warburg, who was the head of the
+> Warburg banking consortium in Germany and the Netherlands. He was also one of
+> the wealthiest men in the world at the time.
+>
+> He also called for and attended the founding of the Council on Foreign
+> Relations in 1921. The CFR being another tool of the global elite used to
+> oversee US foreign policy. - [clarityofsignal.com](https://clarityofsignal.com/2017/01/04/the-rothschilds-representative-at-1913-federal-reserve-the-cfr-i-g-farben/)
+
+In June 18th 2023 the OceanGate submersible "The Titan" suffered a catastrophic
+implosion while visiting the Titanic, instantly killing all five passengers
+aboard including the CEO and his son, allegedly. On the board of the company
+was of course a Rothschild.
+
+<img src="./images/oceangate.png" />
 
 ## Free Speech vs Assisting Harm
 
