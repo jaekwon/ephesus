@@ -63,3 +63,11 @@ river east, and followed the laws of the giant altar, and set up these altars
 all across the European and Asian continents. These are what we now know as
 Dolmen.
 
+Probably on the first were also written the 10 commandments, as they were the 
+first set of laws.
+
+## Moses, the Tablets, and their Destruction
+
+<img src="./images/exodus-32.png"/>
+
+
