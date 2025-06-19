@@ -88,6 +88,19 @@ The masons held as slaves under the Pharaohs were freed by Moses by Moses
 teaching them the Hebrew language, which evolved to become many of the
 langauges we know today, even Celtic, Gaelish, English, and even Japanese.
 
+The O'Sullivans are royalty direct from the Scythians.
+
+The Stone in the Stone of Camelot is a real set of stones, and is Dolmen.
+
+Note also that the Japanese tori gates are red, and resembles the Cherubim of
+the Ark of the Covenant under the Cherubim of the Temple of Solomon. Korea in
+its tradition used to paint the door frame of the house likewise red, to ward
+off evil; and this is related to the ritual of the Ark of the Covenant where
+one side of both Cherubim are painted red with blood. The Korean traditional
+hanbok clothing are white and blue in colors, the colors of the Hebrew
+Israelites. (See more in links in [More Resources](#More_Resources) for Hebrew
+Israelite connections to Japan).
+
 This is the secret that is preserved by the Freemasons at some rank, (which I
 do not know as I was never initiated as a member), but it is clear now based on
 the hints put forth by the Freemasons, such as Trump's message, its emphasis on
