@@ -46,3 +46,20 @@ that overcover and protect the Ark when it enters the temple.
 
 <img src="./images/1-kings-8.png"/>
 
+
+## The Self-Replicating Alter of Giant Stones Plastered and Uncut
+
+Moses and God instructed the people to build an altar (table) made of giant
+stone uncut with tools (because they are FREED-MASONS, not slaves cutting rocks
+for the pharaohs), and to cover them with plaster, and to write the laws of the
+altar on them, thereby making them self-replicating.
+
+<img src="./images/deuteronomy-27.png"/>
+
+The law says to make this when they cross the Jordan river. First the Hebrew
+Israelites conquered the land of Canaan by crossing the Jordan river west, but
+then as the Hebrew Israelites left the land of Canaan they crossed the Jordan
+river east, and followed the laws of the giant altar, and set up these altars
+all across the European and Asian continents. These are what we now know as
+Dolmen.
+
