@@ -117,11 +117,11 @@ preserve a secret that is to be revealed at this hour, finally.
 
 ## More Resources
 
- * [https://hebrewnations.com/articles/megaliths/ireland.html](Yair Davidiy on Ireland)
- * [https://hebrewnations.com/articles/bible-codes/codesdolmen.html](Yair Davidiy on Dolmen)
- * [https://hebrewnations.com/articles/biblical-proof/attributes/roledolmen.html](Yair Davidiy on Role of Dolmen)
- * [https://britam.org/megalithic.html](Britam on Megaliths)
- * [https://www.youtube.com/watch?v=yhlkuGwEecY](Japan and Hebrew Israelites Part 1)
- * [https://www.youtube.com/watch?v=hw59ryraJ90](Japan and Hebrew Israelites Part 2)
- * [https://www.youtube.com/watch?v=Pt5oHPNuLh0](Japan and Hebrew Israelites Part 3)
- * [./README.md](main Ephesus document, for timing and context)
+ * [Yair Davidiy on Ireland](https://hebrewnations.com/articles/megaliths/ireland.html)
+ * [Yair Davidiy on Dolmen](https://hebrewnations.com/articles/bible-codes/codesdolmen.html)
+ * [Yair Davidiy on Role of Dolmen](https://hebrewnations.com/articles/biblical-proof/attributes/roledolmen.html)
+ * [Britam on Megaliths](https://britam.org/megalithic.html)
+ * [Japan and Hebrew Israelites Part 1](https://www.youtube.com/watch?v=yhlkuGwEecY)
+ * [Japan and Hebrew Israelites Part 2](https://www.youtube.com/watch?v=hw59ryraJ90)
+ * [Japan and Hebrew Israelites Part 3](https://www.youtube.com/watch?v=Pt5oHPNuLh0)
+ * [main Ephesus document, for timing and context](./README.md)
