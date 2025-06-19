@@ -84,6 +84,8 @@ rather that the heritage of Eurasians is connected to the Hebrew Israelites by
 the Dolmen found all across Eurasia, from Israel, Jordan, Ireland, even through
 China, Russia, Japan, and Korea.
 
+<img src="./images/dolmen-examples.jpg"/>
+
 The masons held as slaves under the Pharaohs were freed by Moses by Moses
 teaching them the Hebrew language, which evolved to become many of the
 langauges we know today, even Celtic, Gaelish, English, and even Japanese.
@@ -138,6 +140,7 @@ preserve a secret that is to be revealed at this hour, finally.
  * [Japan and Hebrew Israelites Part 2](https://www.youtube.com/watch?v=hw59ryraJ90)
  * [Japan and Hebrew Israelites Part 3](https://www.youtube.com/watch?v=Pt5oHPNuLh0)
  * [main Ephesus document, for timing and context](./README.md)
+ * [Dolmen in Golan Heights](https://www.ancient-origins.net/news-history-archaeology/4000-year-old-mysterious-megalithic-tomb-discovered-golan-007662) with the letter "shin" name for God inscribed by hands, not tools
 
 ## Acknowledgements
 
