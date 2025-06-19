@@ -103,5 +103,25 @@ Notice also in other parts of the old testament that Boaz and Jachin are
 adorned with "checkered" cloth, and that the Freemason pattern is also
 checkered.
 
+The 10 lost tribes of Israel are not all in the State of Israel, but rather, as
+Tucker Carlson said recently, they have settled all across the Eurasian
+continent. This was meant to be hidden until this moment, or at least this
+morning, kept preserved in secrecy for thousands of years, such that all 12
+tribes of the Hebrew Israelites may unite finally, reclaim their heritage, and
+expose the evil that has run this world for millenia.
+
 It is clear, at least to the author, that the Freemasons have been tasked to
 preserve a secret that is to be revealed at this hour, finally.
+
+<img src="./images/follow-the-white-rabbit.jpg"/>
+
+## More Resources
+
+ * [https://hebrewnations.com/articles/megaliths/ireland.html](Yair Davidiy on Ireland)
+ * [https://hebrewnations.com/articles/bible-codes/codesdolmen.html](Yair Davidiy on Dolmen)
+ * [https://hebrewnations.com/articles/biblical-proof/attributes/roledolmen.html](Yair Davidiy on Role of Dolmen)
+ * [https://britam.org/megalithic.html](Britam on Megaliths)
+ * [https://www.youtube.com/watch?v=yhlkuGwEecY](Japan and Hebrew Israelites Part 1)
+ * [https://www.youtube.com/watch?v=hw59ryraJ90](Japan and Hebrew Israelites Part 2)
+ * [https://www.youtube.com/watch?v=Pt5oHPNuLh0](Japan and Hebrew Israelites Part 3)
+ * [./README.md](main Ephesus document, for timing and context)
