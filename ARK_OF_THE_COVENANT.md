@@ -13,7 +13,7 @@ will speak for themselves.
 
 ## Freemasonry and Boaz and Jachin
 
-It is will understood that the two pillars represent Boaz and Jachin. Sometimes
+It is well understood that the two pillars represent Boaz and Jachin. Sometimes
 you only see the letters B, and J associated with these columns, because it is
 meant to be hidden.
 
