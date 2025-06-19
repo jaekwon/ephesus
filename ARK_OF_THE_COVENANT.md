@@ -98,7 +98,7 @@ its tradition used to paint the door frame of the house likewise red, to ward
 off evil; and this is related to the ritual of the Ark of the Covenant where
 one side of both Cherubim are painted red with blood. The Korean traditional
 hanbok clothing are white and blue in colors, the colors of the Hebrew
-Israelites. (See more in links in [More Resources](#More_Resources) for Hebrew
+Israelites. (See more in links in [More Resources](#more-resources) for Hebrew
 Israelite connections to Japan).
 
 This is the secret that is preserved by the Freemasons at some rank, (which I
