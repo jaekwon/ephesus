@@ -118,6 +118,10 @@ Notice also in other parts of the old testament that Boaz and Jachin are
 adorned with "checkered" cloth, and that the Freemason pattern is also
 checkered.
 
+And every time the Ark of the Covenant is re-discovered, a stone monument is
+erected in remembrance. I imagine Stone Henge to be an artistic interpretation
+of the "circle", from which we derive the word "church".
+
 The 10 lost tribes of Israel are not all in the State of Israel, but rather, as
 Tucker Carlson said recently, they have settled all across the Eurasian
 continent. This was meant to be hidden until this moment, or at least this
