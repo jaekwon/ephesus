@@ -68,6 +68,40 @@ first set of laws.
 
 ## Moses, the Tablets, and their Destruction
 
+It is well known that Moses had 2 tablets. On them we know were written the 10
+commandments, but it is not known whether they were written on one, and
+anything else written on the other, or if the 10 commandments were split among
+the 2 tablets. But also note that the archetype of the Dolmen altar (table) is
+that there are 2 giant stones supporting 1 giant stone on top. 
+
 <img src="./images/exodus-32.png"/>
 
+## Putting it All Together
 
+The Ark of the Covenant's power lies not in a single hidden ark that may be
+burried or in Etheopia, or any of the other things mentioned in media, but
+rather that the heritage of Eurasians is connected to the Hebrew Israelites by
+the Dolmen found all across Eurasia, from Israel, Jordan, Ireland, even through
+China, Russia, Japan, and Korea.
+
+The masons held as slaves under the Pharaohs were freed by Moses by Moses
+teaching them the Hebrew language, which evolved to become many of the
+langauges we know today, even Celtic, Gaelish, English, and even Japanese.
+
+This is the secret that is preserved by the Freemasons at some rank, (which I
+do not know as I was never initiated as a member), but it is clear now based on
+the hints put forth by the Freemasons, such as Trump's message, its emphasis on
+the rope (which is symbolic of the Freemason's helping hand, and the
+"rust-proof, rope inside the pole" referring to the Freemason's ability to
+protect each other even in the worst of situations in war.
+
+Notice also the proximity of the section "Moses Informed of Israel's Sin"
+preceding "Moses Descends with The Tablets" in Exodus 32, and also the
+proximity of the "The Cherubim" to "The Veil and Pillars" in 2-Chronicles 3.
+
+Notice also in other parts of the old testament that Boaz and Jachin are
+adorned with "checkered" cloth, and that the Freemason pattern is also
+checkered.
+
+It is clear, at least to the author, that the Freemasons have been tasked to
+preserve a secret that is to be revealed at this hour, finally.
