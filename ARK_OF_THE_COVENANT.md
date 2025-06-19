@@ -125,3 +125,10 @@ preserve a secret that is to be revealed at this hour, finally.
  * [Japan and Hebrew Israelites Part 2](https://www.youtube.com/watch?v=hw59ryraJ90)
  * [Japan and Hebrew Israelites Part 3](https://www.youtube.com/watch?v=Pt5oHPNuLh0)
  * [main Ephesus document, for timing and context](./README.md)
+
+## Acknowledgements
+
+ * President Trump, for the hint encrypted, published in time.
+ * Yair Davidiy and those who shared his work.
+ * All the truth seekers sharing against ongoing censorship and targetting.
+ * All the freed masons who helped to preserve this knowledge against the worst of evil.
