@@ -145,6 +145,7 @@ preserve a secret that is to be revealed at this hour, finally.
  * [Japan and Hebrew Israelites Part 3](https://www.youtube.com/watch?v=Pt5oHPNuLh0)
  * [main Ephesus document, for timing and context](./README.md)
  * [Dolmen in Golan Heights](https://www.ancient-origins.net/news-history-archaeology/4000-year-old-mysterious-megalithic-tomb-discovered-golan-007662) with the letter "shin" name for God inscribed by hands, not tools
+ * [The Roots of Japan Were Ancient Hebrew Tribes - 4/7](https://www.youtube.com/watch?v=kMLkJF4RLlY) they look for the Ark but only found dolmen :)
 
 ## Acknowledgements
 
