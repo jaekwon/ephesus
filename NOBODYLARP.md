@@ -52,4 +52,4 @@ inject sounds into my head. I may have momentary reactions to the use of these
 weapons but otherwise I am not mentally ill, and they can incarerate me or
 attempt to assassinate me to their heart's content.
 
-<img src="./images/nobodylarp.png" />
+<img src="./images/nobody_larp.png" />
