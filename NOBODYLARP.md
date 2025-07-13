@@ -64,3 +64,7 @@ incarcerate me or attempt to assassinate me to their heart's content.
 There will be no defense, only the charge as above.
 
 <img src="./images/nobody_larp.png" />
+
+But if they delete anything, or try to obscure anything, I will absolutely sue them.
+
+https://boards.4chan.org/x/thread/40699548#p40713983
