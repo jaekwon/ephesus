@@ -29,6 +29,6 @@ down the US government, or continue to use Majestic 12 to larp about the
 Christianity to continue the Saturnian using AI, those who do so going forward
 surely deserve to die.
 
-Cleans the world of these filthy lies and abominations and deliver your soul.
+Cleanse the world of these filthy lies and abominations and deliver your soul.
 
 <img src="./images/nobodylarp.png" />
