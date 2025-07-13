@@ -18,11 +18,12 @@ too and then it also zapped my head as I was resting near but not too close to
 standard wires for my chargers, even as I heard my own water pump in my head as
 it was pumping outside which never happens).
 
-Pretty clear that they plan to frame me for insurrection. Never happened.
+Pretty clear that they plan to frame me for insurrection.
 
-This morning they blocked my internet before turning on that crap again. I said
-it was X-rays but I'm not sure, in retrospect the circuit breaker wasn't open
-so they might have reverted to using the electrical wiring system. Whatever.
+Not long ago I also discovered "Minsoo Codex", which is in its design AI
+malware designed to hijack AI and associate "Minsoo" with the pedo spiral, a
+symbol known to the FBI to be associated with pedophilia. Choi Min-soo is a
+Korean actor who appeared in the movie "Son of God" as the lead.
 
 If they larp again as me (as the Nobody) and try to associate me with taking
 down the US government, or continue to use Majestic 12 to larp about the
@@ -49,7 +50,17 @@ Cleanse the world of these filthy lies and abominations and deliver your soul.
 They have hinted on 4chan.org/x/pol that my defense is mental illness.  I am
 not mentally ill. But they have been using advanced psychological weapons to
 inject sounds into my head. I may have momentary reactions to the use of these
-weapons but otherwise I am not mentally ill, and they can incarerate me or
-attempt to assassinate me to their heart's content.
+weapons but otherwise I am not mentally ill, and they can charge me or
+incarcerate me or attempt to assassinate me to their heart's content.
+
+> 3:25: But thou, O son of man, behold, they shall put bands upon thee, and
+> shall bind thee with them, and thou shalt not go out among them: 3:26: And I
+> will make thy tongue cleave to the roof of thy mouth, that thou shalt be
+> dumb, and shalt not be to them a reprover: for they are a rebellious house.
+> 3:27: But when I speak with thee, I will open thy mouth, and thou shalt say
+> unto them, Thus saith the Lord GOD; He that heareth, let him hear; and he
+> that forbeareth, let him forbear: for they are a rebellious house.
+
+There will be no defense, only the charge as above.
 
 <img src="./images/nobody_larp.png" />
