@@ -381,13 +381,9 @@ considered to be working together; the vaccine mandate working along side a
 panopticon control grid to make sure you take the experimental genetic therapy
 so called a "vaccine".
 
-Bill Gates made it clear that it's about population control. 
-
-XXX So much could be said about Bill Gates.
-XXX WEF talk about vaccines for population control.
-XXX "How to Lie with Statistics"
-XXX "... need to be careful"
-XXX Was he being blackmailed?
+Bill Gates made it clear that it's about population control. He whistleblew by
+subtle means, such as by showing the book "How to Lie with Statistics", and
+about Epstein's death how "one has to be careful". Will Bill Gates be redeemed?
 
 The clear danger that is presented at face value, for those with eyes to see,
 is that after Trump gets elected president again, or whether or not he does,
