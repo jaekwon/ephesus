@@ -459,7 +459,15 @@ lived a life that any other man cannot match in piety, and that he was
 crucified for speaking up against the state of His time, was absolutely guided
 by God, and is still with us today in spirit, and that He is the only man, son
 of God, and son of man worthy of being referenced with the capital letter H in
-the English language, and that He will always be with us.
+the English language, and that He will always be with us. I also believe that
+there is something about our consciousness itself that is beyond life and death
+in our fleshy bodies; that out-of-body experiences and certain paranormal
+experiences such as being "born of the spirit" as described in the book of John
+(which I have experienced, and much more TODO write about them!) point to a
+different model of "quantum consciousness" that science has yet to explain.
+
+TODO: NOTE to Itzhak Bentov's writings, and also
+https://www.dailymail.co.uk/sciencetech/article-15325395/theory-consciousness-near-death-experience.html
 
 ## The Mark of the Beast
 
