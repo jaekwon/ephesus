@@ -243,7 +243,7 @@ years), and half a time (6 months) again.
 Today is August 17th, 2024, exactly 1260 and 1260 days since September 23rd,
 2017 encoded in Revelation 12:1.
 
-Next, Revelation 13:1 introduces the first beast ("the Beast") and second beast
+Next, Revelation 13:1 introduces the first beast ("the Beast") and Second Beast
 ("false prophet", or anti-Christ) of Revelation.
 
 ## The First Beast
@@ -340,7 +340,7 @@ it, the "woman" in scarlet and purple.
 > and his number is Six hundred threescore and six.
 > - Revelation 13:11-18
 
-Initially I figured that Elon Musk was playing the role of the second-beast
+Initially I figured that Elon Musk was playing the role of the Second Beast
 (esp w/ the Trump presidency), but in recent days I can't help but acknowledge
 that I agree with much of what Elon says nowadays, even as I disagree with some
 of his thoughts especially on immigration policy. I can only hope that he does
@@ -359,7 +359,7 @@ Elon Musk is a genuine person not controlled by the deep state, then we could
 be allies in saving the United States and the world together. Perhaps this 
 was God's plan all along.
 
-Here is what initially caused me to associate Elon with the second beast:
+Here is what initially caused me to associate Elon with the Second Beast:
 
 > There was a whole globalist apparatus that
 > engineered the Covid19 strain as well as lockdown mandates with experimental
@@ -447,11 +447,19 @@ Catholic church is known for hiding these problems of the clergy as well.
 
 The bible clearly says that priests must be married men. I don't understand how
 the bishops can profess to be Christian while not being married, and as Pope
-Francis admitted, that there is a "gay problem" in the Vatican.
-
-Finally, the cross as a symbol of Christianity sure is weird, for it was the
+Francis admitted, that there is a "gay problem" in the Vatican. And the cross
+as a symbol of Christianity is not appropriate in my opinion, for it was the
 tool of Jesus's crusifixion; so it makes sense that it be replaced with another
-symbol, especially for premillenialists such as myself.
+symbol, especially for premillenialists such as myself. It used to be a fish!
+
+The Celtic trinity knot with a circle in the middle like the Tendermint logo is
+more aligned; there will always be those who claim that Jesus *is* God or that
+Jesus is an angel. I personally believe that he was a man born in the flesh who
+lived a life that any other man cannot match in piety, and that he was
+crucified for speaking up against the state of His time, was absolutely guided
+by God, and is still with us today in spirit, and that He is the only man, son
+of God, and son of man worthy of being referenced with the capital letter H in
+the English language, and that He will always be with us.
 
 ## The Mark of the Beast
 
