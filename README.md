@@ -419,7 +419,7 @@ problem that is so apparent to me. (I refuse to call it X, as X means 'mark').
 
 It is worth noting also that Trump is making deals at the time of this writing
 with Saudi Arabia and promoting Zohran Mamdani from the whitehouse. I have
-nothing but respect for God fearing/loving muslims, just as I have nothing but
+nothing but respect for God fearing/loving Muslims, just as I have nothing but
 respect for God fearing/loving jews, and at the same time it is striking that
 the haddith prophecies of Isa (Jesus) returning to slay the cross with the
 Mahdi is being fulfilled across the northern hemisphere with radical Islam
@@ -436,7 +436,7 @@ least from my perspective).
 
 So who is the false prophet? I cannot accuse Mohammad of being a false prophet,
 because factually Islam is the fastest growing religion in the world, and
-muslims appear to be more devout than many western Christians!
+Muslims appear to be more devout than many western Christians!
 
 But at the risk of losing my head I will merely note that the beast "from the
 earth" does seem to associate with *radical* Islam; and that there appears to
@@ -468,6 +468,43 @@ different model of "quantum consciousness" that science has yet to explain.
 
 TODO: NOTE to Itzhak Bentov's writings, and also
 https://www.dailymail.co.uk/sciencetech/article-15325395/theory-consciousness-near-death-experience.html
+
+TODO: Write about the primary distinction between Islam and "book"
+Christianity. Focus on relationship to women; its impact or necessity as it
+relates to war; the abuses polygamy (even as it relates to Mormon revelations);
+and the theological conflict regarding the status of Jesus as the begotten son
+of God. In short, as long as everyone understands Jesus and how he stood for
+protecting the purity of children above all other prophets, and Muslims
+understand the nuances described here, peace may feasible between the "people
+of the book" and Muslims with sound border and immigration policy that respects
+the distinction of a Christian country vs a Muslim country. If borders cannot
+be enforced effectively (say without adopting the beast system) then there will
+be conflict, and this is now apparent in both the USA and Europe. Eventually it
+is inevitable for Muslims to become more aware of Jesus and the virtues of His
+gospels, and likewise for Christians to become more aware of the virtues in the
+Quran. When we have figured out a reasonable way of living for both, we would
+have established peace, and in peace time the teachings of Jesus will naturally
+rise in import even for Muslims; and all prophecies would be fulfilled.
+
+TODO: Write more on AI specifically.
+
+<img src="./images/joerogan.png"/>
+
+Eventually we will have proper AI simulations of Jesus to guide our children,
+but the AI would make clear that it is merely a simulation and refer to
+scripture and the best interpretations thereof, and all AI that people use
+would be accountable, deterministic, etc. This is inevitable. But until then,
+there will be many false attempts, or God forbid malicious attempts. This is
+also inevitable.
+
+I do not know whether it is inevitable for Mohammad to be simulated in AI and
+worshipped as well; one would expect such to be rejected by Islam as djinn, but
+there are always the radicalists.
+
+Radical Islam, or at least a splinter thereof will abuse AI and simulated
+Mohammad, and this may create a large schism. In that case those who reject AI
+Mohammad would naturally side w/ Christians by virtue of the book of
+Revelation. Well, it seems inevitable if you think about it.
 
 ## The Mark of the Beast
 
