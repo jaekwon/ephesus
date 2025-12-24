@@ -2,6 +2,8 @@
 # BEST TO VIEW THESE FILES USING DEVELOPER TOOLS INSTEAD.
 # ESPECIALLY THE FILES PROVIDED BY ANON.
 
+[You Can UNREDACT Some Of The Epstein Files Now...](https://www.youtube.com/watch?v=onGakyrs7ME)
+
 Twitter @FaytuksNetwork finds that files were not properly redacted.
 Publishes list of files that mention Trump, including redactions.
 I write a script to download these files.
@@ -11,6 +13,8 @@ I share a screenshot on Twitter to share the missing files.
 The result is somehow modified either by the wire or Twitter, clipped.
 
 Here is what I received directly from justice.gov via the script until it stopped working.
+
+If you have the rest of the files, consider making a PR.
 
  *    255 Dec 23 23:21 EFTA00040126.pdf
  *    275 Dec 23 23:21 EFTA00038804.pdf
