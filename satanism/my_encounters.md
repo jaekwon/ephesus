@@ -1,31 +1,147 @@
 # My encounters with Satanism in Ethereum and in general.
 
-1. Chris Harborne ex-MI6, right hand man of George Soros, Tether associated, early Ethereum funder before Ethereum mining algorithm was even finalized was buying tons of GPUs, who told me he helped launder money for Obama using jet fuel, and tried to get me to 23-and-me DNA testing by giving me a box; he is the one who told me to invite Ethan Buchman as late cofounder of Tendermint. Tether is associated with pedophilia, also Brock Pierce is associated. Chris Harborne rented an apartment in folsom street where for a period of months Ethan, myself, and a random Zach Hess (blockchain founder) 17 year old was invited; and I Vlad Zamfir of Ethereum would often come by. In this Folsom st San Francisco apartment Chris Harborne stacked GPUs. Here Zach Hess tried to convince me to make the port of Tendermint 6^6. I didn't think he was Satanic and I didn't want to so I made it close to 6^6 you can still see that today. Later Zach Hess admitted to me that he is a Satanist.
+I am not ascribing anyone here in particular w/ Satanism. These are all facts
+from my perspective that pertain to a general satanic subversion of my work.
+Names mentioned are so mentioned to help me understand the general influence of
+satanism as it trickles down from the Rothschilds.
 
-2. At a boat party in Shanghai organized by Shelley and Jim Yang there was a panel with Vitalik and myself and others. And while I was saying something about ethical responsibility Ethereum people including Vitalik were snickering about me being like Jesus. This was before I even became Christian... the Tendermint logo was a coincidence, I was looking for a 2/3 braid. At the time my thinking was "Jesus isn't that bad". I never went to Church.
+1. Chris Harborne ex-MI6, right hand man of George Soros, Tether associated,
+   early Ethereum funder before Ethereum mining algorithm was even finalized
+   was buying tons of GPUs, who told me he helped launder money for Obama using
+   jet fuel, and tried to get me to 23-and-me DNA testing by giving me a box;
+   he is the one who told me to invite Ethan Buchman as late cofounder of
+   Tendermint. Tether is associated with pedophilia, also Brock Pierce is
+   associated. Chris Harborne rented an apartment in folsom street where for a
+   period of months Ethan, myself, and a random Zach Hess (blockchain founder)
+   17 year old was invited; and I Vlad Zamfir of Ethereum would often come by.
+   In this Folsom st San Francisco apartment Chris Harborne stacked GPUs. Here
+   Zach Hess tried to convince me to make the port of Tendermint 6^6. I didn't
+   think he was Satanic and I didn't want to so I made it close to 6^6 you can
+   still see that today. Later Zach Hess admitted to me that he is a Satanist.
 
-3. At some Ethereum conference I was approached by one of the founders of MolochDAO if not the main guy, to found it with him.
+2. At a boat party in Shanghai organized by Shelley and Jim Yang there was a
+   panel with Vitalik and myself and others. And while I was saying something
+   about ethical responsibility Ethereum people including Vitalik were
+   snickering about me being like Jesus. This was before I even became
+   Christian... the Tendermint logo was a coincidence, I was looking for a 2/3
+   braid. At the time my thinking was "Jesus isn't that bad". I never went to
+   Church.
 
-4. I am not ascribing satanism here, but just noting that Jehan who is South German used to be my roommate. Again I'm not ascribing anything to him but he joined Ethan in Cosmoverse2 where they tried to subvert Cosmos with maximum effort. Ethan had a slide of Pepe the frog crucified on the cross; and Jehan had a slide that said "No Gods". During this time Ethan Buchman's Twitter profile pic was literally the second beast of revelation; Jack Zampolin's profile picture had devil horns, etc. Only after I kept yelling at them about this did Ethan changed his profile pic eventually. Jehan and I had a falling out where I felt that my apartment was being taken over, I was also a dick and was eating their food in the fridge (lol). But after a period of bad vibes I had an incident where I got too blacked out drunk and broke glass and destroyed living trees in the house; that was the only time such a thing had happened and I have apoligized to them about it (I have not drunken excessively since). We have kept in touch since and again I don't ascribe anything to him. This was around 2017.
+3. At some Ethereum conference I was approached by one of the founders of
+   MolochDAO if not the main guy, to found it with him.
 
-5. I believe there is general association of the ICL and Germany, Magmar/Barry. Certainly Magmar/Barry have been intentionally subverting the original spirit of Cosmos even as they lie that they are striving for the original spirit of Cosmos. The chairman of the ICF who took my place is a former interpol and financial advisor to the WHO which Bill Gates funded to kill us with vaccines for his father's Eugenics plan, controlled by Epstein blackmail.
+4. I am not ascribing satanism here, but just noting that Jehan who is South
+   German used to be my roommate. Again I'm not ascribing anything to him but
+   he joined Ethan in Cosmoverse2 where they tried to subvert Cosmos with
+   maximum effort. Ethan had a slide of Pepe the frog crucified on the cross;
+   and Jehan had a slide that said "No Gods". During this time Ethan Buchman's
+   Twitter profile pic was literally the second beast of revelation; Jack
+   Zampolin's profile picture had devil horns, etc. Only after I kept yelling
+   at them about this did Ethan changed his profile pic eventually. Jehan and I
+   had a falling out where I felt that my apartment was being taken over, I was
+   also a dick and was eating their food in the fridge (lol). But after a
+   period of bad vibes I had an incident where I got too blacked out drunk and
+   broke glass and destroyed living trees in the house; that was the only time
+   such a thing had happened and I have apoligized to them about it (I have not
+   drunken excessively since). We have kept in touch since and again I don't
+   ascribe anything to him. This was around 2017.
 
-6. Michael Franeti(?) former employee of New Tendermint, LLC, told us that his best friend is a Rothschild with 100 cars in his garage... during a company offset in Florida (we are an international company) he was picked up by this Rothschild as well. I fired this employee because despite multiple warnings he tried to gamify the governance of gno.land, and continued to try to inject OpenAI into our workflow, such as for evaluating contributions.
+5. I believe there is general association of the ICL and Germany, Magmar/Barry.
+   Certainly Magmar/Barry have been intentionally subverting the original
+   spirit of Cosmos even as they lie that they are striving for the original
+   spirit of Cosmos. The chairman of the ICF who took my place is a former
+   interpol and financial advisor to the WHO which Bill Gates funded to kill us
+   with vaccines for his father's Eugenics plan, controlled by Epstein
+   blackmail.
 
-7. Not quite as related but, Grace Yu told me that Tess, who was former All in Bits, Inc employee who I know is not qualified, the ICF foundation council with Ethan Buchman and Brian Crain (whose wife I believe is the granddaughter of a former dictator of Turkey--but see point 9 below, and they together used to work at Monax formerly Eris Industries; and somehow one of the other co-founders is a frequent commentator on Zerohedge despite just being a lawyer; and this lawyer Preston Byrne lied to Grace as Grace told me that his new firm representing Grace would help resolve the situation back when AIB was suing Grace before I dropped it simply because the defamation campaign had stopped, and I tweeted why about the Jubilee being of forgiveness). Grace Yu who has been working with the ICF/ICL has admited to me that she knows that the ICF/ICL's job is to counter me personally. She agrees. Grace Yu went to Yale, her background is a lot like Vivek R. Grace Yu recently tried to convince my mother that I needed to put in a psych ward. She did this underhandedly.
+6. Michael Franeti(?) former employee of New Tendermint, LLC, told us that his
+   best friend is a Rothschild with 100 cars in his garage... during a company
+   offset in Florida (we are an international company) he was picked up by this
+   Rothschild as well. I fired this employee because despite multiple warnings
+   he tried to gamify the governance of gno.land, and continued to try to
+   inject OpenAI into our workflow, such as for evaluating contributions.
 
-8. Ethan Buchman is a huge Ethereum head. I'm not saying Ethan Buchman is satanic. However his best friend since high school who happens to be Vlad Zamfir, basically cofounder with Vitalik of Ethereum, apparently went to jail for a while and has told me about the left hand path that he says nobody should go through.
+7. Not quite as related but, Grace Yu told me that Tess, who was former All in
+   Bits, Inc employee who I know is not qualified, is the daughter of Bill
+   Gates' ghostwriter. She replaced me in the ICF foundation council with Ethan
+   Buchman and Brian Crain despite my please that she is not qualified, that
+   Sunny or Dev is better (Brian whose wife I believe is the granddaughter of a
+   former dictator of Turkey--but see point 9 below, and they together used to
+   work at Monax formerly Eris Industries; and somehow one of the other
+   co-founders is a frequent commentator on Zerohedge despite just being a
+   lawyer; and this lawyer Preston Byrne lied to Grace as Grace told me that
+   his new firm representing Grace would help resolve the situation back when
+   AIB was suing Grace before I dropped it simply because the defamation
+   campaign had stopped, and I tweeted why about the Jubilee being of
+   forgiveness). Grace Yu who has been working with the ICF/ICL has admited to
+   me that she knows that the ICF/ICL's job is to counter me personally. She
+   agrees. Grace Yu went to Yale, her background is a lot like Vivek R. Grace
+   Yu recently tried to convince my mother that I needed to put in a psych
+   ward. She did this underhandedly.
 
-9. The main trust multisig wallet of Ethereum is gnosis's multisig system. The founder as far as I know is good guy but he is probably a gnostic, and modern gnosticism is strange and anti-Christian. It should also be mentioned that Brian Crain's wife a long time ago called me to ask to rename gno.land to something else. I am pretty sure it was Brian Crain's wife who is the grand-daughter of an ex-dictator of Turkey, though I may be mistaken and it may be the gnosis founder's. In any case.
+8. Ethan Buchman is a huge Ethereum head. I'm not saying Ethan Buchman is
+   satanic. However his best friend since high school who happens to be Vlad
+   Zamfir, basically cofounder with Vitalik of Ethereum, apparently went to
+   jail for a while and has told me about the left hand path that he says
+   nobody should go through.
 
-10. Zaki Manian and Jessy Irwin both defamed me after leaving All in Bits, Inc. He claimed after he left that I was harassing employees with religion "in all channels"; Jessy Irwin after she in the presence of Shelley admitted to me that she stole Bitcoins from her former ex on the false pretense of getting back at him for whistleblowing, showed me her purse she purchased with said Bitcoins... later she accused me of "harassment" during the #MeToo era. Zaki's allegation was completely false; at the time I had barely talked about God or religion; the one thing I did was to tell the people in Slack, ONCE in general chat, that "we are doing God's work". I don't know if Zaki is a satanist but seems pretty satanic to overreact like that.
+9. The main trust multisig wallet of Ethereum is gnosis's multisig system. The
+   founder as far as I know is good guy but he is probably a gnostic, and
+   modern gnosticism is strange and anti-Christian. It should also be mentioned
+   that Brian Crain's wife a long time ago called me to ask to rename gno.land
+   to something else. I am pretty sure it was Brian Crain's wife who is the
+   grand-daughter of an ex-dictator of Turkey, though I may be mistaken and it
+   may be the gnosis founder's. In any case.
 
-11. Zaki Manian even before he started causing FUD within AIB, Inc, even told me that his favorite book is "The traitorous eight" about the founding of Intel, before he started doing what he did. When I pitched the company on Virgo he wanted to present on my behalf; and then when he left he claimed that I was wasting company resources on it. During the time when he was still an employee, he told me to my face that he does what he does because "I am too dangerous". And said that his goal was to remain friends with me while backstabbing me and to this day I have no idea why he said that, except to say that his overall technique seems like advanced psychological manipuation techniques.
+10. Zaki Manian and Jessy Irwin both defamed me after leaving All in Bits, Inc.
+    He claimed after he left that I was harassing employees with religion "in
+    all channels"; Jessy Irwin after she in the presence of Shelley admitted to
+    me that she stole Bitcoins from her former ex on the false pretense of
+    getting back at him for whistleblowing, showed me her purse she purchased
+    with said Bitcoins... later she accused me of "harassment" during the
+    #MeToo era. Zaki's allegation was completely false; at the time I had
+    barely talked about God or religion; the one thing I did was to tell the
+    people in Slack, ONCE in general chat, that "we are doing God's work". I
+    don't know if Zaki is a satanist but seems pretty satanic to overreact like
+    that.
 
-12. I've been asked at Sudoroom which a dozen people including Jehan helped cofound in Oakland, once to found a religion called Kopimism, by some other guy there who is a communist. Matt I think was his name?
+11. Zaki Manian even before he started causing FUD within AIB, Inc, even told
+    me that his favorite book is "The traitorous eight" about the founding of
+    Intel, before he started doing what he did. When I pitched the company on
+    Virgo he wanted to present on my behalf; and then when he left he claimed
+    that I was wasting company resources on it. During the time when he was
+    still an employee, he told me to my face that he does what he does because
+    "I am too dangerous". And said that his goal was to remain friends with me
+    while backstabbing me and to this day I have no idea why he said that,
+    except to say that his overall technique seems like advanced psychological
+    manipuation techniques.
 
-13. I was asked to help w/ Dogecoin's tokenomics waaay back in the day, I knew Jackson one of the cofounders. I said the forever flat inflation is fine, it is a feature not a bug, to help with security. For this I was called Dogecoin Jesus; this was after the 2013 first Tendermint whitepaper. Later Elon Musk who is definitely a Satanist, or a former satanist in any case (even his Twitter profile pic is/was satanic and so many other signs, his mother especially), renamed Twitter to X on the Tisha Ba'av (satanic to do so), made the Tanit sign on stage w/ Trump, started repeating verbatim what I said about "feature not a bug", named the government agency DOGE, and made the Grok logo the former gno.land logo. This is *after* I started telling people at the Santa Monica yacht game about this; and there are connections to Elon Musk there, such as one organizer (who I won't name) whose gf is Elon Musk's favorite photographer.
+12. I've been asked at Sudoroom which a dozen people including Jehan helped
+    cofound in Oakland, once to found a religion called Kopimism, by some other
+    guy there who is a communist. Matt I think was his name?
 
-14. Also of note is that both Grace Yu and I got death threats on the same day, w/ Twitter-trained AI w/ pupmos, and a Nazi sympathizing "Dr. Ko" who has since deleted his twitter, that I have documented on Twitter under @jaekwon. (unrelated, my former twitter is @jaesustein). This was before Grok was announced I believe, and it is interesting that Elon Musk also gave the Nazi salute on stage. And of course this ties back into German satanism.
+13. I was asked to help w/ Dogecoin's tokenomics waaay back in the day, I knew
+    Jackson one of the cofounders. I said the forever flat inflation is fine,
+    it is a feature not a bug, to help with security. For this I was called
+    Dogecoin Jesus; this was after the 2013 first Tendermint whitepaper. Later
+    Elon Musk who is definitely a Satanist, or a former satanist in any case
+    (even his Twitter profile pic is/was satanic and so many other signs, his
+    mother especially), renamed Twitter to X on the Tisha Ba'av (satanic to do
+    so), made the Tanit sign on stage w/ Trump, started repeating verbatim what
+    I said about "feature not a bug", named the government agency DOGE, and
+    made the Grok logo the former gno.land logo. This is *after* I started
+    telling people at the Santa Monica yacht game about this; and there are
+    connections to Elon Musk there, such as one organizer (who I won't name)
+    whose gf is Elon Musk's favorite photographer.
 
-15. In general see github.com/jaekwon/ephesus for Rothschild and 666, and it becomes clear why Nazi/Zionism are two sides of the same coin under Satanism.
+14. Also of note is that both Grace Yu and I got death threats on the same day,
+    w/ Twitter-trained AI w/ pupmos, and a Nazi sympathizing "Dr. Ko" who has
+    since deleted his twitter, that I have documented on Twitter under
+    @jaekwon. (unrelated, my former twitter is @jaesustein). This was before
+    Grok was announced I believe, and it is interesting that Elon Musk also
+    gave the Nazi salute on stage. And of course this ties back into German
+    satanism.
+
+15. In general see github.com/jaekwon/ephesus for Rothschild and 666, and it
+    becomes clear why Nazi/Zionism are two sides of the same coin under
+    Satanism.
