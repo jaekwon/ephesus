@@ -1202,6 +1202,13 @@ that the monarchy seems to be ensnared with something.
 <img src="./images/british4.jpg" />
 <img src="./images/british5.png" />
 
+> According to the latest tranche of documents, released on Monday night, the
+> victim was once taken to royal property Frogmore Cottage, where they were
+> restrained and tortured with electric shocks by Ghislaine Maxwell.
+> 
+> They claim that Andrew and other men watched on as the torture took place.
+>  - [Daily Mail, Dec 26th, 2025](https://www.dailymail.co.uk/news/article-15414507/British-police-ask-FBI-claim-drugged-driven-paedophile-ring-Andrew-Ghislaine-Maxwell-tortured-electric-shocks.html) ([snapshot](./satanism/andrew_epstein_torture.png))
+
 Also related is that the City of London has the highest contentration of
 Freemason lodges in the world, and the British monarchy is part of the
 Freemason secret society. 
