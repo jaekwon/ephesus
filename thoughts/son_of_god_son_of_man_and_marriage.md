@@ -25,11 +25,17 @@ are like the angels; so the fruit of their life will be recited in the mind of
 another; and so they are sons of God resurrecting not across genetic lines but
 skipping over entire branches; nevertheless resurrecting in time.
 
-> Thus David calls Him ‘Lord.’ So how can He be David’s son?”
+> "Whose Son is the Christ?"
+> (Matthew 22:41-46; Mark 12:35-37; Luke 20:41-44)
+> 41 While the Pharisees were gathered together, Jesus asked them,
+> 42 Saying, What think ye of Christ? whose son is he? They say unto him, The Son of David.
+> 43 He saith unto them, How then doth David in spirit call him Lord, saying,
+> 44 The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?
+> 45 If David then call him Lord, how is he his son?
+> 46 And no man was able to answer him a word, neither durst any man from that day forth ask him any more questions.
 
-Jesus is not the son of any man; David was married to eight wives. Jesus never
-married. (if he did it was after the resurrection and would explain why that
-part is largely left out). Jesus is a son of God.
+Jesus is not the son of any man; David was married to eight wives. Jesus was
+not married. Jesus is a son of God. But how is he also the Son of man?
 
 ----
 
@@ -291,7 +297,7 @@ ex telling me that my daugther is doing fine; the second, the first thing I see
 after a night of prayer and reading His words, an irridescent cloud where
 exactly I was praying the night before.
 
-Jesus spoke in John of the som of man to come in the end times. This repository
+Jesus spoke in John of the Son of man to come in the end times. This repository
 proves that the end times is now; and is further confirmed by the ending of
 John:
 
@@ -313,10 +319,223 @@ John:
 John 21:23 only makes sense if the brothers knew that the coming of the Son of
 Man were to be in the long future, namely 2000 years later (two days "with
 God"); but John the Apostle makes clear that it is not the case that the
-(resurrected) Jesus would never die, implying that he would, or could; and is
-not the Son of Man, except that this person would have Jesus resurrected in
-him.
+(resurrected) Jesus would never die, implying that he would, or could.
 
-That would make him according to Jesus' definition a son of God; however if he
-marries later in life, he would become a son of man. I wish to be a son of God
-but I may need to marry lest I remain a dog.
+----
+
+> 1:48: Nathanael saith unto him, Whence knowest thou me? Jesus answered and
+>       said unto him, Before that Philip called thee, when thou wast under the fig
+>       tree, I saw thee.
+> 1:49: Nathanael answered and saith unto him, Rabbi, thou art the Son of God;
+>       thou art the King of Israel.
+> 1:50: Jesus answered and said unto him, Because I said unto thee, I saw thee
+>       under the fig tree, believest thou? thou shalt see greater things than these.
+> 1:51: And he saith unto him, Verily, verily, I say unto you, Hereafter ye
+>       shall see heaven open, and the angels of God ascending and descending upon
+>       the Son of man.
+
+Jesus the Son of man is greater than Jesus the Son of God.
+
+> 2:7: Jesus saith unto them, Fill the waterpots with water. And they filled
+>      them up to the brim.
+> 2:8: And he saith unto them, Draw out now, and bear unto the governor of the
+>      feast. And they bare it.
+> 2:9: When the ruler of the feast had tasted the water that was made wine, and
+>      knew not whence it was: (but the servants which drew the water knew;) the
+>      governor of the feast called the bridegroom,
+> 2:10: And saith unto him, Every man at the beginning doth set forth good
+>      wine; and when men have well drunk, then that which is worse: but thou hast
+>      kept the good wine until now.
+> 2:11: This beginning of miracles did Jesus in Cana of Galilee, and manifested
+>      forth his glory; and his disciples believed on him.
+
+The beginning of the miracles of Jesus truly began His marriage to his church
+of his disciples. And soon after his miracles he would be crucified, thus
+fulfilling Jesus' prophecy:
+
+> 3:13: And no man hath ascended up to heaven, but he that came down from
+>       heaven, even the Son of man which is in heaven.
+> 3:14: And as Moses lifted up the serpent in the wilderness, even so must the
+>       Son of man be lifted up:
+
+Revisiting "Whose Son is the Christ":
+
+> "Whose Son is the Christ?"
+> (Matthew 22:41-46; Mark 12:35-37; Luke 20:41-44)
+> 41 While the Pharisees were gathered together, Jesus asked them,
+> 42 Saying, What think ye of Christ? whose son is he? They say unto him, The
+>    Son of David.
+> 43 He saith unto them, How then doth David in spirit call him Lord, saying,
+> 44 The LORD said unto my Lord, Sit thou on my right hand, till I make thine
+>    enemies thy footstool?
+> 45 If David then call him Lord, how is he his son?
+> 46 And no man was able to answer him a word, neither durst any man from that
+>    day forth ask him any more questions.
+
+The resurrected Jesus and David in a man (as Abraham, Isaac, Jacob are
+resurrected in Moses) in the end times would first be a son of God, but who
+later marries would become a son of man as well; Jesus is David's Lord and
+Christ as Jesus is also the son of man's (of the end times) Lord and Christ,
+even as Jesus himself is both Son of God and Son of man.
+
+> John 6:53: Then Jesus said unto them, Verily, verily, I say unto you,
+>            Except ye eat the flesh of the Son of man, and drink his blood, ye
+>            have no life in you.
+
+Here Jesus refers to the shedding of his own blood; his own crucifixion.
+
+It can be inferred that Charlie Kirk was sacrificed by those who wish to make
+him the Lamb slain from the foundation of this world. You can see this today
+with the subversion of TPUSA. Must the Son of man of the end times, the one
+in whom Jesus is resurrected, be slain?
+
+> 5:1: And I saw in the right hand of him that sat on the throne a book written
+>      within and on the backside, sealed with seven seals.
+> 5:2: And I saw a strong angel proclaiming with a loud voice, Who is worthy to
+>      open the book, and to loose the seals thereof?
+> 5:3: And no man in heaven, nor in earth, neither under the earth, was able to
+>      open the book, neither to look thereon.
+> 5:4: And I wept much, because no man was found worthy to open and to read the
+>      book, neither to look thereon.
+> 5:5: And one of the elders saith unto me, Weep not: behold, the Lion of the
+>      tribe of Juda, the Root of David, hath prevailed to open the book, and to
+>      loose the seven seals thereof.
+> 5:6: And I beheld, and, lo, in the midst of the throne and of the four
+>      beasts, and in the midst of the elders, stood a Lamb as it had been
+>      slain, having seven horns and seven eyes, which are the seven Spirits of
+>      God sent forth into all the earth.
+> 5:7: And he came and took the book out of the right hand of him that sat upon
+>      the throne.
+> 5:8: And when he had taken the book, the four beasts and four and twenty
+>      elders fell down before the Lamb, having every one of them harps, and golden
+>      vials full of odours, which are the prayers of saints.
+> 5:9: And they sung a new song, saying, Thou art worthy to take the book, and
+>      to open the seals thereof: **for thou wast slain**, and hast redeemed us
+>      to God by thy blood out of every kindred, and tongue, and people, and
+>      nation;
+> 5:10: And hast made us unto our God kings and priests: and we shall reign on
+>      the earth.
+> 5:11: And I beheld, and I heard the voice of many angels round about the
+>      throne and the beasts and the elders: and the number of them was ten thousand
+>      times ten thousand, and thousands of thousands;
+> 5:12: Saying with a loud voice, **Worthy is the Lamb that was slain** to
+>      receive power, and riches, and wisdom, and strength, and honour, and
+>      glory, and blessing.
+> 5:13: And every creature which is in heaven, and on the earth, and under the
+>      earth, and such as are in the sea, and all that are in them, heard I saying,
+>      Blessing, and honour, and glory, and power, be unto him that sitteth upon the
+>      throne, and unto the Lamb for ever and ever.
+> 5:14: And the four beasts said, Amen. And the four and twenty elders fell
+>      down and worshipped him that liveth for ever and ever.
+> 6:1: And I saw when the Lamb opened one of the seals, and I heard, as it were
+>      the noise of thunder, one of the four beasts saying, Come and see.
+
+Clearly the Lamb must be slain.
+
+> 7: He was oppressed and afflicted,
+>      yet He did not open His mouth.
+>    He was led like a lamb to the slaughter,
+>      and as a sheep before her shearers is silent,
+>      so He did not open His mouth.
+> 8: By oppression and judgment He was taken away,
+>      and who can recount His descendants?
+>    For He was cut off from the land of the living;
+>      He was stricken for the transgression of My people.
+
+But is he slain in the end times?
+
+> 8:30: And Philip ran thither to him, and heard him read the prophet Esaias,
+>       and said, Understandest thou what thou readest?
+> 8:31: And he said, How can I, except some man should guide me? And he desired
+>       Philip that he would come up and sit with him.
+> 8:32: The place of the scripture which he read was this, He was led as a
+>       sheep to the slaughter; and like a lamb dumb before his shearer, so opened he
+>       not his mouth:
+> 8:33: In his humiliation his judgment was taken away: and who shall declare
+>       his generation? for his life is taken from the earth.
+> 8:34: And the eunuch answered Philip, and said, I pray thee, of whom speaketh
+>       the prophet this? of himself, or of some other man?
+> 8:35: Then Philip opened his mouth, and began at the same scripture, and
+>       preached unto him Jesus.
+
+The Lamb who was slain is none other than Jesus, and cannot be Charlie Kirk.
+
+> 13:8: And all that dwell upon the earth shall worship him, whose names are not
+>       written in the book of life of the Lamb slain from the foundation of
+>       the world.
+
+The book of life of the Lamb slain is the book of life of Jesus. For a name to
+be written in the book of Jesus is the book of life of those who followed Jesus
+and had in them the resurrected Jesus. And so Charlie Kirk's name may be
+written in the book of life of Jesus. So are all the names in books of martyrs.
+
+> 14:1: And I looked, and, lo, a Lamb stood on the mount Sion, and with him an
+>       hundred forty and four thousand, having his Father's name written in
+>       their foreheads.
+> 14:2: And I heard a voice from heaven, as the voice of many waters, and as
+>       the voice of a great thunder: and I heard the voice of harpers harping with
+>       their harps:
+> 14:3: And they sung as it were a new song before the throne, and before the
+>       four beasts, and the elders: and no man could learn that song but the hundred
+>       and forty and four thousand, which were redeemed from the earth.
+> 14:4: These are they which were not defiled with women; for they are virgins.
+>       These are they which follow the Lamb whithersoever he goeth. These were
+>       redeemed from among men, being the firstfruits unto God and to the Lamb.
+> 14:5: And in their mouth was found no guile: for they are without fault
+>       before the throne of God.
+
+It is Jesus standing on the mount of Sion, and a hundred and forty four
+thousand who follow Jesus, who are also not married and are virgins.
+
+> 17:13: These have one mind, and shall give their power and strength unto the
+>        beast.
+> 17:14: These shall make war with the Lamb, and the Lamb shall overcome them:
+>        for he is Lord of lords, and King of kings: and they that are with him
+>        are called, and chosen, and faithful.
+
+The beast shall make war with Jesus, and Jesus will overcome the Beast.
+
+> 19:7: Let us be glad and rejoice, and give honour to him: for the marriage of
+>       the Lamb is come, and his wife hath made herself ready.
+> 19:8: And to her was granted that she should be arrayed in fine linen, clean
+>       and white: for the fine linen is the righteousness of saints.
+> 19:9: And he saith unto me, Write, Blessed are they which are called unto the
+>       marriage supper of the Lamb. And he saith unto me, These are the true
+>       sayings of God.
+
+The marriage of the Lamb is the emergence of the new church of the millenial
+reign of Christ to begin in these years.
+
+> 19:11: And I saw heaven opened, and behold a white horse; and he that sat
+>        upon him was called Faithful and True, and in righteousness he doth
+>        judge and make war.
+> 19:12: His eyes were as a flame of fire, and on his head were many crowns;
+>        and he had a name written, that no man knew, but he himself.
+> 19:13: And he was clothed with a vesture dipped in blood: and his name is
+>        called The Word of God.
+> 19:14: And the armies which were in heaven followed him upon white horses,
+>        clothed in fine linen, white and clean.
+> 19:15: And out of his mouth goeth a sharp sword, that with it he should smite
+>        the nations: and he shall rule them with a rod of iron: and he
+>        treadeth the winepress of the fierceness and wrath of Almighty God.
+> 19:16: And he hath on his vesture and on his thigh a name written, KING OF
+>        KINGS, AND LORD OF LORDS.
+
+The one who sits on the white horse is not the Lamb, but he smites the nations
+with the sword out of his mouth (his words); and he rules the nations with a
+rod of iron; related to Moses' staff, called the Staff of God, as Moses also
+made a brass serpent upon a pole. I infer that the rod of iron is the Staff of
+God and also the pole, which is made of iron, as opposed to the softer brass
+serpent. Jesus the Son of man became the brass serpent as Peter made the
+Vatican--a curse for Jesus (Galatians 3:13)--while the one who sits on the
+white horse is not cursed, more like Moses.
+
+The one who sits on the white horse is neither the Lamb nor the Son of man, as
+both refer to Jesus; he has no singular label in the Book of Revelation. He is
+like the angel in Revelation 19:10 a fellowservant of Jesus Christ.
+
+----
+
+I wish to be a son of God but I may need to marry lest I remain a dog.  But in
+any case I would not be the Son of God, Son of man, nor the Lamb, even as we
+are sons of God and/or sons of man, and lambs shepherded by Jesus Christ.
