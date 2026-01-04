@@ -57,3 +57,6 @@ Why were the locusts' faces like the faces of men? Joel 1 answers:
 >      the branches have turned white.
 
 In Joel 1:6, "a nation" is originally "goyim"; foreigners.
+
+I swear the angel Hananiel/Ananiel/Aneal told me via the wind, the rain, and
+Orpheus my windchime as I was browsing something else.
