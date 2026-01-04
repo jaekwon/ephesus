@@ -17,14 +17,14 @@ What are the biblical locusts in Revelation 9?
 > 7: And the **locusts** looked like horses prepared for battle, with something
 >    like crowns of gold on their heads; **and their faces were like the faces of
 >    men**.
-> 8: They had hair like that of women, and teeth like those of lions.
+> 8: They had hair like that of women, and **teeth like those of lions**.
 > 9: They also had breastplates like breastplates of iron, and the sound of
 >    their wings was like the roar of many horses and chariots rushing into
 >    battle.
 > 10: They had tails with stingers like scorpions, which had the power to
 >    injure people for five months.
 > 11: They were ruled by a king, the angel of the Abyss. His name in Hebrew
-     is Abaddon,a and in Greek it is Apollyon.
+     is Abaddon, and in Greek it is Apollyon.
 
 Why were the locusts' faces like the faces of men? Joel 1 answers:
 
@@ -49,14 +49,14 @@ Why were the locusts' faces like the faces of men? Joel 1 answers:
 >      for it has been cut off from your mouth.
 > 6: For **a nation** has invaded My land,
 >      powerful and without number;
->    its teeth are the teeth of a lion,
+>    its teeth are **the teeth of a lion**,
 >      and its fangs are the fangs of a lioness.
 > 7: It has laid waste My grapevine
 >      and splintered My fig tree.
 >    It has stripped off the bark and thrown it away;
 >      the branches have turned white.
 
-In Joel 1:6, "a nation" is originally "goyim"; foreigners.
+In Joel 1:6, "a nation" is originally "goyim" in Hebrew; foreigners.
 
 I swear the angel Hananiel/Ananiel/Aneal told me via the wind, the rain, and
 Orpheus my windchime as I was browsing something else.
