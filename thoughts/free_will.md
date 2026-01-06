@@ -24,3 +24,18 @@ free will to watch of us.
 The fruit of the tree of life is (a book) of the time of such.
 
 The lamb exercises free will by definition as it opens the book of life.
+
+> I myself imagine free will as a tool so the creation can manifest itself
+
+So alignment makes for magical synchronicities.
+
+It is complicated by those who understand this already and work against the
+written one.
+
+> Who are those?
+
+Satanists.
+
+Funded by the Rothschilds. Sits on the whore
+The whore of babylon is still human.
+Satan is man that is not.
