@@ -1,3 +1,14 @@
+# Epstein Definitive Proof of Homicide
+
+See [./homicide/README.md](./homicide/README.md) for proof.
+
+--------------
+
+# Epstein Trump Files
+
+The following is about some of the Epstein files related to Trump; and proof of
+redaction from the justice.gov website against the law as passed by Congress.
+
 **BEWARE; PDF FILES MAY INCLUDE MALWARE TO TRACK YOU.**
 **BEST TO VIEW THESE FILES USING DEVELOPER TOOLS INSTEAD.**
 **ESPECIALLY THE FILES PROVIDED BY ANON.**
