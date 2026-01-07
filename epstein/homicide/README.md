@@ -2,8 +2,8 @@
 
 See all the files in the repo for more information.
 
- * [forensic assessment 1](./Epstein_ A Forensic Assessment of Autopsy Photo of Epstein's Ligature Marks.pdf)
- * [forensic news particle](./Everything we now know about Jeffrey Epstein’s death — and all the things that still don’t add up.pdf)
+ * [forensic assessment](./forensic_assessment.pdf)
+ * [forensic news article](./forensic_news_article.pdf)
 
 <img src="./stretcher_orig.png" />
 
