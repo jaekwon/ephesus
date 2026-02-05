@@ -1,16 +1,14 @@
-Originally a reply in another thread but worth creating a separate thread
-for. This is not merely historical, it is the root of the problem plaguing
-Cosmos today.This is not only a political and technical problem, this is a
-spiritual and moral problem.
+# Origins of Cosmos Drama
+_from https://forum.cosmos.network/t/the-origin-of-cosmos-drama/11927 Oct 2023._
 
-UPDATE: Please excuse my language below, I had a hard time containing my
+_UPDATE: Please excuse my language below, I had a hard time containing my
 frustrations. Atom.One now exists as a fork of Cosmos so my focus is on
 supporting Atom.One and Gno.land. There's no need for hate or anger; God works
 in supernatural ways, and we are commanded to forgive each other's trespasses
 and to turn the other cheek. The latter only made sense to me recently after a
 series of supernatural experiences following signs from God during prayer
 (2024) and being "born of the spirit" (2025). Now I have no doubt that God is
-real and that God has a plan for all of us.
+real and that God has a plan for all of us._
 
 ------------------------------------------------------------------------------
 
