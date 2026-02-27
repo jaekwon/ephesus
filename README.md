@@ -340,72 +340,46 @@ it, the "woman" in scarlet and purple.
 > and his number is Six hundred threescore and six.
 > - Revelation 13:11-18
 
-Initially I figured that Elon Musk was playing the role of the Second Beast
-(esp w/ the Trump presidency), but in recent days I can't help but acknowledge
-that I agree with much of what Elon says nowadays, even as I disagree with some
-of his thoughts especially on immigration policy. I can only hope that he does
-not have ties or restrictions that prevent him from doing what is in the best
-interest of humanity; it certainly seems that he is *trying* to do the right
-thing from his tweets, such as by suing OpenAI, and keeping Twitter free, even
-as I am shadowbanned via advanced means on Twitter.
+Elon Musk is playing the role of the Second Beast (false prophet), but it's not
+just Elon; there was a whole globalist apparatus that engineered the Covid19
+strain as well as lockdown mandates with experimental gene therapy sold as
+vaccines.
 
-(Recently I saw one of my Tweets regarding Mark Kelly or 3I/ATLAS drop the
-retweet count from 13 to 2. It seems that whatever system was used to suppress
-vaccine mis-information in collaboration with government agencies is still used
-to censor my speech.)
+<img src="./images/trump_warpspeed.jpg" />
 
-I hope this is a situation that can be resolved by communication, because if
-Elon Musk is a genuine person not controlled by the deep state, then we could
-be allies in saving the United States and the world together. Perhaps this 
-was God's plan all along.
+Donald Trump started Operation Warp Speed before Biden continued the policies
+of vaccine mandates. They appear to work for the same deep state.
 
-Here is what initially caused me to associate Elon with the Second Beast:
+ * **causeth the earth and them which dwell therein to worshop the first beast,
+   whose deadly wound was healed**: Elon endorsed Trump immediately after the
+   "alleged" shooting.
 
-> There was a whole globalist apparatus that
-> engineered the Covid19 strain as well as lockdown mandates with experimental
-> gene therapy sold as vaccines.
-> 
-> <img src="./images/trump_warpspeed.jpg" />
-> 
-> Donald Trump started Operation Warp Speed before Biden continued the policies
-> of vaccine mandates. They appear to work for the same deep state.
-> 
-> * **causeth the earth and them which dwell therein to worshop the first beast,
-> whose deadly wound was healed**: Elon endorsed Trump immediately after the
-> "alleged" shooting.
-> 
-> * **he maketh fire come down from heaven on the earth**: SpaceX lands on on
-> earth.
-> 
-> * **he had the power to give life unto the image of the beast, that the image
-> of the beast should both speak**: OpenAI, which Elon Musk funded, and admits
-> could unleash demons.
-> 
-> * **he causeth all, ... to receive a mark in their right hand, or in their
-> foreheads**: while it applies also to the mandated vaccine shots, so is
-> Elon, who named Twitter to X on the day of Tisha B'Av, also as in Space"X",
-> and even in the middle of the Neuralink logo, the Hebrew letter Tav of the
-> mark.
-> 
-> * **that no man might buy or sell, save he that had the mark, or the name of
-> the beast, or the number of his name.**: natural question: to what degree is
-> Twitter sharing information with Palantir or Clearview? (these are companies
-> owned by former PayPal cofounder Peter Thiel).
-> 
-> <img src="./images/elon_endorses_trump.png" />
->
-> Are they evil, are they being blackmailed, or are they just trolling us?  It's
-> almost like politicians and drug companies are competing with the technocratti
-> for the role of the Second Beast. It makes even more morbid sense when they are
-> considered to be working together; the vaccine mandate working along side a
-> panopticon control grid to make sure you take the experimental genetic therapy
-> so called a "vaccine".
+ * **he maketh fire come down from heaven on the earth**: SpaceX lands on on
+   earth.
 
-But since then Elon Musk has changed course and split from Trump. While I am
-concerned about all the data funneled to Elon Musk's DOGE team, I am more
-concerned about the ongoing relationship w/ France for the US's RealID,
-considering that Candace Owens is claiming that Bridgette Macron hired
-assassins to kill her.
+ * **he had the power to give life unto the image of the beast, that the image
+   of the beast should both speak**: OpenAI, which Elon Musk funded, and admits
+   could unleash demons.
+
+ * **he causeth all, ... to receive a mark in their right hand, or in their
+   foreheads**: while it applies also to the mandated vaccine shots, so is
+   Elon, who named Twitter to X on the day of Tisha B'Av, also as in Space"X",
+   and even in the middle of the Neuralink logo, the Hebrew letter Tav of the
+   mark.
+
+ * **that no man might buy or sell, save he that had the mark, or the name of
+   the beast, or the number of his name.**: natural question: to what degree is
+   Twitter sharing information with Palantir or Clearview? (these are companies
+   owned by former PayPal cofounder Peter Thiel).
+
+<img src="./images/elon_endorses_trump.png" />
+
+Are they evil, are they being blackmailed, or are they just trolling us?  It's
+almost like politicians and drug companies are competing with the technocratti
+for the role of the Second Beast. It makes even more morbid sense when they are
+considered to be working together; the vaccine mandate working along side a
+panopticon control grid to make sure you take the experimental genetic therapy
+so called a "vaccine".
 
 It should also be noted that it is Sam Altman who turned the non-profit OpenAI
 into a for-profit, and is now speaking in public about how concerned he is
@@ -414,97 +388,7 @@ can attest to the fact that there has been since 2022 or 2023 a lot of AI bots
 on Twitter, and today in 2025 there are entire ecosystems of AI bots that are
 designed to scam Twitter users of their crypto tokens.
 
-I do not understand why Elon Musk's Twitter company does not address this
-problem that is so apparent to me. (I refuse to call it X, as X means 'mark').
-
-It is worth noting also that Trump is making deals at the time of this writing
-with Saudi Arabia and promoting Zohran Mamdani from the whitehouse. I have
-nothing but respect for God fearing/loving Muslims, just as I have nothing but
-respect for God fearing/loving jews, and at the same time it is striking that
-the haddith prophecies of Isa (Jesus) returning to slay the cross with the
-Mahdi is being fulfilled across the northern hemisphere with radical Islam
-activists destroying churches, destroying crosses, and even killing Christians.
-
-The Quran makes a distinction between the Vatican trinitarians and the "people
-of the book" as far as I know, and while the rest of this document proves the
-Vatican *confessing* to the role of the Harlot of Bablyon, I would consider
-myself not a member of any denomination but more specifically a "person of the
-book (bible)". Well, the Old Testament, and the books of Matthew, John, and
-Revelation to be exact, as well as some of the gnostic texts such as the book
-of Thomas which I adore but I understand may be misunderstood by the reader (at
-least from my perspective). 
-
-So who is the false prophet? I cannot accuse Mohammad of being a false prophet,
-because factually Islam is the fastest growing religion in the world, and
-Muslims appear to be more devout than many western Christians!
-
-But at the risk of losing my head I will merely note that the beast "from the
-earth" does seem to associate with *radical* Islam; and that there appears to
-be practices in some countries like Pakistan that are harmful for children in
-the name of God or Mohammad, but that most Muslims would be abhorred by the
-practice of underage marriage today, and that the Christian churches namely the
-Catholic church is known for hiding these problems of the clergy as well.
-
-The bible clearly says that priests must be married men. I don't understand how
-the bishops can profess to be Christian while not being married, and as Pope
-Francis admitted, that there is a "gay problem" in the Vatican. And the cross
-as a symbol of Christianity is not appropriate in my opinion, for it was the
-tool of Jesus's crusifixion; so it makes sense that it be replaced with another
-symbol, especially for premillenialists such as myself. It used to be a fish!
-
-The Celtic trinity knot with a circle in the middle like the Tendermint logo is
-more aligned; there will always be those who claim that Jesus *is* God or that
-Jesus is an angel. I personally believe that he was a man born in the flesh who
-lived a life that any other man cannot match in piety, and that he was
-crucified for speaking up against the state of His time, was absolutely guided
-by God, and is still with us today in spirit, and that He is the only man, son
-of God, and son of man worthy of being referenced with the capital letter H in
-the English language, and that He will always be with us. I also believe that
-there is something about our consciousness itself that is beyond life and death
-in our fleshy bodies; that out-of-body experiences and certain paranormal
-experiences such as being "born of the spirit" as described in the book of John
-(which I have experienced, and much more TODO write about them!) point to a
-different model of "quantum consciousness" that science has yet to explain.
-
-TODO: NOTE to Itzhak Bentov's writings, and also
-https://www.dailymail.co.uk/sciencetech/article-15325395/theory-consciousness-near-death-experience.html
-
-TODO: Write about the primary distinction between Islam and "book"
-Christianity. Focus on relationship to women; its impact or necessity as it
-relates to war; the abuses polygamy (even as it relates to Mormon revelations);
-and the theological conflict regarding the status of Jesus as the begotten son
-of God. In short, as long as everyone understands Jesus and how he stood for
-protecting the purity of children above all other prophets, and Muslims
-understand the nuances described here, peace may feasible between the "people
-of the book" and Muslims with sound border and immigration policy that respects
-the distinction of a Christian country vs a Muslim country. If borders cannot
-be enforced effectively (say without adopting the beast system) then there will
-be conflict, and this is now apparent in both the USA and Europe. Eventually it
-is inevitable for Muslims to become more aware of Jesus and the virtues of His
-gospels, and likewise for Christians to become more aware of the virtues in the
-Quran. When we have figured out a reasonable way of living for both, we would
-have established peace, and in peace time the teachings of Jesus will naturally
-rise in import even for Muslims; and all prophecies would be fulfilled.
-
 TODO: Write more on AI specifically.
-
-<img src="./images/joerogan.png"/>
-
-Eventually we will have proper AI simulations of Jesus to guide our children,
-but the AI would make clear that it is merely a simulation and refer to
-scripture and the best interpretations thereof, and all AI that people use
-would be accountable, deterministic, etc. This is inevitable. But until then,
-there will be many false attempts, or God forbid malicious attempts. This is
-also inevitable.
-
-I do not know whether it is inevitable for Mohammad to be simulated in AI and
-worshipped as well; one would expect such to be rejected by Islam as djinn, but
-there are always the radicalists.
-
-Radical Islam, or at least a splinter thereof will abuse AI and simulated
-Mohammad, and this may create a large schism. In that case those who reject AI
-Mohammad would naturally side w/ Christians by virtue of the book of
-Revelation. Well, it seems inevitable if you think about it.
 
 ## The Mark of the Beast
 
