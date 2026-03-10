@@ -438,8 +438,10 @@ subtle means, such as by showing the book "How to Lie with Statistics", and
 remarking about Epstein's death that "one has to be careful". Will Bill Gates
 be redeemed?
 
-The clear danger, for those with eyes to see, is this: whether or not Trump
-gets elected president again, those who spoke out against the vaccine mandate
+_Update: Trump was re-elected president in November 2024._
+
+The clear danger, for those with eyes to see, is this: those who spoke out
+against the vaccine mandate
 are being compiled by the panopticon of the technocrats. With drug companies,
 politicians, judges, and police working together, they will arrest those
 dissenters and witnesses, so that the population reduction agenda of the elites
@@ -702,7 +704,11 @@ infiltrates?
 
 Trump, it is said, is a Scottish Rite Freemason, and it appears that some such
 secret organization performed a ritual — a magic "trick" — in order to whip
-Christian men into supporting war in the Middle East. The ritual screams that
+Christian men into supporting war in the Middle East.
+
+_Update: Trump was re-elected in 2024 and escalated conflict with Iran._
+
+The ritual screams that
 Trump represents the First Beast of Revelation: Freemasonry helping build the
 new Babylon, with an ear that was "miraculously healed", just as the head of
 the First Beast.
