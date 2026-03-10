@@ -404,6 +404,43 @@ designed to scam Twitter users of their crypto tokens.
 
 TODO: Write more on AI specifically.
 
+### Islam and the Second Beast
+
+It is worth noting that Trump has been making deals with Saudi Arabia — the
+seat of Sunni Islam — while waging war against Shiite Iran. The Sunni-Shiite
+divide, rooted in a succession dispute after Mohammad's death, has shaped the
+geopolitics of the Middle East for over a millennium, and these alliances carry
+prophetic weight given the region's centrality to biblical and Islamic
+eschatology. The question of who fulfills the role of the "beast from the
+earth" (the false prophet) extends beyond any single figure.
+
+Islamic hadith prophecies describe Isa (Jesus) returning alongside the Mahdi to
+"break the cross" — and across parts of the northern hemisphere, radical
+Islamist movements have been destroying churches and crosses, and in some cases
+killing Christians. This pattern is striking in light of Revelation's
+prophecies, though it must be distinguished from the faith of the vast majority
+of Muslims, who would find such violence abhorrent.
+
+The Quran itself draws a distinction between the Vatican-style trinitarians and
+the "people of the book." Much of this document demonstrates how the Vatican
+has, by its own symbolism and history, aligned itself with the Harlot of
+Babylon — a position that mainstream Islam has also long critiqued, albeit from
+different theological premises.
+
+The question of whether Islam's rapid growth and the devoutness of its
+adherents fulfills any prophetic role is a sensitive one. What can be said is
+that peace between Christians and Muslims depends on mutual understanding: for
+Muslims to engage more deeply with the teachings of Jesus as recorded in the
+Gospels, and for Christians to recognize the moral seriousness of the Quran's
+ethical demands. Both traditions, at their best, call for the protection of the
+innocent and the worship of one God.
+
+The theological distinction is real — Islam does not accept Jesus as the
+begotten Son of God — but the shared reverence for Jesus as a prophet provides
+common ground. Where radical elements in any tradition exploit religion for
+violence, the faithful of both traditions have reason to stand together against
+it.
+
 ## The Mark of the Beast
 
 TODO: The Covid Vaccine & Lockdown Mandate, association w/ WHO and Bill Gates.
