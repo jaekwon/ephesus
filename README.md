@@ -340,15 +340,9 @@ it the "woman" in scarlet and purple.
 > and his number is Six hundred threescore and six.
 > - Revelation 13:11-18
 
-Elon Musk is playing the role of the Second Beast (false prophet), but it's not
-just Elon; there was a whole globalist apparatus that engineered the Covid19
-strain as well as lockdown mandates with experimental gene therapy sold as
-vaccines.
-
-<img src="./images/trump_warpspeed.jpg" />
-
-Donald Trump started Operation Warp Speed before Biden continued the policies
-of vaccine mandates. They appear to work for the same deep state.
+Elon Musk is playing the role of the Second Beast (false prophet). He is not
+the only one — there is a whole globalist apparatus behind the scenes — but
+consider how precisely his actions map onto the prophecy:
 
  * **causeth the earth and them which dwell therein to worship the first beast,
    whose deadly wound was healed**: Elon endorsed Trump immediately after the
@@ -374,12 +368,22 @@ of vaccine mandates. They appear to work for the same deep state.
 
 <img src="./images/elon_endorses_trump.png" />
 
-Are they evil, are they being blackmailed, or are they just trolling us?  It's
-almost like politicians and drug companies are competing with the technocrats
-for the role of the Second Beast. It makes even more morbid sense when they are
-considered to be working together; the vaccine mandate working alongside a
-panopticon control grid to make sure you take the experimental genetic therapy
-so-called "vaccine".
+But it's not just Elon. There was a whole globalist apparatus that engineered
+the Covid19 strain as well as lockdown mandates with experimental gene therapy
+sold as vaccines.
+
+<img src="./images/trump_warpspeed.jpg" />
+
+Donald Trump started Operation Warp Speed before Biden continued the policies
+of vaccine mandates. They appear to work for the same deep state.
+
+Are they evil, are they being blackmailed, or are they just trolling us?
+
+It's almost like politicians and drug companies are competing with the
+technocrats for the role of the Second Beast. But it makes even more morbid
+sense when you consider them working together: the vaccine mandate working
+alongside a panopticon control grid to ensure compliance with experimental
+genetic therapy sold as a "vaccine".
 
 It should also be noted that it is Sam Altman who turned the non-profit OpenAI
 into a for-profit, and is now speaking in public about how concerned he is
@@ -413,32 +417,34 @@ a script that ends up exposing them when it is too late. And now the "true
 Christians" have indeed exposed the NWO agenda, and this awareness is growing
 exponentially.
 
-This control grid was leaked by whistleblower Senator Larry McDonald in the
-70's, whose plane was soon after shot down.
-[https://odysee.com/@Commentator:e4/Former_US_Congressman_Larry_McDonald:1](https://odysee.com/@Commentator:e4/Former_US_Congressman_Larry_McDonald:1)
-[https://twitter.com/Xx17965797N/status/1578662395358384128](https://twitter.com/Xx17965797N/status/1578662395358384128).
-The "monolithic and ruthless conspiracy that relies on covert means" was leaked
-before by JFK who was assassinated in 1963.
+This control grid is not new. It was warned about decades ago by those who
+paid for it with their lives. JFK spoke of a "monolithic and ruthless
+conspiracy that relies on covert means" and was assassinated in 1963.
 [https://odysee.com/@Real_Solutions:b/JFK's-Monolithic-Conspiracy-Revelation:7](https://odysee.com/@Real_Solutions:b/JFK's-Monolithic-Conspiracy-Revelation:7)
 [https://www.youtube.com/watch?v=RhkjYJAHCjM](https://www.youtube.com/watch?v=RhkjYJAHCjM).
-Now we have experienced the NWO control grid by the WEF, and its young global
-leaders, such as Fauci, Gates, Gavin Newsom, Trudeau; and even experiencing the
-war between Zelenski and Putin. The WEF, whose leader Schwab boasted about
-having infiltrated government cabinets, also wants us to "own nothing and be
-happy". If it isn't clear enough, their logo even includes a subtle 666.
+Senator Larry McDonald whistleblew about the same control grid in the 70's, and
+his plane was soon after shot down.
+[https://odysee.com/@Commentator:e4/Former_US_Congressman_Larry_McDonald:1](https://odysee.com/@Commentator:e4/Former_US_Congressman_Larry_McDonald:1)
+[https://twitter.com/Xx17965797N/status/1578662395358384128](https://twitter.com/Xx17965797N/status/1578662395358384128).
+
+Today, we are experiencing this control grid firsthand through the WEF and its
+young global leaders — Fauci, Gates, Gavin Newsom, Trudeau — and even through
+the war between Zelensky and Putin. The WEF, whose leader Schwab boasted about
+having infiltrated government cabinets, wants us to "own nothing and be happy".
+If it isn't clear enough, their logo even includes a subtle 666.
 
 Bill Gates made it clear that it's about population control. He whistleblew by
 subtle means, such as by showing the book "How to Lie with Statistics", and
-about Epstein's death how "one has to be careful". Will Bill Gates be redeemed?
+remarking about Epstein's death that "one has to be careful". Will Bill Gates
+be redeemed?
 
-The clear danger that is presented at face value, for those with eyes to see,
-is that after Trump gets elected president again, or whether or not he does,
-that those who spoke out against the vaccine mandate would be compiled by the
-panopticon of the technorati and with the drug companies and politicians and
-judges and police working together, and will arrest those dissenters and
-witnesses, so that the population reduction agenda of the elites can play out
-as they wish. This is the most straightforward interpretation of what is
-presented, albeit in the disguised language of biblical steganography.
+The clear danger, for those with eyes to see, is this: whether or not Trump
+gets elected president again, those who spoke out against the vaccine mandate
+are being compiled by the panopticon of the technocrats. With drug companies,
+politicians, judges, and police working together, they will arrest those
+dissenters and witnesses, so that the population reduction agenda of the elites
+can play out as they wish. This is the most straightforward interpretation of
+what is presented, albeit in the disguised language of biblical steganography.
 
 ## The Two Witnesses
 
@@ -460,19 +466,14 @@ And what are candlesticks that are standing before the God of the earth?
 > - Revelation 1:20
 
 The seven spirits are given unto the seven churches, to whom seven letters are
-written in the beginning of the Book of Revelation. It is left as an exercise
-to the reader which two of the seven churches are told to prepare to die by the
-First Beast.
+written in the beginning of the Book of Revelation. Of the seven, only two are
+told to prepare for death — not by retribution from God, but by something
+unnamed. They are Smyrna and Sardis.
 
-Again, if we were to take our leaders at face value, they are telling us,
-without being explicit, but through their actions and timing as correlated with
-the description of these beasts, that they will altogether exercise their
-authority to persecute religious testimony and activities by the two churches
-led by the two spirits.
-
-Which two churches? Of the seven letters, only two are told to prepare for
-death, not by retribution from God, but by something unnamed. They are Smyrna
-and Sardis.
+If we take our leaders at face value, they are telling us — not explicitly, but
+through their actions and their timing as correlated with these beasts — that
+they will exercise their authority to persecute the two churches led by the two
+spirits.
 
 ```
 3:1: And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead.
@@ -490,7 +491,10 @@ and Sardis.
 2:11: He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death.
 ```
 
-Notice also that both Palestine and Syria were originally Christian nations.
+Notice that Smyrna and Sardis were both in what is now Turkey — once a
+Christian heartland, now not. The same is true of Palestine and Syria, both
+originally Christian nations, now torn apart by war. The persecution of
+Christianity in its own birthplace is not coincidental.
 
 ## The Harlot of Babylon
 
@@ -680,28 +684,28 @@ by the Pope.
 > what we can do.”
 > - Pope Francis
 
-What is the relationship between the gay lobby, and that of Babylon? William
-Cooper had a podcast series called Mystery Babylon before Alex Jones came into
-his picture. I believe it was episode 42 maybe where it describes the origin of
-the Freemasons as being a reaction to the persecution of atheists and
-Protestant reformers by the Jesuit order including homosexual people.
+What is the relationship between the gay lobby and Babylon? William Cooper
+explored this in his podcast series "Mystery Babylon" — I believe it was around
+episode 42 where he describes the origin of the Freemasons as a reaction to the
+persecution of atheists, Protestant reformers, and homosexual people by the
+Jesuit order.
 
-After meeting Alex Jones in an interview, he reported that Alex Jones had tried
-to make William Cooper look bad by cooking the interview segments, and after
-some period of time he was shot by police.
-(Alex Jones tried to defame him as he explains in "Behold a Pale Horse")
+Cooper later appeared in an interview with Alex Jones, after which Cooper
+reported that Jones had manipulated the interview segments to make him look bad.
+Cooper was eventually shot and killed by police. (He documents his conflict
+with Jones in his book "Behold a Pale Horse".)
 
-How many people in the police are Freemasons? Or Judges? We in the US have
-freedom of religion, and beliefs, but at what point is it beyond "influencing",
-and even beyond "subverting" as if by Communism. But instead it is the
-destruction of all countries at the expense of one exception.
+How many police officers are Freemasons? How many judges? We in the US have
+freedom of religion and belief, but at what point does secret fraternal loyalty
+cross from "influencing" into outright subversion of the institutions it
+infiltrates?
 
-Trump, it is said, is a Scottish Rite Freemason, and it appears to me that some
-such secret organization performed a ritual (magic "trick") in order to whip
-White and Christian men into supporting the war against Iran. And the ritual
-screams that Trump represents the First Beast of revelation. Then so is
-Freemasonry being represented as helping build the new Babylon, with an ear
-that was "miraculously healed", just as the head of the First Beast.
+Trump, it is said, is a Scottish Rite Freemason, and it appears that some such
+secret organization performed a ritual — a magic "trick" — in order to whip
+Christian men into supporting war in the Middle East. The ritual screams that
+Trump represents the First Beast of Revelation: Freemasonry helping build the
+new Babylon, with an ear that was "miraculously healed", just as the head of
+the First Beast.
 
 > And the ten horns which thou sawest upon the beast, these shall hate the
 > whore, and shall make her desolate and naked, and shall eat her flesh, and
@@ -1144,35 +1148,51 @@ XXX include relevance of the overdue jubilee.
 
 --
 
-Just a reminder that the same photographer who photographed Bush during 9/11, while the kids were chanting "PLANE MUST HIT STEEL" also photographed Trump, while he said "IF YOU REALLY WANT TO TALK ABOUT SOMETHING... TAKE A LOOK AT THIS" as he dodged but his ear got "hit"...
+Consider this: the same photographer who photographed Bush during 9/11 — while
+the kids were chanting "PLANE MUST HIT STEEL" — also photographed Trump, who
+said "IF YOU REALLY WANT TO TALK ABOUT SOMETHING... TAKE A LOOK AT THIS" as
+he dodged and his ear got "hit".
 
-> It wasn't a mortal head wound
+Some common objections:
+
+> It wasn't a mortal head wound.
 
 It was for Hitler.
 
-> It wasn't a sword
+> It wasn't a sword.
 
 The right ear is the one nicked by a sword during knighting.
 
-> Someone died
+> Someone died.
 
-9/11 was an inside job too, to get us into the middle east. Remember also the lies about WMDs.
+9/11 was an inside job too, to get us into the Middle East. Remember the lies
+about WMDs.
 
-> It was God
+> It was God.
 
-Again 9/11 was an inside job. And "Crooks" and "Cheatle"?! Audio forensics showed that there were 2 shooters; enough to stage a live magic show; and MAGA literally means magic. Black MAGA is obviously black magic.
+Again, 9/11 was an inside job. And "Crooks" and "Cheatle"?! Audio forensics
+showed that there were two shooters — enough to stage a live magic show. MAGA
+literally means magic. Black MAGA is obviously black magic.
 
-Bush was Skull&Bones, Trump is Scottish Rite. 9/11 was already in media, such as the Simpsons, and Back to the Future had Biff w/ a time-machine, and had to go 88 MPH (88=HH=Hitler).
+Bush was Skull & Bones; Trump is Scottish Rite. 9/11 was foreshadowed in media
+— the Simpsons, and Back to the Future with Biff and a time machine that had
+to go 88 MPH (88 = HH = Hitler).
 
-My point is this. Whoever is running this show, wants the prophecies to be fulfilled. It's a double-edged sword though; in the end, things turn out OK, but not for the most people. Read and understand what comes next.
+My point is this: whoever is running this show wants the prophecies to be
+fulfilled. It's a double-edged sword though — in the end, things turn out OK,
+but not for most people. Read and understand what comes next.
 
-Also, there's no guarantee that the man behind the curtain wants ALL the prophecies to be fulfilled. So, prepare for the worst.
+There's also no guarantee that the man behind the curtain wants ALL the
+prophecies to be fulfilled. So prepare for the worst.
 
-As for blackmail, it loses its power when the right side has copies too.
+As for blackmail — it loses its power when the right side has copies too.
 
-As for the conflict in the middle east... I want peace, but the prophecies seem to say something different.
+As for the conflict in the Middle East: I want peace, but the prophecies seem
+to say something different.
 
-If you want to survive what is coming, be patient, don't fight in war, flee to the mountains if the abomination of desolation is in the holy place, and don't go here nor there when there are rumors of his coming. Especially UFOs :P.
+If you want to survive what is coming: be patient, don't fight in war, flee to
+the mountains if the abomination of desolation is in the holy place, and don't
+go here nor there when there are rumors of his coming. Especially UFOs :P.
 
 Find Jesus in you, and learn how to pray; times are about to get difficult.
 
@@ -1196,10 +1216,10 @@ to the Titanic.
 
 <img src="./images/titanic3.jpg" />
 
-The above meme is maybe as far as one might find, that three key figures
-against the Federal Reserve were murdered by the intentional sinking of the
-Titanic, and that JP Morgan who owns the ship and threw the party dipped out
-at the last minute. Here are more details.
+The above meme is about as far as most people's knowledge goes: that three
+key figures opposed to the Federal Reserve were murdered by the intentional
+sinking of the Titanic, and that JP Morgan — who owned the ship and threw the
+party — dipped out at the last minute. But there is more to the story.
 
 <img src="./images/titanicburn.jpg" />
 
