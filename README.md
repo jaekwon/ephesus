@@ -685,8 +685,8 @@ by the Pope.
 > - Pope Francis
 
 What is the relationship between the gay lobby and Babylon? William Cooper
-explored this in his podcast series "Mystery Babylon" — I believe it was around
-episode 42 where he describes the origin of the Freemasons as a reaction to the
+explored this in his podcast series "Mystery Babylon" — in particular around
+episode 42, where he describes the origin of the Freemasons as a reaction to the
 persecution of atheists, Protestant reformers, and homosexual people by the
 Jesuit order.
 
@@ -860,9 +860,8 @@ Torah:
 
 #### On Abuse
 
-It's difficult to write these down, and maybe it is better for them to remain
-mysteries to be forgotten in the heat of entropy, so some images are attached
-instead.
+These are difficult to write down. Some images of the source material are
+attached instead.
 
 <img src="./images/btalmud1.jpg" />
 <img src="./images/btalmud2.jpg" />
@@ -1047,7 +1046,7 @@ bearer's wife; usually not done unless she is an heiress.
 
 Related is the coat of arms of the Haldemann. Notice the similarity between it
 and the first head of the Rothschild coat of arms. Elon Musk's mother is a
-Haldemann, and apparently cameoed in satanic ways in a music video etc. But we
+Haldemann, and has appeared in media with satanic symbolism. But we
 should not be judged by our lineage or genetics as we are each our own
 sovereign individual. Elon is his own individual, and if anything is a victim
 of his circumstances.
@@ -1192,9 +1191,49 @@ to say something different.
 
 If you want to survive what is coming: be patient, don't fight in war, flee to
 the mountains if the abomination of desolation is in the holy place, and don't
-go here nor there when there are rumors of his coming. Especially UFOs :P.
+go here nor there when there are rumors of his coming — especially UFOs.
 
-Find Jesus in you, and learn how to pray; times are about to get difficult.
+## What Then Shall We Do?
+
+If you have read this far, you may be wondering what any of this means for you.
+
+The evidence presented here — from the celestial timestamp of Revelation 12, to
+the patterns of Babylon recurring through empires and institutions, to the
+control grid being assembled in plain sight — paints a picture that is
+difficult to dismiss entirely. Whether you accept every connection drawn here
+or only some, the convergence of so many threads demands at least honest
+inquiry.
+
+The good news is that this was all foretold, and that it ends well — not for
+every institution, and not for every person, but for those who endure. The book
+does not ask you to fight. It asks you to see clearly, to refuse to be
+deceived, and to hold fast.
+
+Practically:
+
+ * **Do not comply with what violates your conscience.** The mark, whatever
+   form it ultimately takes, is a test of compliance. It can only be forced on
+   those who consent out of fear.
+ * **Build real community.** The systems of control described here depend on
+   isolation and dependence. Relationships with people you trust, outside of
+   digital infrastructure, are your strongest defense.
+ * **Seek truth, not tribe.** The left-right divide, the controlled opposition,
+   the partisan theater — these are designed to keep you reactive. Step outside
+   of them.
+ * **Prepare materially.** Sound money, stored food, local resilience. Not out
+   of paranoia, but out of prudence. The systems we depend on are fragile by
+   design.
+ * **Pray.** Not as ritual, but as honest communication with whatever you
+   understand God to be. If even a fraction of what is described here is real,
+   then the spiritual dimension is not optional.
+
+Find Jesus in you, and learn how to pray. Times are about to get difficult,
+but you are not alone in this.
+
+> He that leadeth into captivity shall go into captivity: he that killeth with
+> the sword must be killed with the sword. Here is the patience and the faith
+> of the saints.
+> - Revelation 13:10
 
 --
 
@@ -1219,7 +1258,8 @@ to the Titanic.
 The above meme is about as far as most people's knowledge goes: that three
 key figures opposed to the Federal Reserve were murdered by the intentional
 sinking of the Titanic, and that JP Morgan — who owned the ship and threw the
-party — dipped out at the last minute. But there is more to the story.
+party — cancelled his ticket at the last minute. But there is more to the
+story.
 
 <img src="./images/titanicburn.jpg" />
 
@@ -1410,7 +1450,8 @@ participants in the ritual blackmailable as willing participants of a ritual.
 > - Nikolai Mushegian, October 28, 2022, co-founder of Ethereum's MakerDAO
 >   stablecoin project
 
-(is this for real or a joke?)
+Mushegian was found dead on Condado Beach in Puerto Rico later that same day.
+The official ruling was drowning.
 
 <img src="./images/ian_trans1.jpg" />
 <img src="./images/ian_trans2.jpg" />
