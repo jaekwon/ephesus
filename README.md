@@ -554,6 +554,11 @@ Christianity in its own birthplace is not coincidental.
 > that mighty city! for in one hour is thy judgment come.
 > - Revelation 18:1-10
 
+What follows traces the thread of Babylon through several domains: its
+mythological origins in the incestuous cults of Egypt and Mesopotamia, its
+infiltration of the early Church, its codification in the Talmud, its
+expression in modern politics and banking, and its global reach today.
+
 Both Babylon and Ancient Egypt have incestuous mythologies. Let's start with
 Ancient Egypt.
 
@@ -1412,11 +1417,6 @@ For those who want more conflict for their agenda, consider the changing nature
 of our reality (as per Luke 12:2-3) in the information age, and what awaits
 those who kill or jail others in order to maintain their control over public
 discourse and thinking.
-
-> He that leadeth into captivity shall go into captivity: he that killeth with
-> the sword must be killed with the sword. Here is the patience and the faith
-> of the saints.
-> - Revelation 13:10
 
 ### Satanism in Media
 
