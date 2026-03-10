@@ -52,14 +52,14 @@ First you must understand the differences between the following books:
 > converted, and I should heal them**.
 > - Matthew 13:10-15
 
-For two thousand years, that "they seeing not" would not understand.
+For two thousand years, "they seeing not" would not understand.
 
 > But in the days of the voice of the seventh angel, when he shall begin to
 > sound, **the mystery of God should be finished**, as he hath declared to his
 > servants the prophets.
 > - Revelation 10:7
 
-But the time of the mysteries have finished, as of the end of 2024, because it
+But the time of the mysteries has finished, as of the end of 2024, because it
 is seven years after the Sept 23rd 2017 Revelation 12 sign, and also the voice
 of the seventh angel did begin to sound, according to the book.
 
@@ -74,7 +74,7 @@ Revelation 12:1 encodes the date and time of Sept 23rd, 2017.
 > seasons, and for days, and years:
 > - Genesis 1:14
 
-Genesis clearly says that the stars maybe used for signs. This was how the Magi
+Genesis clearly says that the stars may be used for signs. This was how the Magi
 found Jesus in Bethlehem.
 
 > Now when Jesus was born in Bethlehem of Judaea in the days of Herod the
@@ -83,7 +83,7 @@ found Jesus in Bethlehem.
 > and are come to worship him.
 > - Matthew 2:1
 
-This sign was a real historical event, known as the Star of Bethlehem 3 BC, and
+This sign was a real historical event, known as the Star of Bethlehem, 3 BC, and
 can be observed with astronomy software.
 
 > A conjunction is a close apparent approach between two celestial objects.
@@ -127,7 +127,7 @@ encoded in verse 12 of the Book of Revelation:
 > caught up unto God, and to his throne.
 > - Revelation 11:19-12:5
 
-This sign happens uniquely in Sept 23rd, 2017, discovered by Luis Vega in 2008
+This sign happens uniquely on Sept 23rd, 2017, discovered by Luis Vega in 2008
 using astronomy software.
 
  * The woman is the constellation Virgo
@@ -170,7 +170,7 @@ In the Old Testament there is an allusion to the correspondence between each
 day in Genesis representing a thousand years. Today, the year 2024, we are on
 the cusp of the seventh day of Genesis, or six thousand years since Adam.
 
-(We know that the first homosapiens walked the earth much earlier than six
+(We know that the first Homo sapiens walked the earth much earlier than six
 thousand years ago, but how many of them had "eaten from the tree of knowledge
 of good and evil"?  Consider that the estimate for the earliest form of writing
 was no earlier than 6000 years ago, from Mesopotamia (c. 3400–3100 BCE).)
@@ -301,8 +301,8 @@ greater.
 > the words of God shall be fulfilled.
 > - Revelation 17:7-17
 
-The First Beast is not one man, but in general, global empire that carried with
-it, the "woman" in scarlet and purple.
+The First Beast is not one man, but rather a global empire that carried with
+it the "woman" in scarlet and purple.
 
 > And whereas thou sawest the feet and toes, part of potters' clay, and part of
 > iron, the kingdom shall be divided; but there shall be in it of the strength
@@ -375,16 +375,16 @@ of vaccine mandates. They appear to work for the same deep state.
 <img src="./images/elon_endorses_trump.png" />
 
 Are they evil, are they being blackmailed, or are they just trolling us?  It's
-almost like politicians and drug companies are competing with the technocrati
+almost like politicians and drug companies are competing with the technocrats
 for the role of the Second Beast. It makes even more morbid sense when they are
-considered to be working together; the vaccine mandate working along side a
+considered to be working together; the vaccine mandate working alongside a
 panopticon control grid to make sure you take the experimental genetic therapy
-so called a "vaccine".
+so-called "vaccine".
 
 It should also be noted that it is Sam Altman who turned the non-profit OpenAI
 into a for-profit, and is now speaking in public about how concerned he is
 about the technology his company created being misused for fraud and such. I
-can attest to the fact that there has been since 2022 or 2023 a lot of AI bots
+can attest to the fact that since 2022 or 2023 there have been a lot of AI bots
 on Twitter, and today in 2025 there are entire ecosystems of AI bots that are
 designed to scam Twitter users of their crypto tokens.
 
@@ -396,13 +396,16 @@ TODO: The Covid Vaccine & Lockdown Mandate, association w/ WHO and Bill Gates.
 TODO: Link to https://github.com/tendermint/atom_one/blob/master/README.md#how-to-immunize-against-the-mark-of-the-beast and atom.one.
 TODO: Link to RealID above.
 
-The powers of the world as represented by the WEF is intent on implementing the
-mark of the beast. As per the Book of Revelation,
+The powers of the world as represented by the WEF are intent on implementing
+the mark of the beast. As per the Book of Revelation:
 
-The nations of the world were deceived by pharmakia/medicine (Revelation 18 23)
-The mark (in original Koine greek, a needle prick) is required to buy or sell
-(Revelation 13:17) The mark gives you sores (Revelation 16:2) // NOTE: have no
-fear about it even if you got the shot.  How could it be that a two millennia
+ * The nations of the world were deceived by pharmakia/medicine (Revelation 18:23)
+ * The mark (in original Koine Greek, a needle prick) is required to buy or sell (Revelation 13:17)
+ * The mark gives you sores (Revelation 16:2)
+
+NOTE: have no fear about it even if you got the shot.
+
+How could it be that a two millennia
 old document can predict what is happening today? Well, most people don't read
 the bible at all, and anyone can see the light and turn into a white-hat. It
 appears to me that the white-hats have shepherded the black-hats into following
@@ -435,7 +438,7 @@ panopticon of the technorati and with the drug companies and politicians and
 judges and police working together, and will arrest those dissenters and
 witnesses, so that the population reduction agenda of the elites can play out
 as they wish. This is the most straightforward interpretation of what is
-presented, albeit in the disguised language of biblical stenography.
+presented, albeit in the disguised language of biblical steganography.
 
 ## The Two Witnesses
 
@@ -535,7 +538,7 @@ Notice also that both Palestine and Syria were originally Christian nations.
 > that mighty city! for in one hour is thy judgment come.
 > - Revelation 18:1-10
 
-Both Babylon and Ancient Egypt have incestual mythologies. Let's start with
+Both Babylon and Ancient Egypt have incestuous mythologies. Let's start with
 Ancient Egypt.
 
 The most well known mythology from Egypt is that of Osiris and Isis. Osiris and
@@ -546,7 +549,7 @@ his body and made another phallus out of clay, and bore Horus, their son, who
 Isis declared the reincarnation of Osiris. And it is said that Isis became
 Horus's consort.
 
-And Babylon too had much the same incestual mythology, and their false trinity
+And Babylon too had much the same incestuous mythology, and their false trinity
 is like Osiris, Isis, Horus.
 
 Ancient Greek historian Diodorus (1st century BCE) wrote that Semiramis
@@ -560,7 +563,7 @@ restored ancient Babylon.
 > anti-pagan polemic composed in the early fifth century AD. -- Elizabeth
 > Archibald, _Incest and the Medieval Imagination_
 
-The same pattern of the incestual Babylonian trinity was recorded since before
+The same pattern of the incestuous Babylonian trinity was recorded since before
 the year 0 CE. Despite the criticisms to the contrary, it seems that the
 conclusion of Hislop is in part reasonable:
 
@@ -575,10 +578,10 @@ conclusion of Hislop is in part reasonable:
 > flawed understanding of the texts,[43] but variations of them are accepted
 > among some[which?] groups of evangelical Protestants.[43] -- Wikipedia
 
-Semiramis probably didn't invent polytheism, seeing as that the same pattern
+Semiramis probably didn't invent polytheism, seeing as the same pattern
 emerged before Semiramis with Osiris and Isis in Egypt; and possibly even
 before that from the Phoenicians with a hypothetical cult of Dagon. The Old
-Testmanet isn't clear on Tammuz nor Dagon, but does mention them as opposing
+Testament isn't clear on Tammuz nor Dagon, but does mention them as opposing
 God.
 
 > Then he brought me to the door of the gate of the LORD'S house which was
@@ -587,7 +590,7 @@ God.
 > **thou shalt see greater abominations than these**.
 > -- Ezekiel 8:14-15,
 
-These aren't just mere speculation; it is a recurring theme from ancient Babylon.
+These aren't mere speculation; it is a recurring theme from ancient Babylon.
 Here's a tablet from the city of Donnu.
 
 <img src="./images/dunnu.png" />
@@ -597,7 +600,7 @@ In Phoenician mythology, Ouranos married his sister Ge and begat Dagon
 
 <img src="./images/sanchoniatho_dagon.png" />
 
-Ouranos literally means heaven, and from this ancient goddess is named Uranus
+Ouranos literally means heaven, and from this ancient name comes Uranus
 the planet.
 
 > But we will certainly do whatsoever thing goeth forth out of our own mouth,
@@ -647,14 +650,14 @@ who "scandalize" children. He is the protector of children, in spirit and in
 the word, and for this Christianity is attacked, subverted, and hated.
 
 Many are turned away from Christianity because of the abuses of the church and
-clerics. The Vatican and with the Catholic church leaders (surely!) knowingly
+clerics. The Vatican, along with Catholic church leaders, (surely!) knowingly
 gives off hints that they are playing the role of the Whore of Babylon.
 
 <img src="./images/vatican_babylon.jpg" />
 <img src="./images/dagon_mitre.jpg" />
 
 (While this figure is (probably) not Dagon, the resemblance with fish is clear.
-why would they wear that hat, clearly resembling a fish head, when there was
+Why would they wear that hat, clearly resembling a fish head, when there was
 already the (probably) myth that it was associated with Dagon? (What are the
 other origin stories of the "mitre hat", and for how long have they been
 worn?).
@@ -697,8 +700,8 @@ Trump, it is said, is a Scottish Rite Freemason, and it appears to me that some
 such secret organization performed a ritual (magic "trick") in order to whip
 White and Christian men into supporting the war against Iran. And the ritual
 screams that Trump represents the First Beast of revelation. Then so is
-Freemasonry being represented help build the new Babylon, with an ear that was
-"miraculously healed", just as the head of the First Beast.
+Freemasonry being represented as helping build the new Babylon, with an ear
+that was "miraculously healed", just as the head of the First Beast.
 
 > And the ten horns which thou sawest upon the beast, these shall hate the
 > whore, and shall make her desolate and naked, and shall eat her flesh, and
@@ -780,7 +783,7 @@ Babylonian Talmud:
 Old Testament:
 
 > Like a madman shooting firebrands or deadly arrows is a man who deceives his
-> neighbor and says, “I was only joking!” --Prover 26:18-19
+> neighbor and says, “I was only joking!” --Proverbs 26:18-19
 
 Babylonian Talmud:
 
@@ -913,12 +916,12 @@ are as well.
 
 <img src="./images/biden_horny.jpg"/>
 
-Surprising but true, it is there on CSPAN for everybody to see. It leads
+Surprising but true, it is there on CSPAN for everybody to see. It lends
 credence to the claim that Ashley's leaked diary contained the entry regarding
 "showers with my dad [Joe Biden] (probably not appropriate)". There is a
 lawsuit involving the theft of the diary.
 
-Not to mention of Hunter Biden's laptop, whose leaks in the very least show
+Not to mention Hunter Biden's laptop, whose leaks in the very least show
 complete degeneracy.
 
 And Vice President Harris, the current Democratic nominee for the 2024
@@ -949,7 +952,7 @@ Babylon overflows in Washington D.C.
 
 ### Babylon in Banking
 
-It is said that "money is the root of all evil", and it appears that there is
+It is said that "the love of money is the root of all evil", and it appears that there is
 the uttermost depth of meaning in its truth.
 
 <img src="./images/ronald_bernard.png" />
@@ -1013,7 +1016,7 @@ something called the Seal of Solomon.
 > 1897. - Wikipedia
 
 As Jacob Rothschild is credited as a founder of Israel, it is clear that it
-comes partly if not chiefly from the Rothschild's family crest.
+comes partly if not chiefly from the Rothschild family crest.
 
 The middle head has the Germanic eagle. The Rothschilds were originally from
 Frankfurt, Germany.
@@ -1040,7 +1043,7 @@ bearer's wife; usually not done unless she is an heiress.
 
 Related is the coat of arms of the Haldemann. Notice the similarity between it
 and the first head of the Rothschild coat of arms. Elon Musk's mother is a
-Haldemann, and apparently cameo'd in satanic ways in a music video etc. But we
+Haldemann, and apparently cameoed in satanic ways in a music video etc. But we
 should not be judged by our lineage or genetics as we are each our own
 sovereign individual. Elon is his own individual, and if anything is a victim
 of his circumstances.
@@ -1050,7 +1053,7 @@ of his circumstances.
 <img src="./images/wales_feathers.png" />
 
 You see also the three feathers in the British Monarchy. These three feathers
-are called the Prince of Wale's feathers.
+are called the Prince of Wales's feathers.
 
 > The Prince of Wales's feathers are the heraldic badge of the Prince of Wales,
 > the heir to the British throne. The badge consists of three white ostrich
@@ -1063,7 +1066,7 @@ are called the Prince of Wale's feathers.
 <img src="./images/charles666.jpg" />
 
 If it isn't clear that the feathers when in triplets represent the number 666,
-here is Charles in the WEF in front of the Prince of Wale's feathers, each
+here is Charles in the WEF in front of the Prince of Wales's feathers, each
 feather represented by 6 lines.
 
 The British Monarchy, like the Vatican, plays an overt role in Babylonian
@@ -1078,8 +1081,8 @@ according to mythology.
 
 While the theme may be interpreted to refer to simply global empire, which the
 British empire already was, from 1583 AD to 1997 AD the largest empire to span
-the earth, the connotations with the darker side of Babylonian culture given
-that the monarchy seems to be ensnared with something.
+the earth, the connotations with the darker side of Babylonian culture are hard to
+ignore, given that the monarchy seems to be ensnared with something.
 
 <img src="./images/british.jpg" />
 <img src="./images/british2.jpg" />
@@ -1248,7 +1251,7 @@ The Rothschild dynasty was represented by at least Paul Warburg:
 > Relations in 1921. The CFR being another tool of the global elite used to
 > oversee US foreign policy. - [clarityofsignal.com](https://clarityofsignal.com/2017/01/04/the-rothschilds-representative-at-1913-federal-reserve-the-cfr-i-g-farben/)
 
-In June 18th 2023 the OceanGate submersible "The Titan" suffered a catastrophic
+On June 18th, 2023, the OceanGate submersible "The Titan" suffered a catastrophic
 implosion while visiting the Titanic, instantly killing all five passengers
 aboard including the CEO and his son, allegedly. On the board of the company
 was of course a Rothschild.
@@ -1266,8 +1269,8 @@ evening, facing multiple charges, including terrorism, drug trafficking, fraud,
 money laundering, and child abuse content.  ... lack of content moderation and
 his failure to cooperate with French law enforcement." -- August 24th, 2024
 
-Allegations aside, this shows the difficulty of balancing the needs of freedom
-of speech enabling communications medium, with the needs for moderation.
+Allegations aside, this shows the difficulty of balancing the need for a free speech-enabling
+communications medium with the need for moderation.
 
 In Telegram it is trivial to make groups that aren't properly moderated. And
 the fact that the servers and client used to connect those engaged in illegal
@@ -1297,7 +1300,7 @@ the erosion of our speech tools to accelerate.
 #### On Political Censorship
 
 As the previous interpretation of Revelation 12 and 13 predicts, calls for
-outright censorship of information is rapidly accelerating. This is inevitable
+outright censorship of information are rapidly accelerating. This is inevitable
 in a society where the truth is coming out; and this is the nature of
 unstoppable light; and the NT states that everything that is hidden will be
 revealed.
