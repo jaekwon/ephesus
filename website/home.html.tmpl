@@ -3,18 +3,79 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Ephesus</title>
+<title>{{.Title}} - Ephesus</title>
 <link rel="stylesheet" href="/static/css/style.css">
 </head>
 <body>
-<div id="content">
+<div id="layout">
 {{if .TOC}}
 <nav id="toc">
-<strong>Table of Contents</strong>
+<div id="toc-inner">
+<strong><a href="/">Ephesus</a></strong>
+{{if .Pages}}
+<ul class="page-nav">
+{{range .Pages}}
+<li{{if .Active}} class="active"{{end}}><a href="{{.Path}}">{{.Title}}</a></li>
+{{end}}
+</ul>
+{{end}}
+<hr>
 {{.TOC}}
+</div>
 </nav>
 {{end}}
+<div id="content">
 {{.Content}}
 </div>
+</div>
+<script>
+(function() {
+  // Highlight current TOC entry on scroll
+  var headings = document.querySelectorAll('h1[id], h2[id], h3[id], h4[id]');
+  var tocLinks = document.querySelectorAll('#toc a[href^="#"]');
+  if (!headings.length || !tocLinks.length) return;
+
+  var linkMap = {};
+  tocLinks.forEach(function(a) {
+    linkMap[a.getAttribute('href').slice(1)] = a;
+  });
+
+  function onScroll() {
+    var scrollY = window.scrollY + 80;
+    var current = null;
+    for (var i = 0; i < headings.length; i++) {
+      if (headings[i].offsetTop <= scrollY) {
+        current = headings[i].id;
+      }
+    }
+    tocLinks.forEach(function(a) { a.classList.remove('active'); });
+    if (current && linkMap[current]) {
+      linkMap[current].classList.add('active');
+    }
+  }
+
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll();
+
+  // Collapsible TOC sections: click h2-level items to toggle children
+  var topItems = document.querySelectorAll('#toc > div > ul > li');
+  topItems.forEach(function(li) {
+    var subul = li.querySelector('ul');
+    if (!subul) return;
+    var link = li.querySelector(':scope > a');
+    if (!link) return;
+    var toggle = document.createElement('span');
+    toggle.className = 'toc-toggle';
+    toggle.textContent = '\u25B6';
+    toggle.addEventListener('click', function(e) {
+      e.preventDefault();
+      li.classList.toggle('collapsed');
+      toggle.textContent = li.classList.contains('collapsed') ? '\u25B6' : '\u25BC';
+    });
+    link.parentNode.insertBefore(toggle, link);
+    toggle.textContent = '\u25BC';
+  });
+})();
+</script>
 </body>
 </html>

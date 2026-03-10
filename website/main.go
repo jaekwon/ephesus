@@ -17,9 +17,28 @@ import (
 
 var tmpl *template.Template
 
+type PageNav struct {
+	Path   string
+	Title  string
+	Active bool
+}
+
 type PageData struct {
+	Title   string
 	Content template.HTML
 	TOC     template.HTML
+	Pages   []PageNav
+}
+
+// pages defines the available pages and their markdown sources.
+var pages = []struct {
+	Path  string // URL path
+	Title string // display title
+	File  string // markdown file path (relative to repo root)
+}{
+	{"/", "Main", "../README.md"},
+	{"/usdollar", "U.S. Dollar", "../usdollar/README.md"},
+	{"/jesus_and_taxes", "Jesus & Taxes", "../jesus_and_taxes/README.md"},
 }
 
 func main() {
@@ -29,46 +48,60 @@ func main() {
 		log.Fatal("failed to parse template: ", err)
 	}
 
-	http.HandleFunc("/", handleHome)
+	for _, pg := range pages {
+		pg := pg
+		http.HandleFunc(pg.Path, func(w http.ResponseWriter, r *http.Request) {
+			if r.URL.Path != pg.Path {
+				http.NotFound(w, r)
+				return
+			}
+			servePage(w, r, pg.Path, pg.Title, pg.File)
+		})
+	}
+
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("static"))))
 	http.Handle("/images/", http.StripPrefix("/images/", http.FileServer(http.Dir("../images"))))
+	// Serve images from subdirectories
+	http.Handle("/usdollar/images/", http.StripPrefix("/usdollar/images/", http.FileServer(http.Dir("../usdollar/images"))))
+	http.Handle("/jesus_and_taxes/images/", http.StripPrefix("/jesus_and_taxes/images/", http.FileServer(http.Dir("../jesus_and_taxes/images"))))
 
 	port := ":5001"
 	fmt.Println("Server is running on port", port)
 	log.Fatal(http.ListenAndServe(port, nil))
 }
 
-// readmeDir returns the path to look for the README.
-// It checks for ../README.md (running from website/ inside the repo).
-func readmePath() string {
-	if _, err := os.Stat("../README.md"); err == nil {
-		return "../README.md"
-	}
-	return "README.md"
-}
-
-func handleHome(w http.ResponseWriter, r *http.Request) {
-	if r.URL.Path != "/" {
-		http.NotFound(w, r)
-		return
-	}
-
-	md, err := os.ReadFile(readmePath())
+func servePage(w http.ResponseWriter, r *http.Request, currentPath, title, mdFile string) {
+	md, err := os.ReadFile(mdFile)
 	if err != nil {
-		http.Error(w, "Could not read README.md", http.StatusInternalServerError)
-		log.Println("error reading README:", err)
+		http.Error(w, "Could not read markdown file", http.StatusInternalServerError)
+		log.Println("error reading:", mdFile, err)
 		return
 	}
 
-	// Fix image paths: ./images/ -> /static/images/
-	md = fixImagePaths(md)
+	// Fix image paths relative to the page's URL path
+	imagePrefix := currentPath
+	if imagePrefix == "/" {
+		imagePrefix = ""
+	}
+	md = fixImagePaths(md, imagePrefix)
 
 	content := renderMarkdown(md)
 	toc := buildTOC(md)
 
+	var pageNav []PageNav
+	for _, pg := range pages {
+		pageNav = append(pageNav, PageNav{
+			Path:   pg.Path,
+			Title:  pg.Title,
+			Active: pg.Path == currentPath,
+		})
+	}
+
 	data := PageData{
+		Title:   title,
 		Content: template.HTML(content),
 		TOC:     template.HTML(toc),
+		Pages:   pageNav,
 	}
 
 	w.Header().Set("Content-Type", "text/html; charset=utf-8")
@@ -145,7 +178,7 @@ func extractText(node ast.Node) string {
 	return buf.String()
 }
 
-func fixImagePaths(md []byte) []byte {
-	result := strings.ReplaceAll(string(md), "./images/", "/images/")
+func fixImagePaths(md []byte, prefix string) []byte {
+	result := strings.ReplaceAll(string(md), "./images/", prefix+"/images/")
 	return []byte(result)
 }
