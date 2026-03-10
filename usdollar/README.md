@@ -212,3 +212,7 @@ group of private bankers, as collateral against the national debt.
 The truth of the matter is that never before has so much money been stolen from
 the hands of the general public and put into the hands of a small group of
 private investors, the money changers"
+
+## See Also
+
+ * [Jesus was a Tax Protester](../jesus_and_taxes) -- biblical mistranslations of taxation, silver coinage in the New Testament, and Jesus' silent protest
