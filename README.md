@@ -87,26 +87,26 @@ This sign was a real historical event, known as the Star of Bethlehem, 3 BC, and
 can be observed with astronomy software.
 
 > A conjunction is a close apparent approach between two celestial objects.
-Technically speaking, a conjunction occurs at the moment when both objects have
-the same celestial longitude; one is due north of the other. The closer the
-objects, the more visually impressive the event and the more significant
-astrologically. In 3 B.C. and 2 B.C., there was a series of close conjunctions
-involving Jupiter, the planet that represented kingship, coronations, and the
-birth of kings. In Hebrew, Jupiter was known as Sedeq or “Righteousness,” a
-term also used for the Messiah.
+> Technically speaking, a conjunction occurs at the moment when both objects have
+> the same celestial longitude; one is due north of the other. The closer the
+> objects, the more visually impressive the event and the more significant
+> astrologically. In 3 B.C. and 2 B.C., there was a series of close conjunctions
+> involving Jupiter, the planet that represented kingship, coronations, and the
+> birth of kings. In Hebrew, Jupiter was known as Sedeq or “Righteousness,” a
+> term also used for the Messiah.
 >
 > In September of 3 B.C., Jupiter came into conjunction with Regulus, the star
 > of kingship, the brightest star in the constellation of Leo. Leo was the
-constellation of kings, and it was associated with the Lion of Judah. The royal
-planet approached the royal star in the royal constellation representing
-Israel. Just a month earlier, Jupiter and Venus, the Mother planet, had almost
-seemed to touch each other in another close conjunction, also in Leo. Then the
-conjunction between Jupiter and Regulus was repeated, not once but twice, in
-February and May of 2 B.C. Finally, in June of 2 B.C., Jupiter and Venus, the
-two brightest objects in the sky save the sun and the moon, experienced an even
-closer encounter when their disks appeared to touch; to the naked eye they
-became a single object above the setting sun. This exceptionally rare spectacle
-could not have been missed by the Magi.
+> constellation of kings, and it was associated with the Lion of Judah. The royal
+> planet approached the royal star in the royal constellation representing
+> Israel. Just a month earlier, Jupiter and Venus, the Mother planet, had almost
+> seemed to touch each other in another close conjunction, also in Leo. Then the
+> conjunction between Jupiter and Regulus was repeated, not once but twice, in
+> February and May of 2 B.C. Finally, in June of 2 B.C., Jupiter and Venus, the
+> two brightest objects in the sky save the sun and the moon, experienced an even
+> closer encounter when their disks appeared to touch; to the naked eye they
+> became a single object above the setting sun. This exceptionally rare spectacle
+> could not have been missed by the Magi.
 > - Craig Chester, [The Star of Bethlehem](https://imprimis.hillsdale.edu/the-star-of-bethlehem-2/) 1996
 
 More recently it was discovered using astronomy software that another sign was
@@ -167,8 +167,8 @@ eschatology *ought to* apply to our present year.
 > - Psalms 90:4
 
 In the Old Testament there is an allusion to the correspondence between each
-day in Genesis representing a thousand years. Today, the year 2024, we are on
-the cusp of the seventh day of Genesis, or six thousand years since Adam.
+day in Genesis representing a thousand years. As of the 2020s, we are on the
+cusp of the seventh day of Genesis, or six thousand years since Adam.
 
 (We know that the first Homo sapiens walked the earth much earlier than six
 thousand years ago, but how many of them had "eaten from the tree of knowledge
@@ -240,8 +240,8 @@ years), and half a time (6 months) again.
 > servants the prophets.
 > - Revelation 10:7
 
-Today is August 17th, 2024, exactly 1260 and 1260 days since September 23rd,
-2017 encoded in Revelation 12:1.
+August 17th, 2024 marks exactly 1260 plus 1260 days since September 23rd, 2017
+— the date encoded in Revelation 12:1.
 
 Next, Revelation 13:1 introduces the first beast ("the Beast") and Second Beast
 ("false prophet", or anti-Christ) of Revelation.
@@ -389,7 +389,7 @@ It should also be noted that it is Sam Altman who turned the non-profit OpenAI
 into a for-profit, and is now speaking in public about how concerned he is
 about the technology his company created being misused for fraud and such. I
 can attest to the fact that since 2022 or 2023 there have been a lot of AI bots
-on Twitter, and today in 2025 there are entire ecosystems of AI bots that are
+on Twitter, and by 2025 there are entire ecosystems of AI bots that are
 designed to scam Twitter users of their crypto tokens.
 
 TODO: Write more on AI specifically.
@@ -927,8 +927,8 @@ lawsuit involving the theft of the diary.
 Not to mention Hunter Biden's laptop, whose leaks in the very least show
 complete degeneracy.
 
-And Vice President Harris, the current Democratic nominee for the 2024
-presidential election also has a history of protecting underage sexual abuse
+And Vice President Harris, the 2024 Democratic nominee for president, also
+has a history of protecting underage sexual abuse
 scandals of the Catholic church.
 
 > “It went from Terence Hallinan going hundred miles an hour, full speed ahead,
