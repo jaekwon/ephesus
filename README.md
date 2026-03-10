@@ -12,9 +12,9 @@ First you must understand the differences between the following books:
 
  * **Torah == Pentateuch**: the first five books of the Hebrew scriptures and
    Christian bible. Commonly attributed to Moses, which would imply authorship
-   in the 2nd millenium BCE, but this is contentious.
+   in the 2nd millennium BCE, but this is contentious.
  * **Old Testament**: the Torah/Pentateuch plus books from the prophets, Kings
-   David and Solomon, priests, and scribes. Altogether the Old Testmanet was
+   David and Solomon, priests, and scribes. Altogether the Old Testament was
    completed hundreds of years before Jesus. These books were originally
    written in Hebrew.
  * **New Testament**: all the books of the New Testament were written some time
@@ -33,7 +33,7 @@ First you must understand the differences between the following books:
    as binding the written collections of the oral tradition in the Midrash or
    Talmud. The Karaites comprised a significant portion of the world Jewish
    population in the 10th and 11th centuries CE, and remain extant, although
-   they currently number in the thousands._ 
+   they currently number in the thousands._
 
 # Why Jesus Spoke in Parables
 
@@ -59,7 +59,7 @@ For two thousand years, that "they seeing not" would not understand.
 > servants the prophets.
 > - Revelation 10:7
 
-But the time of the myteries have finished, as of the end of 2024, because it
+But the time of the mysteries have finished, as of the end of 2024, because it
 is seven years after the Sept 23rd 2017 Revelation 12 sign, and also the voice
 of the seventh angel did begin to sound, according to the book.
 
@@ -71,16 +71,16 @@ Revelation 12:1 encodes the date and time of Sept 23rd, 2017.
 
 > And God said, **Let there be lights in the firmament of the heaven** to
 > divide the day from the night; **and let them be for signs**, and for
-> seasons, and for days, and years: 
+> seasons, and for days, and years:
 > - Genesis 1:14
 
-Genesis clearly says that the stars maybe used for signs. This was how the Magi 
-found Jesus in Bethleham.
+Genesis clearly says that the stars maybe used for signs. This was how the Magi
+found Jesus in Bethlehem.
 
 > Now when Jesus was born in Bethlehem of Judaea in the days of Herod the
 > king, behold, there came wise men from the east to Jerusalem, Saying, **Where
 > is he that is born King of the Jews? for we have seen his star in the east**,
-> and are come to worship him. 
+> and are come to worship him.
 > - Matthew 2:1
 
 This sign was a real historical event, known as the Star of Bethlehem 3 BC, and
@@ -145,14 +145,14 @@ nobody has thus far been able to disprove it.
 
 (image source
 https://redmoonrapture.org/2017/05/24/revelation-12-a-sign-in-the-heavens-september-2017/
-; more information and resources linkted to from there)
+; more information and resources linked to from there)
 
-### Corroborating Evidence 
+### Corroborating Evidence
 
 Besides the apparent encoding of the date Sept 23rd, 2017 in the Book of
 Revelation verse 12, which is already an unlikely coincidence, we have
 substantial evidence that the Book of Revelation of the "end times"
-escheschatology *ought to* apply to our present year.
+eschatology *ought to* apply to our present year.
 
 #### 1. We are Entering the 7th Day of the Great Week
 
@@ -166,7 +166,7 @@ escheschatology *ought to* apply to our present year.
 > as a watch in the night**.
 > - Psalms 90:4
 
-In the Old Testmanet there is an allusion to the correspondence between each
+In the Old Testament there is an allusion to the correspondence between each
 day in Genesis representing a thousand years. Today, the year 2024, we are on
 the cusp of the seventh day of Genesis, or six thousand years since Adam.
 
@@ -191,15 +191,15 @@ Furthermore, Jesus spoke of rising again on the third day.
 
 Thus the days since the first biblical man can be mapped onto the seven day
 week, with the seventh Sabbath day of rest corresponding to the resurrection of
-Jesus on the third day, or third millenium.
+Jesus on the third day, or third millennium.
 
- * 1st Day: 4th millenium BCE; "Adam" 
- * 2nd Day: 3rd millenium BCE; "Noah"
- * 3rd Day: 2nd millenium BCE; "Moses", Egyptian Empire
- * 4th Day: 1st millenium BCE; Babylonian Empire
- * 5th Day: 1st millenium CE; Jesus; Roman Empire
- * 6th Day: 2nd millenium CE; Rennaissance; English Empire, USA, modern history
- * 7th Day: 3rd millenium CE; Sabbath; "He rested", "Third Day Resurrection"
+ * 1st Day: 4th millennium BCE; "Adam"
+ * 2nd Day: 3rd millennium BCE; "Noah"
+ * 3rd Day: 2nd millennium BCE; "Moses", Egyptian Empire
+ * 4th Day: 1st millennium BCE; Babylonian Empire
+ * 5th Day: 1st millennium CE; Jesus; Roman Empire
+ * 6th Day: 2nd millennium CE; Renaissance; English Empire, USA, modern history
+ * 7th Day: 3rd millennium CE; Sabbath; "He rested", "Third Day Resurrection"
 
 This is corroborated also by the Hebrew calendar, which counts the years
 beginning with the days of Adam. There is some disagreement about the precise
@@ -213,7 +213,7 @@ the attached document, [THE_HEBREW_YEAR](./THE_HEBREW_YEAR.md).
 
 As mentioned before, the 7th Day of the Great Week corresponds to the 3rd day
 since Jesus. And applying the same logic of "one day is a thousand years", we
-get the same 3rd millenium CE. 
+get the same 3rd millennium CE.
 
 > And he laid hold on the dragon, that old serpent, which is the Devil, and
 > Satan, **and bound him a thousand years**, And cast him into the bottomless
@@ -233,7 +233,7 @@ the woman fled into the wilderness to be there for 1260 days, or 42 months. The
 second is after the dragon is cast down to earth, and chases after her again
 (presumably this time in a different place), after which she receives two wings
 of a great eagle to fly into the wilderness for a time (1 year), times (2
-years), and half a time (6 months) again. 
+years), and half a time (6 months) again.
 
 > But **in the days of the voice of the seventh angel**, when he shall begin to
 > sound, **the mystery of God should be finished**, as he hath declared to his
@@ -302,7 +302,7 @@ greater.
 > - Revelation 17:7-17
 
 The First Beast is not one man, but in general, global empire that carried with
-it, the "woman" in scarlet and purple. 
+it, the "woman" in scarlet and purple.
 
 > And whereas thou sawest the feet and toes, part of potters' clay, and part of
 > iron, the kingdom shall be divided; but there shall be in it of the strength
@@ -350,11 +350,11 @@ vaccines.
 Donald Trump started Operation Warp Speed before Biden continued the policies
 of vaccine mandates. They appear to work for the same deep state.
 
- * **causeth the earth and them which dwell therein to worshop the first beast,
+ * **causeth the earth and them which dwell therein to worship the first beast,
    whose deadly wound was healed**: Elon endorsed Trump immediately after the
    "alleged" shooting.
 
- * **he maketh fire come down from heaven on the earth**: SpaceX lands on on
+ * **he maketh fire come down from heaven on the earth**: SpaceX lands on
    earth.
 
  * **he had the power to give life unto the image of the beast, that the image
@@ -375,7 +375,7 @@ of vaccine mandates. They appear to work for the same deep state.
 <img src="./images/elon_endorses_trump.png" />
 
 Are they evil, are they being blackmailed, or are they just trolling us?  It's
-almost like politicians and drug companies are competing with the technocratti
+almost like politicians and drug companies are competing with the technocrati
 for the role of the Second Beast. It makes even more morbid sense when they are
 considered to be working together; the vaccine mandate working along side a
 panopticon control grid to make sure you take the experimental genetic therapy
@@ -402,18 +402,18 @@ mark of the beast. As per the Book of Revelation,
 The nations of the world were deceived by pharmakia/medicine (Revelation 18 23)
 The mark (in original Koine greek, a needle prick) is required to buy or sell
 (Revelation 13:17) The mark gives you sores (Revelation 16:2) // NOTE: have no
-fear about it even if you got the shot.  How could it be that a two millenia
+fear about it even if you got the shot.  How could it be that a two millennia
 old document can predict what is happening today? Well, most people don't read
 the bible at all, and anyone can see the light and turn into a white-hat. It
 appears to me that the white-hats have shepherded the black-hats into following
-a script that ends up exposes them when it is too late. And now the "true
+a script that ends up exposing them when it is too late. And now the "true
 Christians" have indeed exposed the NWO agenda, and this awareness is growing
 exponentially.
 
 This control grid was leaked by whistleblower Senator Larry McDonald in the
 70's, whose plane was soon after shot down.
 [https://odysee.com/@Commentator:e4/Former_US_Congressman_Larry_McDonald:1](https://odysee.com/@Commentator:e4/Former_US_Congressman_Larry_McDonald:1)
-[https://twitter.com/Xx17965797N/status/1578662395358384128](https://twitter.com/Xx17965797N/status/1578662395358384128). 
+[https://twitter.com/Xx17965797N/status/1578662395358384128](https://twitter.com/Xx17965797N/status/1578662395358384128).
 The "monolithic and ruthless conspiracy that relies on covert means" was leaked
 before by JFK who was assassinated in 1963.
 [https://odysee.com/@Real_Solutions:b/JFK's-Monolithic-Conspiracy-Revelation:7](https://odysee.com/@Real_Solutions:b/JFK's-Monolithic-Conspiracy-Revelation:7)[https://www.youtube.com/watch?v=RhkjYJAHCjM](https://www.youtube.com/watch?v=RhkjYJAHCjM).
@@ -430,11 +430,11 @@ about Epstein's death how "one has to be careful". Will Bill Gates be redeemed?
 The clear danger that is presented at face value, for those with eyes to see,
 is that after Trump gets elected president again, or whether or not he does,
 that those who spoke out against the vaccine mandate would be compiled by the
-panopticon of the technoratti and with the drug companies and politicians and
+panopticon of the technorati and with the drug companies and politicians and
 judges and police working together, and will arrest those dissenters and
 witnesses, so that the population reduction agenda of the elites can play out
 as they wish. This is the most straightforward interpretation of what is
-presented, albiet in the disguised language of biblical stenography.
+presented, albeit in the disguised language of biblical stenography.
 
 ## The Two Witnesses
 
@@ -455,7 +455,7 @@ And what are candlesticks that are standing before the God of the earth?
 > churches**.
 > - Revelation 1:20
 
-The seven spirits are given unto the seven churches, to whom seven letter are
+The seven spirits are given unto the seven churches, to whom seven letters are
 written in the beginning of the Book of Revelation. It is left as an exercise
 to the reader which two of the seven churches are told to prepare to die by the
 First Beast.
@@ -531,13 +531,13 @@ Notice also that both Palestine and Syria were originally Christian nations.
 > committed fornication and lived deliciously with her, shall bewail her, and
 > lament for her, when they shall see the smoke of her burning, Standing afar
 > off for the fear of her torment, saying, Alas, alas, that great city Babylon,
-> that mighty city! for in one hour is thy judgment come.  
+> that mighty city! for in one hour is thy judgment come.
 > - Revelation 18:1-10
 
 Both Babylon and Ancient Egypt have incestual mythologies. Let's start with
 Ancient Egypt.
 
-The most well known mythology from Egypt is that of Osiris and Isis. Osis and
+The most well known mythology from Egypt is that of Osiris and Isis. Osiris and
 Isis were brother and sister. Osiris's brother Seth killed Osiris and split his
 body into 14 pieces, his phallus was thrown into the river and eaten by a fish.
 The grieving sister Isis found Osiris's parts except the phallus, reconstructed
@@ -546,7 +546,7 @@ Isis declared the reincarnation of Osiris. And it is said that Isis became
 Horus's consort.
 
 And Babylon too had much the same incestual mythology, and their false trinity
-is like Osiris, Isis, Horus. 
+is like Osiris, Isis, Horus.
 
 Ancient Greek historian Diodorus (1st century BCE) wrote that Semiramis
 restored ancient Babylon.
@@ -584,7 +584,7 @@ God.
 > toward the north; and, **behold, there sat women weeping for Tammuz**. Then
 > said he unto me, Hast thou seen this, O son of man? turn thee yet again, and
 > **thou shalt see greater abominations than these**.
-> -- Ezekiel 8:14-15, 
+> -- Ezekiel 8:14-15,
 
 These aren't just mere speculation; it is a recurring theme from ancient Babylon.
 Here's a tablet from the city of Donnu.
@@ -618,7 +618,7 @@ the planet.
 > come: but **woe unto him, through whom they come**! **It were better for him
 > that a millstone were hanged about his neck, and he cast into the sea, than
 > that he should offend (scandalize) one of these little ones**.
-> - Luke 17:1-2, Jesus, "Temptations and Tresspasses"
+> - Luke 17:1-2, Jesus, "Temptations and Trespasses"
 
 Dr. John MacArthur examines Jesus’ use of woe in the Bible: “In His castigation
 of the false Jewish leaders, Jesus repeatedly used two words, woe, and
@@ -653,7 +653,7 @@ gives off hints that they are playing the role of the Whore of Babylon.
 <img src="./images/dagon_mitre.jpg" />
 
 (While this figure is (probably) not Dagon, the resemblance with fish is clear.
-why would wear that hat, clearly resembling a fish head, they when there was
+why would they wear that hat, clearly resembling a fish head, when there was
 already the (probably) myth that it was associated with Dagon? (What are the
 other origin stories of the "mitre hat", and for how long have they been
 worn?).
@@ -677,15 +677,15 @@ by the Pope.
 > - Pope Francis
 
 What is the relationship between the gay lobby, and that of Babylon? William
-Cooper had a podcast series called Myster Babylon before Alex Jones came into
+Cooper had a podcast series called Mystery Babylon before Alex Jones came into
 his picture. I believe it was episode 42 maybe where it describes the origin of
-the Freemasons as being a reaction to the persecution of athiests and
+the Freemasons as being a reaction to the persecution of atheists and
 Protestant reformers by the Jesuit order including homosexual people.
 
 After meeting Alex Jones in an interview, he reported that Alex Jones had tried
 to make William Cooper look bad by cooking the interview segments, and after
-some period of time he was shot by police. 
-(Alex Jones to defame explains in "Behold a Pale Horse", and I'm parap
+some period of time he was shot by police.
+(Alex Jones tried to defame him as he explains in "Behold a Pale Horse"
 
 How many people in the police are Freemasons? Or Judges? We in the US have
 freedom of religion, and beliefs, but at what point is it beyond "influencing",
@@ -850,7 +850,7 @@ Torah:
 > The children that are begotten of them shall enter into the congregation of
 > the LORD in their third generation. -- Deuteronomy 23:8
 
-#### On Abuse 
+#### On Abuse
 
 It's difficult to write these down, and maybe it is better for them to remain
 mysteries to be forgotten in the heat of entropy, so some images are attached
@@ -859,7 +859,7 @@ instead.
 <img src="./images/btalmud1.jpg" />
 <img src="./images/btalmud2.jpg" />
 
-Also such as these; [Folio 54a? TODO locate and take image] 
+Also such as these; [Folio 54a? TODO locate and take image]
 
 > "Our Rabbis taught: In the case of a male child, a young one is not regarded as
 > on a par with an old one; but a young beast is treated as an old one. What is
@@ -883,7 +883,7 @@ system and a manual for convoluted justifying of all sins.
 
 Trump has not only associated closely with Epstein, but he has a lot of
 questionable associations. He also has a lot of questionable photos with his
-daughter Ivanka, and appeared multiples in public broadcasts referring to 
+daughter Ivanka, and appeared multiple times in public broadcasts referring to
 his daughter in lewd ways.
 
 During a Feb. 27, 2013, interview on The Wendy Williams Show, Trump was asked
@@ -940,7 +940,7 @@ scandals of the Catholic church.
 
 <img src="./images/podesta14.jpg" />
 
-(Hillary Clinton campaign manager Podesta, apparenty displaying symbolism of
+(Hillary Clinton campaign manager Podesta, apparently displaying symbolism of
 Osiris. Podesta and others were implicated in the PizzaGate scandal, based on
 leaked emails on WikiLeaks)
 
@@ -961,10 +961,10 @@ From "Confessions of Illuminati Ronald Bernard":
 > their pocket. You need to be susceptible to blackmail**. And blackmailing me
 > proved to be very hard if I look back on it. **They wanted to do that through
 > those children. And that broke me**.
-> 
+>
 > **Interviewer**: Is that – you are not telling me something new – what they
 > also do in politics?
-> 
+>
 > **Bernard**: If you google this, you’ll find enough worldwide witness
 > accounts to
 > know this isn’t a Walt Disney fairy tale. Unfortunately **the truth is that
@@ -991,7 +991,7 @@ but this has not been confirmed.
 
 The Rothschild family was chosen to be the guardians of the Vatican's treasures
 according to the Jewish Encyclopedia. They were chosen some time in the early
-19th century. 
+19th century.
 
 <img src="./images/rothschildcoa.png" />
 
@@ -1001,7 +1001,7 @@ star between the horns. This is similar to the six pointed star in the flag of
 the State of Israel which is called the "Star of David", except that there is
 no such biblical thing as the "Star of David". It simply doesn't exist. What
 the Old Testament does mention is the Star of Remphan and there is also
-something called the Seal of Solomon. 
+something called the Seal of Solomon.
 
 > [The Star of David's] association as a distinctive symbol for the Jewish
 > people and their religion dates to 17th-century Prague. In the 19th century,
@@ -1020,7 +1020,7 @@ Frankfurt, Germany.
 The third head has three feathers in the colors of the biblical Hebrew
 Israelites, but the three feathers are curled on top in the form of the Hebrew
 letter Vav (ו), the sixth letter of the Hebrew alphabet. The three feathers
-therefore spell Vav Vav Vav, or 666. 
+therefore spell Vav Vav Vav, or 666.
 
 > And he causeth all, both small and great, rich and poor, free and bond, to
 > receive a mark in their right hand, or in their foreheads: And that no man
@@ -1089,18 +1089,18 @@ that the monarchy seems to be ensnared with something.
 > According to the latest tranche of documents, released on Monday night, the
 > victim was once taken to royal property Frogmore Cottage, where they were
 > restrained and tortured with electric shocks by Ghislaine Maxwell.
-> 
+>
 > They claim that Andrew and other men watched on as the torture took place.
 >  - [Daily Mail, Dec 26th, 2025](https://www.dailymail.co.uk/news/article-15414507/British-police-ask-FBI-claim-drugged-driven-paedophile-ring-Andrew-Ghislaine-Maxwell-tortured-electric-shocks.html) ([snapshot](./satanism/andrew_epstein_torture.png))
 
-Also related is that the City of London has the highest contentration of
+Also related is that the City of London has the highest concentration of
 Freemason lodges in the world, and the British monarchy is part of the
-Freemason secret society. 
+Freemason secret society.
 
 <img src="./images/royalty_vs_bankster.jpg" />
 
-Who is higher in the heirarchy, the British monarchy, or the Rothschilds?
-Clearly it is the Rothschilds. Not surprising, because the unicorn on 
+Who is higher in the hierarchy, the British monarchy, or the Rothschilds?
+Clearly it is the Rothschilds. Not surprising, because the unicorn on
 the British coat of arms is chained, while the unicorn on the Rothschilds'
 coat of arms is unchained.
 
@@ -1110,7 +1110,7 @@ Who holds the keys? The Vatican does of course. There are only two square flags
 for all of the nations, and they are for the Vatican and for the Swiss. The
 Vatican flag has two keys; one presumably which keeps the British unicorn in
 chains, and another perhaps for the Rothschilds to keep the Vatican's assets in
-the vaults of the Swiss mountains. 
+the vaults of the Swiss mountains.
 
 After all, it was Hitler's WW2 that confiscated all that gold in the Swiss bank
 vaults, never to be reclaimed by their owners who died in the wars and
@@ -1122,7 +1122,7 @@ credits Jacob Rothschild for its founding.
 
 > **Volodymyr Zelensky has asked Marina Abramović, the performance artist, to
 > be an ambassador for Ukraine**.
-> 
+>
 > Ms Abramović, a fierce critic of Vladimir Putin’s illegal invasion, said
 > **the Ukrainian president had asked for her help in rebuilding schools**.
 > The 76-year-old Serbian is holding her first solo exhibition in the UK and is
@@ -1142,20 +1142,20 @@ about the US Federal Reserve, or FED for short.
 There is already much written about the Federal Reserve Act, and Jekyll Island
 such as in the books "The Creature of Jekyll Island" by George Edward Griffin
 and "Secrets of the Federal Reserve" by Eustace Mullins, but what's not as well
-known is what preceded the passing of the Federal Reserve act as it relates 
+known is what preceded the passing of the Federal Reserve act as it relates
 to the Titanic.
 
 <img src="./images/titanic3.jpg" />
 
 The above meme is maybe as far as one might find, that three key figures
 against the Federal Reserve were murdered by the intentional sinking of the
-Titanic, and that JP Morgan who owns the ship and threw the party dipped out 
+Titanic, and that JP Morgan who owns the ship and threw the party dipped out
 at the last minute. Here are more details.
 
 <img src="./images/titanicburn.jpg" />
 
 The Titanic was known to have a fire in the engine room even during boarding by
-the passangers.
+the passengers.
 
 <img src="./images/titanichull.png" />
 
@@ -1176,7 +1176,7 @@ controlled by both political and financial special interests. He vowed to alert
 the public to any banking reform laws and appeared a few times in the NYTimes,
 even corresponding with the editor of the NYTimes.
 
-One year after the Titanic sank the Federal Reserve Act was passed (albiet
+One year after the Titanic sank the Federal Reserve Act was passed (albeit
 unconstitutionally), and then another year after that was WW1. The timing is
 not mere coincidence.
 
@@ -1230,7 +1230,7 @@ responsible for them.
 
 (The lack of moderation leading to "terrorism, drug trafficking, fraud, money
 laundering, and child abuse content" was known by the public to some degree;
-but to what degree the lack of modeation was intentional or recklessness or a
+but to what degree the lack of moderation was intentional or recklessness or a
 difficulty of managing such a project, is not yet determined.)
 
 On the other hand, this also constitutes an attack on freedom of speech,
@@ -1239,7 +1239,7 @@ conversations can still happen today. We clearly need better alternatives that
 handle the moderation and accountability problem differently.
 
 On the heels of the arrest of the Telegram founder is this from Chris
-Pavlovski, founder and CEO of Rumble. 
+Pavlovski, founder and CEO of Rumble.
 
 <img src="./images/rumble_threatened.jpg" />
 
@@ -1267,7 +1267,7 @@ revealed.
 Define "engaged in", or "propaganda". As we saw with the way the establishment
 actors such as the WHO and CDC and NIH changed the definition of "vaccine" and
 more recently even "gain of function" in response to public criticism, these
-terms are also subject to redefintion, and will be used against free thinkers.
+terms are also subject to redefinition, and will be used against free thinkers.
 
 Instead, the US can invest in ways to get its own interpretation of things out,
 using a platform that can prove its position on controversial or false
@@ -1281,7 +1281,7 @@ Anything less will result in a system of censorship such as the system we have
 today, where communications is taken over by the system of capitalism, and only
 those who are already exceptionally wealthy control and manipulate public
 discourse, even accounting for controlled opposition media, and becomes
-detached from reality and the optionion of the people.
+detached from reality and the opinion of the people.
 
 For those who want more conflict for their agenda, consider the changing nature
 of our reality (as per Luke 12:2-3) in the information age, and what awaits
@@ -1317,7 +1317,7 @@ of Freemasonry degrees from 1 to 33. TODO include source in a separate file.
 
 ----
 
-Mariah Carey's mother and sister tragically died late August of 2024. 
+Mariah Carey's mother and sister tragically died late August of 2024.
 
 <img src="./images/carey2.png" />
 
@@ -1349,11 +1349,11 @@ participants in the ritual blackmailable as willing participants of a ritual.
 ## Kalergi Plan
 
 The _Kalergi Plan_ is supposedly a "hoax" comparable to the "forged" _The
-Protocols of the Elders of Zion_. 
+Protocols of the Elders of Zion_.
 
 Yet present day politics and geopolitics in western countries makes the
 "Kalergi Plan Hypothesis" appear remarkably true, especially under the general
-attack on western Christianity. 
+attack on western Christianity.
 
 Even "forged" fictions can have sociological ramifications.
 
@@ -1394,7 +1394,7 @@ As for blackmail, it loses its power when the right side has copies too.
 
 As for the conflict in the middle east... I want peace, but the prophecies seem to say something different.
 
-If you want to survive what is coming, be patient, don't fight in war, flee to the mountains if the abomination of desolation is in the holy place, and don't go here nor there when there are rumors of his coming. Especially UFOs :P. 
+If you want to survive what is coming, be patient, don't fight in war, flee to the mountains if the abomination of desolation is in the holy place, and don't go here nor there when there are rumors of his coming. Especially UFOs :P.
 
 Find Jesus in you, and learn how to pray; times are about to get difficult.
 
@@ -1416,7 +1416,7 @@ Everything 100% unapologetically Open Source and Simple.
  - News view for top posts within a 'board' (like a subreddit).
    * requires some default efficient news scoring algorithm
    * alternative sorting possible by external realms.
- - Feed view 
+ - Feed view
    * offline only; see feed of everyone followed.
    * follow list could be on-chain or off-chain.
    * feed server could optionally sign feed for accountability (e.g. w/ sort algorithm used).
