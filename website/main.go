@@ -59,6 +59,17 @@ func main() {
 		})
 	}
 
+	// Redirect README.md paths to their page routes (for cross-references)
+	http.HandleFunc("/README.md", func(w http.ResponseWriter, r *http.Request) {
+		http.Redirect(w, r, "/", http.StatusMovedPermanently)
+	})
+	http.HandleFunc("/usdollar/README.md", func(w http.ResponseWriter, r *http.Request) {
+		http.Redirect(w, r, "/usdollar", http.StatusMovedPermanently)
+	})
+	http.HandleFunc("/jesus_and_taxes/README.md", func(w http.ResponseWriter, r *http.Request) {
+		http.Redirect(w, r, "/jesus_and_taxes", http.StatusMovedPermanently)
+	})
+
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("static"))))
 	http.Handle("/images/", http.StripPrefix("/images/", http.FileServer(http.Dir("../images"))))
 	// Serve images from subdirectories
