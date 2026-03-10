@@ -1137,6 +1137,9 @@ credits Jacob Rothschild for its founding.
 
 ## US Federal Reserve
 
+(See also [The U.S. Dollar, Silver, and Gold](./usdollar) for the history of
+U.S. silver coins, the one dollar bill, and Fort Knox gold.)
+
 Continuing on with the Rothschild related history, there's much to be said
 about the US Federal Reserve, or FED for short.
 
