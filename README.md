@@ -181,6 +181,16 @@ In the New Testament this correspondence is revisited explicitly.
 > Lord as a thousand years, and a thousand years as one day**.
 > - 2 Peter 3:8
 
+The Epistle of Barnabas, an early Christian text from the late 1st or early 2nd
+century CE, makes this correspondence explicit:
+
+> Therefore, children, **in six days, that is in six thousand years, everything
+> shall come to an end**. "And He rested on the seventh day." This means: when
+> His Son shall come, and shall abolish the time of the Lawless One, and shall
+> judge the ungodly, and shall change the sun and the moon and the stars, **then
+> shall He truly rest on the seventh day**.
+> - Epistle of Barnabas 15:4-5
+
 Furthermore, Jesus spoke of rising again on the third day.
 
 > Behold, we go up to Jerusalem; and the Son of man shall be betrayed unto the
