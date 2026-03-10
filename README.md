@@ -1135,7 +1135,9 @@ credits Jacob Rothschild for its founding.
 
 <img src="./images/abramovic2.png" alt="Abramovic and Jacob Rothschild posing in front of Satan summoning his Legions"/>
 
-## US Federal Reserve
+## Misc
+
+### US Federal Reserve
 
 (See also [The U.S. Dollar, Silver, and Gold](./usdollar) for the history of
 U.S. silver coins, the one dollar bill, and Fort Knox gold.)
@@ -1213,9 +1215,9 @@ was of course a Rothschild.
 
 <img src="./images/oceangate.png" />
 
-## Free Speech vs Assisting Harm
+### Free Speech vs Assisting Harm
 
-### On Telegram
+#### On Telegram
 
 <img src="./images/telegram_arrest.jpg" />
 
@@ -1252,7 +1254,7 @@ invested in by Peter Thiel; the timing of these events is ominous; almost
 exactly seven years after the revelation 12 encoded timestamp. We should expect
 the erosion of our speech tools to accelerate.
 
-### On Political Censorship
+#### On Political Censorship
 
 As the previous interpretation of Revelation 12 and 13 predicts, calls for
 outright censorship of information is rapidly accelerating. This is inevitable
@@ -1297,7 +1299,7 @@ discourse and thinking.
 > of the saints.
 > - Revelation 13:10
 
-## Satanism in Media
+### Satanism in Media
 
 Stanley Kubrick directed the movie "Eyes Wide Shut" about a secretive group of
 elites with strange rituals and even ritual murder.
@@ -1336,7 +1338,7 @@ Ye, formerly known as Kanye, had made similar remarks about satanism and
 sacrifices in Hollywood. Human sacrifice rituals would obviously make the
 participants in the ritual blackmailable as willing participants of a ritual.
 
-## A Blackmail Network
+### A Blackmail Network
 
 > "CIA and Mossad and pedo elite are running some kind of sex trafficking
 > entrapment blackmail ring out of Puerto Rico and caribbean islands. They are
@@ -1350,7 +1352,7 @@ participants in the ritual blackmailable as willing participants of a ritual.
 <img src="./images/ian_trans1.jpg" />
 <img src="./images/ian_trans2.jpg" />
 
-## Kalergi Plan
+### Kalergi Plan
 
 The _Kalergi Plan_ is supposedly a "hoax" comparable to the "forged" _The
 Protocols of the Elders of Zion_.
@@ -1364,7 +1366,7 @@ Even "forged" fictions can have sociological ramifications.
 <img src="./images/kalergi_plan.png" />
 <img src="./images/kalergi_plan2.png" />
 
-### The Jubilee
+## The Jubilee
 
 XXX include relevance of the overdue jubilee.
 
