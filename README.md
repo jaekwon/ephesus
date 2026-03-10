@@ -416,7 +416,8 @@ This control grid was leaked by whistleblower Senator Larry McDonald in the
 [https://twitter.com/Xx17965797N/status/1578662395358384128](https://twitter.com/Xx17965797N/status/1578662395358384128).
 The "monolithic and ruthless conspiracy that relies on covert means" was leaked
 before by JFK who was assassinated in 1963.
-[https://odysee.com/@Real_Solutions:b/JFK's-Monolithic-Conspiracy-Revelation:7](https://odysee.com/@Real_Solutions:b/JFK's-Monolithic-Conspiracy-Revelation:7)[https://www.youtube.com/watch?v=RhkjYJAHCjM](https://www.youtube.com/watch?v=RhkjYJAHCjM).
+[https://odysee.com/@Real_Solutions:b/JFK's-Monolithic-Conspiracy-Revelation:7](https://odysee.com/@Real_Solutions:b/JFK's-Monolithic-Conspiracy-Revelation:7)
+[https://www.youtube.com/watch?v=RhkjYJAHCjM](https://www.youtube.com/watch?v=RhkjYJAHCjM).
 Now we have experienced the NWO control grid by the WEF, and its young global
 leaders, such as Fauci, Gates, Gavin Newsom, Trudeau; and even experiencing the
 war between Zelenski and Putin. The WEF, whose leader Schwab boasted about
@@ -685,7 +686,7 @@ Protestant reformers by the Jesuit order including homosexual people.
 After meeting Alex Jones in an interview, he reported that Alex Jones had tried
 to make William Cooper look bad by cooking the interview segments, and after
 some period of time he was shot by police.
-(Alex Jones tried to defame him as he explains in "Behold a Pale Horse"
+(Alex Jones tried to defame him as he explains in "Behold a Pale Horse")
 
 How many people in the police are Freemasons? Or Judges? We in the US have
 freedom of religion, and beliefs, but at what point is it beyond "influencing",
@@ -889,7 +890,7 @@ his daughter in lewd ways.
 During a Feb. 27, 2013, interview on The Wendy Williams Show, Trump was asked
 what he and his daughter both consider their favorite things. Trump answered,
 “I was going to say sex, but I can relate to [golf and real estate].” (The clip
-has since been removed from The Wendy Williams Show’s page on YouTube
+has since been removed from The Wendy Williams Show’s page on YouTube)
 
 Here are some more quotes from Trump:
 
@@ -1399,33 +1400,3 @@ If you want to survive what is coming, be patient, don't fight in war, flee to t
 Find Jesus in you, and learn how to pray; times are about to get difficult.
 
 --
-
-# What Must We Do?
-
-We need human resistance/liberation software.
-We need anti-fragility against attacks on freedom of speech.
-We also need moderation against AI, subversion, and terrorism.
-
-Everything 100% unapologetically Open Source and Simple.
-
-## Alt. to Reddit and Twitter
-
- - On Chain, in GNO, improvement upon /r/boards
- - Post can be markdown that can be rendered as a blog post.
- - Comments on Posts
- - News view for top posts within a 'board' (like a subreddit).
-   * requires some default efficient news scoring algorithm
-   * alternative sorting possible by external realms.
- - Feed view
-   * offline only; see feed of everyone followed.
-   * follow list could be on-chain or off-chain.
-   * feed server could optionally sign feed for accountability (e.g. w/ sort algorithm used).
- - User view
-   * See the latest from a user.
-
-## Alt. to Telegram, Group Conversations
-
- - Completely Open Source.
- - Servers run by registered administrators.
- - Administrators need to keep records and abide by local laws.
- - Global minimal level moderation; such as, no porn.
