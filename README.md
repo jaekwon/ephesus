@@ -350,13 +350,13 @@ it the "woman" in scarlet and purple.
 > and his number is Six hundred threescore and six.
 > - Revelation 13:11-18
 
-Elon Musk is playing the role of the Second Beast (false prophet). He is not
-the only one — there is a whole globalist apparatus behind the scenes — but
-consider how precisely his actions map onto the prophecy:
+Elon Musk and Peter Thiel are playing the role of the Second Beast (false
+prophet). He is not the only one — there is a whole globalist apparatus behind
+the scenes — but consider how precisely his actions map onto the prophecy:
 
  * **causeth the earth and them which dwell therein to worship the first beast,
    whose deadly wound was healed**: Elon endorsed Trump immediately after the
-   "alleged" shooting.
+   "alleged" shooting. Peter Thiel also endorsed Trump.
 
  * **he maketh fire come down from heaven on the earth**: SpaceX lands on
    earth.
@@ -366,25 +366,36 @@ consider how precisely his actions map onto the prophecy:
    could unleash demons.
 
  * **he causeth all, ... to receive a mark in their right hand, or in their
-   foreheads**: while it applies also to the mandated vaccine shots, so is
-   Elon, who named Twitter to X on the day of Tisha B'Av, also as in Space"X",
-   and even in the middle of the Neuralink logo, the Hebrew letter Tav of the
-   mark.
+   foreheads**: while it applies also to the mandated vaccine shots, so is Elon,
+   who named Twitter to X on the day of Tisha B'Av, also as in Space"X", and
+   even in the middle of the Neuralink logo. The X app fits in your right hand.
 
  * **that no man might buy or sell, save he that had the mark, or the name of
    the beast, or the number of his name.**: natural question: to what degree is
    Twitter sharing information with Palantir or Clearview? (these are companies
-   owned by former PayPal cofounder Peter Thiel).
+   owned by former PayPal cofounder Peter Thiel). How long until Palentir
+   decides whether one deserves to participate in commerce? Palentir is already
+   used to kill Palestinians deemed terrorists.
+
+_X is the English equivalent of the Hebrew letter Tav of the mark._
 
 <img src="./images/elon_endorses_trump.png" />
 
-But it's not just Elon. There was a whole globalist apparatus that engineered
-the Covid19 strain as well as lockdown mandates with experimental gene therapy
-sold as vaccines.
+_Update April 26th, 2026: Peter Thiel gave a lecture on the anti-Christ (First
+Beast), making the claim in essence that Palentir is not a sword but a shield.
+And many podcast influencers have begun wondering whether Peter Thiel or
+Palentir is the anti-Christ or not. But as the reader can see, this is the wrong
+framing. The question should be, are Peter Thiel and Elon Musk and associates
+collectively part of the false prophet (Second Beast)? "Palentir" itself is
+named after the spear that pierced Jesus. Isn't it obvious?_
+
+But it's not just Elon Musk and Peter Thiel. There was a whole globalist
+apparatus that engineered the Covid19 strain as well as lockdown mandates with
+experimental gene therapy sold as vaccines.
 
 <img src="./images/trump_warpspeed.jpg" />
 
-Donald Trump started Operation Warp Speed before Biden continued the policies
+President Trump started Operation Warp Speed before Biden continued the policies
 of vaccine mandates. They appear to work for the same deep state.
 
 Are they evil, are they being blackmailed, or are they just trolling us?
@@ -406,13 +417,13 @@ TODO: Write more on AI specifically.
 
 ### Islam and the Second Beast
 
-It is worth noting that Trump has been making deals with Saudi Arabia — the
-seat of Sunni Islam — while waging war against Shiite Iran. The Sunni-Shiite
-divide, rooted in a succession dispute after Mohammad's death, has shaped the
-geopolitics of the Middle East for over a millennium, and these alliances carry
-prophetic weight given the region's centrality to biblical and Islamic
-eschatology. The question of who fulfills the role of the "beast from the
-earth" (the false prophet) extends beyond any single figure.
+It is worth noting that President Trump has been making deals with Saudi Arabia
+— the seat of Sunni Islam — while waging war against Shiite Iran. The
+Sunni-Shiite divide, rooted in a succession dispute after Mohammad's death, has
+shaped the geopolitics of the Middle East for over a millennium, and these
+alliances carry prophetic weight given the region's centrality to biblical and
+Islamic eschatology. The question of who fulfills the role of the "beast from
+the earth" (the false prophet) extends beyond any single figure.
 
 Islamic hadith prophecies describe Isa (Jesus) returning alongside the Mahdi to
 "break the cross" — and across parts of the northern hemisphere, radical
@@ -944,73 +955,6 @@ system and a manual for convoluted justifying of all sins.
 
 (also see http://www.come-and-hear.com/dilling/chapt05.html)
 
-### Babylon in US Politics
-
-Trump has not only associated closely with Epstein, but he has a lot of
-questionable associations. He also has a lot of questionable photos with his
-daughter Ivanka, and appeared multiple times in public broadcasts referring to
-his daughter in lewd ways.
-
-During a Feb. 27, 2013, interview on The Wendy Williams Show, Trump was asked
-what he and his daughter both consider their favorite things. Trump answered,
-“I was going to say sex, but I can relate to [golf and real estate].” (The clip
-has since been removed from The Wendy Williams Show’s page on YouTube)
-
-Here are some more quotes from Trump:
-
- * “If Ivanka weren't my daughter, perhaps I'd be dating her.”
- * “My daughter, Ivanka. She’s 6 feet tall, she’s got the best body.”
- * “Is it wrong to be more sexually attracted to your own daughter than your wife?”
- * “Yeah, she’s really something, and what a beauty, that one. If I weren’t
-   happily married and, ya know, her father”
-
-<img src="./images/trump_associates.png" />
-<img src="./images/trump_epstein.png" />
-
-It's not just the Republican side that is questionable; both Biden and Harris
-are as well.
-
-> "By the way, you don't know how horny I am... 13 year old... talk to my
-> daughter Ashley
-> - Joe Biden, whispering to a young girl live on CSPAN.
-> (https://www.c-span.org/video/?323601-1/senate-ceremonial-swearing @ 52:27)
-
-<img src="./images/biden_horny.jpg"/>
-
-Surprising but true, it is there on CSPAN for everybody to see. It lends
-credence to the claim that Ashley's leaked diary contained the entry regarding
-"showers with my dad [Joe Biden] (probably not appropriate)". There is a
-lawsuit involving the theft of the diary.
-
-Not to mention Hunter Biden's laptop, whose leaks in the very least show
-complete degeneracy.
-
-And Vice President Harris, the 2024 Democratic nominee for president, also
-has a history of protecting underage sexual abuse
-scandals of the Catholic church.
-
-> “It went from Terence Hallinan going hundred miles an hour, full speed ahead,
-> after the Catholic Church to Kamala Harris doing absolutely nothing and
-> taking it backwards hundred miles an hour,” said Joey Piscitelli, a sexual
-> assault survivor, who a jury found had been molested as a student while
-> attending Salesian College Preparatory, a Catholic high school in Richmond,
-> California.
->
-> Piscitelli had met with Hallinan’s office to discuss his case and the ongoing
-> investigation into the church. But, he said, when Harris took over, his
-> access to the office was shut off and his requests for clergy abuse files
-> were ignored. Piscitelli resorted to handing out flyers and picketing outside
-> the district attorney’s office on San Francisco’s McAllister Street.
-> - Lee Fang, investigative reporter (https://www.leefang.com/p/kamala-harris-refused-to-assist-victims)
-
-<img src="./images/podesta14.jpg" />
-
-(Hillary Clinton campaign manager Podesta, apparently displaying symbolism of
-Osiris. Podesta and others were implicated in the PizzaGate scandal, based on
-leaked emails on WikiLeaks)
-
-Babylon overflows in Washington D.C.
-
 ### Babylon in Banking
 
 It is said that "the love of money is the root of all evil", and it appears that there is
@@ -1182,22 +1126,6 @@ vaults, never to be reclaimed by their owners who died in the wars and
 holocaust; and Hitler was the bastard grandson of a Rothschild. The same who
 worked with the Zionists to establish the State of Israel, which separately
 credits Jacob Rothschild for its founding.
-
-#### Abramović
-
-> **Volodymyr Zelensky has asked Marina Abramović, the performance artist, to
-> be an ambassador for Ukraine**.
->
-> Ms Abramović, a fierce critic of Vladimir Putin’s illegal invasion, said
-> **the Ukrainian president had asked for her help in rebuilding schools**.
-> The 76-year-old Serbian is holding her first solo exhibition in the UK and is
-> the first female artist to have a major show in the Main Galleries of the
-> Royal Academy of Arts in London.
-> - The Telegraph, James Crisp 2023
-
-<img src="./images/abramovic1.jpg" />
-
-<img src="./images/abramovic2.png" alt="Abramovic and Jacob Rothschild posing in front of Satan summoning his Legions"/>
 
 ## The Jubilee
 
