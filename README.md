@@ -34,6 +34,18 @@ First you must understand the differences between the following books:
    Talmud. The Karaites comprised a significant portion of the world Jewish
    population in the 10th and 11th centuries CE, and remain extant, although
    they currently number in the thousands._
+ * We are commanded to love our enemies, and to pray for them. And to judge not
+   lest we be judge ourselves. It's important to keep in mind that even as the
+   eschatological end times unfold before our eyes that we keep these
+   commandments in mind and not fall hastily into judgement or hate of any
+   individuals that are apparently associated with Satan or the beasts.  Even
+   while individuals are named here for the purpose of clarifying the alignment
+   of the elements of the Book of Revelation to our present day situation, I do
+   not wish any of them harm, and I do not make any judgement about their inner
+   intent which only they know. Furthermore even as I mention organizations,
+   religions, or dynasties, I do not lay judgement on any members; for example,
+   my interpretations of the role of the Vatican in eschatology does not lay
+   judgement on any members or clergy of the Catholic Church.
 
 # Why Jesus Spoke in Parables
 
