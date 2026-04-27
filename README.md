@@ -34,6 +34,9 @@ First you must understand the differences between the following books:
    Talmud. The Karaites comprised a significant portion of the world Jewish
    population in the 10th and 11th centuries CE, and remain extant, although
    they currently number in the thousands._
+
+Also, keep in mind:
+
  * We are commanded to love our enemies, and to pray for them. And to judge not
    lest we be judge ourselves. It's important to keep in mind that even as the
    eschatological end times unfold before our eyes that we keep these
@@ -45,7 +48,15 @@ First you must understand the differences between the following books:
    intent which only they know. Furthermore even as I mention organizations,
    religions, or dynasties, I do not lay judgement on any members; for example,
    my interpretations of the role of the Vatican in eschatology does not lay
-   judgement on any members or clergy of the Catholic Church.
+   judgement on any members or clergy of the Catholic Church, nor does any
+   criticism of the Bablyonian Talmud imply any judgement of the Jewish people.
+
+ * "The eye is the lamp of the body. If your eyes are good,d your whole body
+   will be full of light. But if your eyes are bad, your whole body will be full
+   of darkness. If then the light within you is darkness, how great is that
+   darkness!" - while the words of the bible are good, overly focusing on the
+   darkness of the end times prophecies probably does not make for a healthy
+   spirit.
 
 # Why Jesus Spoke in Parables
 
