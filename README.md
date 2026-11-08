@@ -163,25 +163,28 @@ using astronomy software.
 There have been many attempts to disprove the uniqueness of this sign, but
 nobody has thus far been able to disprove it.
 
-_Computed check, 8 November 2026 (see [revelation12/](./revelation12/)): every day
-from 13,200 BC to AD 17,000 was tested against the whole configuration with
-JPL's long ephemeris. The sky is not unique, but it is far rarer than the
-astronomers' "four times in a thousand years": at 2017's quality it recurs
-about once in five thousand years (1850 BC and AD 7889 are the nearest twins),
-a crown as clean as 2017's two or three times in thirty thousand years, and
-2017 is the only one with the Moon squarely under her feet. The rules, the
-table, the charts and the scripts are in that folder._
+### How rare is the sign? Computed, 8 November 2026
 
-<img src="./images/rev12alignment.jpg" />
+Every day from 13,200 BC to AD 17,000, thirty thousand years, the whole span of JPL's long ephemeris, was tested
+against the whole configuration: the Sun and Jupiter in Virgo, Mercury, Venus and Mars in Leo, the Moon at Virgo's
+feet. 103 days have the ingredients. Graded for how well they look like 23 September 2017 (Jupiter at least nine
+months in Virgo, a crown of three distinct planets on the Lion, the Moon at the feet), **six events pass in thirty
+thousand years: 12027 BC, 1850 BC, AD 2017, 7889, 11578 and 13346**, so about once in five thousand years. By eye,
+a crown as clean as 2017's appears two or three times (2017, AD 11578, arguably 13346), and **2017 is the only one
+with the Moon squarely under her feet.** Of the four recurrences the astronomers named (1056, 1293, 1483, 1827), only
+1293 has all the ingredients, and its crown is bent: Venus and Mars a single clumped point.
 
-(image source
-https://redmoonrapture.org/2017/05/24/revelation-12-a-sign-in-the-heavens-september-2017/
-; more information and resources linked to from there)
+<img src="./revelation12/images/rev12-seven-skies.png" />
+
+The method, the table, the charts and the scripts are in [revelation12/](./revelation12/), so anyone can move the
+thresholds and recount.
 
 ### Corroborating Evidence
 
 Besides the apparent encoding of the date Sept 23rd, 2017 in the Book of
-Revelation verse 12, which is already an unlikely coincidence, we have
+Revelation verse 12, which is already an unlikely coincidence (a sky of that
+quality recurs about once in five thousand years; see the computed check
+above), we have
 substantial evidence that the Book of Revelation of the "end times"
 eschatology *ought to* apply to our present year.
 
