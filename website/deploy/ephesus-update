@@ -1,0 +1,21 @@
+#!/bin/sh
+# ephesus-update [DIR]: bring the ephesus.church content, the checkout at DIR (default /srv/ephesus), to GitHub's
+# main. Installed as /usr/local/sbin/ephesus-update by website/deploy/install.sh in the ephesus repo, and run every
+# ten minutes by ephesus-update.timer. The server reads the pages from the checkout on every request, so what this
+# brings in is live at once; only a change under website/, the server itself, waits for a redeploy
+# (website/README.md).
+set -eu
+dir=${1:-/srv/ephesus}
+export GIT_TERMINAL_PROMPT=0
+git -C "$dir" fetch -q origin main
+old=$(git -C "$dir" rev-parse HEAD)
+new=$(git -C "$dir" rev-parse FETCH_HEAD)
+if [ "$old" = "$new" ]; then
+	exit 0
+fi
+# The checkout only mirrors GitHub, so a rewritten main is followed too.
+git -C "$dir" reset -q --hard "$new"
+echo "ephesus-update: $old -> $new"
+if ! git -C "$dir" diff --quiet "$old" "$new" -- website; then
+	echo "ephesus-update: website/ changed; the server runs the old build until it is redeployed (website/README.md)"
+fi

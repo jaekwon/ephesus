@@ -1,0 +1,45 @@
+# ephesus (website/README.md in the ephesus repo), installed by website/deploy/install.sh: ephesus.church, the
+# repository rendered, on the loopback behind nginx (the box's ephesus_church site, with certbot's certificate).
+# It reads /srv/ephesus, the checkout that ephesus-update.timer keeps at GitHub's main, on every request, and runs
+# as a throwaway user that can write nothing and talk to nothing but the loopback.
+[Unit]
+Description=ephesus: ephesus.church, the ephesus repository rendered
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+ExecStart=/usr/local/bin/ephesus -listen 127.0.0.1:5001 -content /srv/ephesus
+DynamicUser=yes
+Restart=on-failure
+RestartSec=5
+UMask=0077
+MemoryMax=256M
+TasksMax=128
+NoNewPrivileges=yes
+CapabilityBoundingSet=
+ProtectSystem=strict
+ProtectHome=yes
+PrivateTmp=yes
+PrivateDevices=yes
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+ProtectKernelLogs=yes
+ProtectControlGroups=yes
+ProtectClock=yes
+ProtectHostname=yes
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+IPAddressDeny=any
+IPAddressAllow=localhost
+RestrictNamespaces=yes
+RestrictRealtime=yes
+RestrictSUIDSGID=yes
+LockPersonality=yes
+MemoryDenyWriteExecute=yes
+SystemCallArchitectures=native
+SystemCallFilter=@system-service
+SystemCallErrorNumber=EPERM
+# The server never serves a dot path; the checkout's .git is out of its sight as well.
+InaccessiblePaths=-/srv/ephesus/.git
+
+[Install]
+WantedBy=multi-user.target

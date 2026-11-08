@@ -1,0 +1,12 @@
+# Every ten minutes, pull the ephesus.church content from GitHub (ephesus-update.service), so a push to main is on
+# the site within about ten minutes. `systemctl start ephesus-update` on the box does it at once.
+[Unit]
+Description=Pull the ephesus.church content from GitHub every ten minutes
+
+[Timer]
+OnActiveSec=1min
+OnUnitActiveSec=10min
+RandomizedDelaySec=30
+
+[Install]
+WantedBy=timers.target

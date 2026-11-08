@@ -1,5 +1,7 @@
 module github.com/jaekwon/ephesus/website
 
-go 1.23
+go 1.24
 
-require github.com/gomarkdown/markdown v0.0.0-20260217112301-37c66b85d6ab
+toolchain go1.27.3
+
+require github.com/gomarkdown/markdown v0.0.0-20260411013819-759bbc3e3207

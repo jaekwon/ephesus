@@ -8,7 +8,7 @@
 </head>
 <body>
 <div id="layout">
-{{if .TOC}}
+{{if or .TOC .Pages}}
 <nav id="toc">
 <div id="toc-inner">
 <strong><a href="/">Ephesus</a></strong>
@@ -19,8 +19,10 @@
 {{end}}
 </ul>
 {{end}}
+{{if .TOC}}
 <hr>
 {{.TOC}}
+{{end}}
 </div>
 </nav>
 {{end}}

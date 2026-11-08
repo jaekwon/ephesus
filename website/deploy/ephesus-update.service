@@ -1,0 +1,32 @@
+# Run by ephesus-update.timer: bring /srv/ephesus, the content of ephesus.church, to GitHub's main.
+# The script is website/deploy/ephesus-update in the ephesus repo, installed as /usr/local/sbin/ephesus-update.
+[Unit]
+Description=ephesus-update: pull the ephesus.church content from GitHub
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/sbin/ephesus-update
+TimeoutStartSec=5min
+# git may write the checkout and nothing else.
+ProtectSystem=strict
+ReadWritePaths=/srv/ephesus
+ProtectHome=tmpfs
+PrivateTmp=yes
+PrivateDevices=yes
+NoNewPrivileges=yes
+CapabilityBoundingSet=
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+ProtectKernelLogs=yes
+ProtectControlGroups=yes
+ProtectClock=yes
+ProtectHostname=yes
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+RestrictNamespaces=yes
+RestrictRealtime=yes
+RestrictSUIDSGID=yes
+LockPersonality=yes
+SystemCallArchitectures=native
+SystemCallFilter=@system-service
