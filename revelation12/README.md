@@ -66,11 +66,12 @@ crown is bent: Venus and Mars stood 1.1 degrees apart, a single clumped point to
 off. 1814 has Jupiter beside the Sun, having just entered Virgo, so no child. 1056, 1483 and 1827 do not have all
 the ingredients.
 
-**By eye, fewer still.** The six were drawn beside 2017 ([images/](images/)). In 2017 the three planets are
-threaded evenly from Regulus down toward Virgo's head, 6 to 7 degrees apart. AD 11578 is as clean, a compact line
-at the Lion's heart. AD 13346 is a fair arc. AD 7889 and 1850 BC are lopsided, two planets together and one apart;
-12027 BC is the weakest, low at the Lion's rear. So a crown as clean as 2017's appears two or three times in
-30,000 years.
+**By eye, fewer still: one.** The six were drawn beside 2017 ([images/](images/)). In 2017 the three planets are
+threaded evenly from Regulus down toward Virgo's head, 6 to 7 degrees apart, all inside the Lion. None of the
+others keeps that. AD 11578 puts Venus on Regulus and Mars beyond it, outside the crown. AD 13346 puts Mars on
+Regulus and Venus outside, with Mercury sagging. AD 7889 drops Mars below the Lion to the Sun's level. 12027 BC is
+low at the Lion's rear. 1850 BC is the nearest: Mars crowds Regulus and Venus and Mercury sag toward Virgo's head,
+a slumped crown. So by eye a crown as clean as 2017's appears once in 30,000 years, and it is 2017's.
 
 **In one respect 2017 stands alone:** its Moon is the only one squarely under the feet, 2.5 to 4.7 degrees off;
 the others sit 4 to 7 degrees off at best, below and east of them.
@@ -82,9 +83,9 @@ the others sit 4 to 7 degrees off at best, below and east of them.
 ## What this does and does not show
 
 It removes "unique": the sky repeats, on a scale of thousands of years. It also removes "common": the astronomers'
-"four times in a thousand years" counted a looser pattern. What is left is a sky that recurs about once in five
-thousand years, and whose nearest twins fall in 1850 BC and AD 7889, with 2017 the only one in which the Moon is
-truly at the feet. Whether that is a sign is not a question a computation answers; the computation only says how
+"four times in a thousand years" counted a looser pattern. What is left is a sky whose ingredients recur about once in five
+thousand years by rule, whose nearest neighbour by eye is 1850 BC, and that is not a twin; 2017 is the only one with
+a clean crown and the only one in which the Moon is truly at the feet. Whether that is a sign is not a question a computation answers; the computation only says how
 rare the picture is.
 
 The thresholds are choices. Set them to 2017's own values and 2017 is unique by construction; loosen them and
@@ -129,6 +130,10 @@ while building [denaro.org](https://denaro.org). His prompts, as typed (his keyb
 
 > 2397 does not hve  clen crown, mrs is *IN* the middle of the crown.
 
-The rules above were tightened in response to the second and fourth of these; the grading is Claude's
-operationalization of his eye test, and is open to his revision. The scripts, the table and the images are
+> 2397 mrs is in the crown, no point showing tht. 13346 mrs is on regulus, nd venus is outside the crown circle,
+> this is poor. sme with 11578. none of these re worth showing.
+
+The rules above were tightened in response to the second and fourth of these; the fifth is why the main page now
+shows only 1850 BC beside 2017 and calls the by-eye count one. The grading is Claude's operationalization of his
+eye test, and is open to his revision. The scripts, the table and the images are
 exactly what produced the numbers quoted.
