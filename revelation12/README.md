@@ -69,9 +69,13 @@ the ingredients.
 **By eye, fewer still: one.** The six were drawn beside 2017 ([images/](images/)). In 2017 the three planets are
 threaded evenly from Regulus down toward Virgo's head, 6 to 7 degrees apart, all inside the Lion. None of the
 others keeps that. AD 11578 puts Venus on Regulus and Mars beyond it, outside the crown. AD 13346 puts Mars on
-Regulus and Venus outside, with Mercury sagging. AD 7889 drops Mars below the Lion to the Sun's level. 12027 BC is
-low at the Lion's rear. 1850 BC is the nearest: Mars crowds Regulus and Venus and Mercury sag toward Virgo's head,
-a slumped crown. So by eye a crown as clean as 2017's appears once in 30,000 years, and it is 2017's.
+Regulus and Venus outside, with Mercury sagging. AD 7889 drops Mars below the Lion to the Sun's level. The two
+nearest: 12027 BC has 2017's even spacing, three planets six degrees apart, but wears the crown low, Mars under
+Regulus and Venus down at the Sun's rim; 1850 BC keeps the height but not the line, Mars crowding Regulus while
+Venus and Mercury sag toward Virgo's head. Neither is a twin. So by eye a crown as clean as 2017's appears once in
+30,000 years, and it is 2017's.
+
+![The two nearest, beside 2017](images/rev12-two-nearest-vs-2017.png)
 
 **In one respect 2017 stands alone:** its Moon is the only one squarely under the feet, 2.5 to 4.7 degrees off;
 the others sit 4 to 7 degrees off at best, below and east of them.
@@ -84,7 +88,7 @@ the others sit 4 to 7 degrees off at best, below and east of them.
 
 It removes "unique": the sky repeats, on a scale of thousands of years. It also removes "common": the astronomers'
 "four times in a thousand years" counted a looser pattern. What is left is a sky whose ingredients recur about once in five
-thousand years by rule, whose nearest neighbour by eye is 1850 BC, and that is not a twin; 2017 is the only one with
+thousand years by rule, whose nearest neighbours by eye are 12027 BC and 1850 BC, and neither is a twin; 2017 is the only one with
 a clean crown and the only one in which the Moon is truly at the feet. Whether that is a sign is not a question a computation answers; the computation only says how
 rare the picture is.
 
@@ -108,6 +112,7 @@ python3 tools/rev12long.py . -13000 17000
 
 # the sky on given dates, side by side (the images in images/)
 python3 tools/rev12plot.py --eph . images/rev12-seven-skies.png -12027-03-09 -01850-07-31 +02017-09-23 +02397-09-26 +07889-12-07 +11578-01-30 +13346-02-26
+python3 tools/rev12plot.py --eph . images/rev12-two-nearest-vs-2017.png -12027-03-09 -01850-07-31 +02017-09-23
 
 # the first pass, years 1 to 2100 with astropy's built-in ephemeris, no download
 python3 tools/rev12.py 1 2100

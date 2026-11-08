@@ -170,15 +170,16 @@ against the whole configuration: the Sun and Jupiter in Virgo, Mercury, Venus an
 feet. 103 days have the ingredients. Graded by rule (Jupiter at least nine months in Virgo, a crown of three
 distinct planets on the Lion, the Moon at the feet), six pass in thirty thousand years: 12027 BC, 1850 BC, AD 2017,
 7889, 11578 and 13346. Looked at, the rule is too kind. In 11578 Venus sits on Regulus and Mars outside the crown;
-in 13346 Mars sits on Regulus and Venus outside; in 7889 Mars hangs below the Lion at the Sun's level; 12027 BC is
-low at the Lion's rear; 1850 BC is the nearest, and even there Mars crowds Regulus while Venus and Mercury sag toward
-Virgo's head. **By eye, one crown in thirty thousand years is as clean as 2017's: 2017's.** It is also the only one
+in 13346 Mars sits on Regulus and Venus outside; in 7889 Mars hangs below the Lion at the Sun's level. Two come
+nearest. 12027 BC has 2017's even spacing, three planets six degrees apart, but wears the crown low: Mars under
+Regulus, Venus down at the Sun's rim in its glare. 1850 BC keeps the height but not the line: Mars crowds Regulus
+while Venus and Mercury sag toward Virgo's head. **By eye, one crown in thirty thousand years is as clean as 2017's: 2017's.** It is also the only one
 with the Moon squarely under her feet. Of the four recurrences the astronomers named (1056, 1293, 1483, 1827), only
 1293 has all the ingredients, and its crown is bent: Venus and Mars a single clumped point.
 
-The nearest runner-up beside the real thing:
+The two nearest beside the real thing:
 
-<img src="./revelation12/images/rev12-1850BC-vs-2017.png" />
+<img src="./revelation12/images/rev12-two-nearest-vs-2017.png" />
 
 The method, the table, the charts and the scripts are in [revelation12/](./revelation12/), so anyone can move the
 thresholds and recount.
